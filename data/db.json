@@ -1,0 +1,4082 @@
+{
+  "categorias": [
+    {
+      "id": "adultos",
+      "nombre": "Adultos",
+      "orden": 0
+    },
+    {
+      "id": "superheroes",
+      "nombre": "Superhéroes",
+      "orden": 1
+    },
+    {
+      "id": "personajes-y-peliculas",
+      "nombre": "Personajes y Películas",
+      "orden": 2
+    },
+    {
+      "id": "halloween-sexy",
+      "nombre": "Halloween Sexy",
+      "orden": 3
+    },
+    {
+      "id": "danzas-tipicas-del-peru",
+      "nombre": "Danzas Típicas del Perú",
+      "orden": 4
+    },
+    {
+      "id": "ninos",
+      "nombre": "Disfraces para Niños",
+      "orden": 5
+    },
+    {
+      "id": "dalinas-arlequines-payasos",
+      "nombre": "Dalinas, Arlequines y Payasos",
+      "orden": 6
+    },
+    {
+      "id": "botargas",
+      "nombre": "Botargas",
+      "orden": 7
+    },
+    {
+      "id": "juegos-show",
+      "nombre": "Juegos para Show",
+      "orden": 8
+    },
+    {
+      "id": "ositos-sorpresa",
+      "nombre": "Ositos Sorpresa",
+      "orden": 9
+    },
+    {
+      "id": "dalinas-navidad",
+      "nombre": "Dalinas de Navidad",
+      "orden": 10
+    },
+    {
+      "id": "navidad",
+      "nombre": "Disfraces de Navidad",
+      "orden": 11
+    },
+    {
+      "id": "munecos-inflables",
+      "nombre": "Muñecos Inflables",
+      "orden": 12
+    },
+    {
+      "id": "disfraces-generales-para-ninos",
+      "nombre": "Disfraces Generales para Niños",
+      "orden": 13
+    }
+  ],
+  "disfraces": [
+    {
+      "id": "67128489-f487-463e-bcc2-b8eaeb9939d6",
+      "nombre": "prueba",
+      "categoria": "halloween-sexy",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "S,M",
+      "precioAlquiler": 100,
+      "precioVenta": 100,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/549618a5-3504-444a-aee0-43408e195f67.webp"
+      ],
+      "creado": "2026-09-28T22:08:07.115Z"
+    },
+    {
+      "id": "4edd792c-4e2e-4b27-a184-197b9ab86f1d",
+      "nombre": "Payaso chaleco amarillo y azul",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/920ddeab-e31a-4818-931f-f825919af423.webp"
+      ],
+      "creado": "2026-09-28T22:05:36.392Z"
+    },
+    {
+      "id": "4a239d2e-c2c5-46f5-98f4-a38990fdd11f",
+      "nombre": "Payaso chaleco rosa",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/ef4b0c78-f34d-49a4-a480-ea4856ff198f.webp"
+      ],
+      "creado": "2026-09-28T22:05:36.353Z"
+    },
+    {
+      "id": "a9cf2f43-95e0-41ec-966a-6323fab47ccc",
+      "nombre": "Payaso chaqueta de cuadros",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/5dfe8cfe-d525-445c-8c7f-d0e2d3748523.webp"
+      ],
+      "creado": "2026-09-28T22:05:36.332Z"
+    },
+    {
+      "id": "45dc4d4a-21c1-499d-9696-25cd6bdc290d",
+      "nombre": "Payaso camisa rosa neón",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/deb89281-059d-4288-be3b-63343773414e.webp"
+      ],
+      "creado": "2026-09-28T22:05:36.306Z"
+    },
+    {
+      "id": "1fd9b66d-de28-49a4-a49d-bc17a7f4a829",
+      "nombre": "Payaso camisa azul y amarillo",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/f4caa1a1-0511-43d5-bdd7-f3bf3ab5f56b.webp"
+      ],
+      "creado": "2026-09-28T22:05:36.281Z"
+    },
+    {
+      "id": "67896f1c-1547-4483-8ac7-e4677ed59ad8",
+      "nombre": "Payaso pantalón negro y amarillo",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/69f340bf-e300-4038-aed8-3c6ee1229f9d.webp"
+      ],
+      "creado": "2026-09-28T22:05:36.256Z"
+    },
+    {
+      "id": "56782c74-a121-4022-9a8d-3e32fd7638d3",
+      "nombre": "Payaso pantalón azul y blanco",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/e2a91d94-68b4-44e4-a763-b76fd07f441d.webp"
+      ],
+      "creado": "2026-09-28T22:05:36.236Z"
+    },
+    {
+      "id": "b2fee4b5-b4bd-40cf-a9ed-172e523ab6e2",
+      "nombre": "Payaso pantalón rojo y amarillo",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/9fafeb68-f8f7-483e-861d-3fa5938ac730.webp"
+      ],
+      "creado": "2026-09-28T22:05:36.215Z"
+    },
+    {
+      "id": "4ac657f6-5ff4-479e-ab48-8649c9b5870f",
+      "nombre": "Payaso pantalón neón",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/6a869f9e-8bad-463d-8eef-367e05fe3284.webp"
+      ],
+      "creado": "2026-09-28T22:05:36.196Z"
+    },
+    {
+      "id": "2d2d3035-d1db-4853-9b23-b02fbc81a66f",
+      "nombre": "Arlequín azul, rojo y amarillo",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/2af07c3c-d170-4867-b94a-bfa9ee142293.webp"
+      ],
+      "creado": "2026-09-28T22:05:36.173Z"
+    },
+    {
+      "id": "4a848bc9-d649-48bf-935a-c0af90748375",
+      "nombre": "Arlequín negro y dorado",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/1ae17999-ac48-4aed-b68e-33659d310e39.webp"
+      ],
+      "creado": "2026-09-28T22:05:36.155Z"
+    },
+    {
+      "id": "0807dafb-4187-45ff-9d41-7db3a707b267",
+      "nombre": "Arlequín rojo, azul y amarillo",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/b9634ee0-ef0f-40b7-afa9-54492989c962.webp"
+      ],
+      "creado": "2026-09-28T22:05:36.132Z"
+    },
+    {
+      "id": "bd271322-ef85-49bb-9179-92f266dd319b",
+      "nombre": "Arlequín azul y plateado",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/9e70caa8-5cde-42ae-9b32-1d2c7655bf9c.webp"
+      ],
+      "creado": "2026-09-28T22:05:36.094Z"
+    },
+    {
+      "id": "d8b3e317-b80d-4b3e-8f61-ca07efbe9ea9",
+      "nombre": "Arlequín negro y plateado",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/5e655160-2a3d-4644-838e-11ca8de49442.webp"
+      ],
+      "creado": "2026-09-28T22:05:36.070Z"
+    },
+    {
+      "id": "dc058766-dd4b-4f29-afff-702879a8bd4c",
+      "nombre": "Arlequín rojo y plateado",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/338e545b-68f5-4045-b00f-cc6172cad218.webp"
+      ],
+      "creado": "2026-09-28T22:05:36.046Z"
+    },
+    {
+      "id": "e977af8a-4389-482e-b5b7-003098cb40cc",
+      "nombre": "Payasa jardinera amarilla y rosa",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/418bb897-c78b-42f6-9675-53324eb945d6.webp"
+      ],
+      "creado": "2026-09-28T22:05:36.024Z"
+    },
+    {
+      "id": "ef1d5ea6-ce65-4d76-9329-e93787df30aa",
+      "nombre": "Payasa jardinera roja y azul",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/30340725-bb2f-477e-a99a-44d31c5d9fa8.webp"
+      ],
+      "creado": "2026-09-28T22:05:36.004Z"
+    },
+    {
+      "id": "96fad4dd-16b4-4ef4-b669-4545970a015b",
+      "nombre": "Payasa jardinera azul y amarillo",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/8d72f63c-f6dc-4afc-87a7-bd227f9b3527.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.976Z"
+    },
+    {
+      "id": "feb07072-7f96-4e23-be60-1c460406aec2",
+      "nombre": "Payasa jardinera corazón morado y rosa",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/2d334d74-a7e9-4ed7-ae7c-4caf6ca763bd.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.958Z"
+    },
+    {
+      "id": "de3278ed-1407-4fae-ade1-79b87f18adc2",
+      "nombre": "Payasa jardinera corazón rosa y celeste",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/34b3a026-c246-4860-a38d-b06daced480c.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.902Z"
+    },
+    {
+      "id": "3e7bfd7f-5306-401e-9c9f-ace2f862439e",
+      "nombre": "Payasa jardinera corazón verde y amarillo",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/94a9d25f-fee8-4492-b41c-a89ca0503f44.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.885Z"
+    },
+    {
+      "id": "7baf7929-8474-4832-8cd0-d2efd18b3174",
+      "nombre": "Payasa jardinera corazón fucsia y azul",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/d3b0d8ec-479a-4e25-950c-38d8cd59c47d.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.866Z"
+    },
+    {
+      "id": "d88dec10-a0ef-4d5d-ba16-a0c9b324fc47",
+      "nombre": "Payasa jardinera corazón amarillo y azul",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/6262649b-131a-40b2-9518-e6a956d2d402.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.829Z"
+    },
+    {
+      "id": "952da72f-e9f6-4e4d-9694-e69c06857a6f",
+      "nombre": "Payasa jardinera corazón amarillo y rosa",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/358bad17-2094-4e7c-a8ad-9d8c3ce049c7.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.808Z"
+    },
+    {
+      "id": "d141c982-b30f-4996-89ff-b8432ab20715",
+      "nombre": "Payasa vestido celeste con lazo",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/be106a1c-6c7d-4ff8-8723-8b375b5730d1.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.787Z"
+    },
+    {
+      "id": "c55cead0-8046-412b-a9dd-25f11727f72f",
+      "nombre": "Payasa vestido rosa y celeste",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/999a73b2-fb92-4a32-ae6f-9595b3c455d0.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.770Z"
+    },
+    {
+      "id": "fc284d92-bbed-43bc-ba00-22fdb6e87629",
+      "nombre": "Payaso overol con lazo amarillo",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/670c19bb-8502-4e3f-8ee9-9ce323e9df17.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.752Z"
+    },
+    {
+      "id": "63a528cd-9e0a-41f9-9259-78a92803d216",
+      "nombre": "Payasa jardinera azul oscuro",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/3603cc9c-1f7c-497c-b5cb-6bf0bcea2572.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.729Z"
+    },
+    {
+      "id": "7acc5fed-ee16-459c-bad1-2dc4b1582295",
+      "nombre": "Payasa jardinera amarilla",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/763de270-c3d3-4113-8c87-d96f52da9b92.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.711Z"
+    },
+    {
+      "id": "08e73a34-3cad-43aa-aa9e-8230c8c6f555",
+      "nombre": "Payasa jardinera azul",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/986d4ba8-5171-4353-b7fa-e685b1f86983.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.693Z"
+    },
+    {
+      "id": "18c2b6ac-300a-46f7-b2a2-6bf76f28a045",
+      "nombre": "Dalina Mario",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/e670b22d-73ee-4600-8ced-64815116ca4f.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.675Z"
+    },
+    {
+      "id": "c6ef36a6-5dc9-4cb8-a7ee-951d011ecfff",
+      "nombre": "Dalina Luigi",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/6f63c0b5-8706-48b7-80de-92af52a3bf26.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.658Z"
+    },
+    {
+      "id": "2aaa8609-784e-495f-b63b-94749a3fa6b7",
+      "nombre": "Dalina arcoíris blanco y rojo",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/0a59a004-b71d-4ee9-ab47-f38183d10c34.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.640Z"
+    },
+    {
+      "id": "01314363-8d4f-4c27-a8a2-ffafa246db0e",
+      "nombre": "Dalina caramelo amarilla",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/4ad09aaf-e2e7-40f8-addf-7a8dedd6f241.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.620Z"
+    },
+    {
+      "id": "971f532d-5a62-41ca-b847-9777437e95ba",
+      "nombre": "Dalina caramelo celeste",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/49fd2782-8e94-4497-b9cf-792690abdf9f.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.601Z"
+    },
+    {
+      "id": "6adbfc01-c42f-4443-bfdb-00dd481b9daa",
+      "nombre": "Dalina caramelo rosa",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/8a22aec7-395d-4f26-aa29-3ddc31730b35.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.576Z"
+    },
+    {
+      "id": "740d0e25-c4c6-4259-af68-f7b353a75458",
+      "nombre": "Dalina vaquita rosa",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/0856e690-2645-46ec-9b95-fefc03117567.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.557Z"
+    },
+    {
+      "id": "0879a44f-bf76-486e-9e78-797089de999b",
+      "nombre": "Dalina confeti azul",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/cf898a47-d47e-48bb-b7a9-20f71c12e473.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.538Z"
+    },
+    {
+      "id": "082a3b85-0e0d-4b85-ad48-6f7664ee41c4",
+      "nombre": "Dalina Minnie roja y negra",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/76741dc9-0f21-4102-bd9d-006e2840c270.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.519Z"
+    },
+    {
+      "id": "979e9319-29bb-442d-bc29-bc37dac58a58",
+      "nombre": "Dalina arcoíris y rosa con caramelos",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/51c65d5d-9e9a-4ed7-b012-9ee0cc32a97f.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.501Z"
+    },
+    {
+      "id": "7d112562-68ba-4dc3-8290-b6920ca564d2",
+      "nombre": "Dalina arcoíris y amarillo con caramelos",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/032663ce-b04b-4c3e-a8d0-0c321785cb56.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.481Z"
+    },
+    {
+      "id": "b43aa23b-a805-4887-90d1-c2b19801d4af",
+      "nombre": "Dalina animal print verde",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/81e951ca-9dd2-46b2-8461-dc56cfc71ee8.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.461Z"
+    },
+    {
+      "id": "2e71062e-4c73-4d46-a892-725b205436f6",
+      "nombre": "Dalina azul y dorado",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/f5cee68f-cfe7-404a-808e-809a9abd793f.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.443Z"
+    },
+    {
+      "id": "4fb4d0de-2c2c-4b94-b436-5c93c0fc17f1",
+      "nombre": "Dalina rosa neón con arcoíris",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/ea3b78a3-a2af-40d7-8878-d79355af17ff.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.401Z"
+    },
+    {
+      "id": "1fbdac8b-7355-4cee-8085-df5d8674a951",
+      "nombre": "Dalina rosa brillante",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/3b815b13-98ef-476f-a262-920212b2c438.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.382Z"
+    },
+    {
+      "id": "1d3df0fa-fd83-4923-877a-531f1d261c5a",
+      "nombre": "Dalina rosa con dorado",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/65fd230a-8a84-4242-a7d0-cc9ef1561add.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.351Z"
+    },
+    {
+      "id": "5de80411-59ed-4c9c-96b0-96c790adf50e",
+      "nombre": "Dalina verde y azul",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/ede21bba-6e4a-49aa-9eb2-0e8021783a8f.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.325Z"
+    },
+    {
+      "id": "6d6d8035-b98c-4b27-9a93-1ea3485c8701",
+      "nombre": "Dalina plateada con lentejuelas",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/1cda1d1c-8604-4c82-8516-e4a12ce51c41.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.294Z"
+    },
+    {
+      "id": "86cb28e5-bd1a-4204-bf2d-0ed19ca21143",
+      "nombre": "Dalina celeste y dorado",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/de3d7abe-8aab-44ee-9556-2f3a7be536b1.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.276Z"
+    },
+    {
+      "id": "bf0e72cf-8104-4dfc-be2d-5e01b57df5b8",
+      "nombre": "Dalina leopardo safari",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/99a7f3f3-d3e8-41d7-bedc-ab4db44de16e.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.237Z"
+    },
+    {
+      "id": "dc797b5c-bde3-436a-a797-014116058bb9",
+      "nombre": "Dalina negro y dorado",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/202053dc-ae0b-4fe9-8748-339e0a21ca79.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.212Z"
+    },
+    {
+      "id": "957b38bf-51e6-4f68-83cc-900d93d1e424",
+      "nombre": "Dalina rosa y celeste",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/13538a71-1e7b-4350-953d-98f497bcc859.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.184Z"
+    },
+    {
+      "id": "3a937baf-48ae-41bc-bab1-856dcfdfa875",
+      "nombre": "Jardinera fucsia con lentejuelas",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/b9913780-9cc4-4fe5-98d9-67a172238707.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.155Z"
+    },
+    {
+      "id": "7504b8cd-6a3d-4b73-840e-6a64c566331e",
+      "nombre": "Jardinera rosa satinada",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/eeda9290-6a18-4c2a-99e0-fff2ecabcbd2.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.122Z"
+    },
+    {
+      "id": "45ca1057-f718-4ed8-bbd6-b6ca66e58e1c",
+      "nombre": "Dalina rosa con tul",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/60133749-72f5-486e-8e7f-b0b8e24eb7ba.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.079Z"
+    },
+    {
+      "id": "ecd9e51e-ad2c-4737-9038-ba91d623d05b",
+      "nombre": "Dalina rosa y dorado",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/6fe2e642-adfc-4728-b74b-7687d51dea3d.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.059Z"
+    },
+    {
+      "id": "cb9fd1b5-153a-4ade-bd33-70ec206b9287",
+      "nombre": "Dalina dorada",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/59a8687a-34ca-4aa8-ae32-320ee9a21ac7.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.039Z"
+    },
+    {
+      "id": "44f4cc1e-0cbd-4d4a-b7c4-8986721a697a",
+      "nombre": "Dalina roja y azul",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/4d1cc94f-ec75-4883-ba9b-6295d8388e0c.webp"
+      ],
+      "creado": "2026-09-28T22:05:35.010Z"
+    },
+    {
+      "id": "11768367-f917-4859-8a31-2228b3b86bca",
+      "nombre": "Dalina plateada iridiscente",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/2bc89bfc-3991-42a3-8961-eef7746b7b1c.webp"
+      ],
+      "creado": "2026-09-28T22:05:34.984Z"
+    },
+    {
+      "id": "999dcc6d-bd8b-4b62-978c-337c69af78f9",
+      "nombre": "Dalina Minnie roja",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/b7aa6747-f0dd-478b-b995-8f3d87d96c7b.webp"
+      ],
+      "creado": "2026-09-28T22:05:34.959Z"
+    },
+    {
+      "id": "9c87d1d0-4da3-4e52-af56-3c8ceab14923",
+      "nombre": "Dalina neón verde y rosa",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/dbfdce28-ab11-49f6-a3ae-e8174effa9db.webp"
+      ],
+      "creado": "2026-09-28T22:05:34.933Z"
+    },
+    {
+      "id": "aa67d6fc-a526-408c-a1b1-b017aeac6778",
+      "nombre": "Dalina animal print",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/3601dc64-a850-4220-85fe-bb9668f9b724.webp"
+      ],
+      "creado": "2026-09-28T22:05:34.912Z"
+    },
+    {
+      "id": "994d7099-54c4-4cf2-8732-7f23ac96de70",
+      "nombre": "Dalina confeti multicolor",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/edf9d770-fdc2-45d3-afcb-60450e6be2a5.webp"
+      ],
+      "creado": "2026-09-28T22:05:34.885Z"
+    },
+    {
+      "id": "126d8858-5811-4c49-abfb-de59a19e56ef",
+      "nombre": "Dalina azul y rosa",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/6d5aa702-b58e-4dc0-a61f-d6937f4c8b0e.webp"
+      ],
+      "creado": "2026-09-28T22:05:34.856Z"
+    },
+    {
+      "id": "a59e14db-76e0-465e-b571-f051e10dc8be",
+      "nombre": "Dalina verde y rosa",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/53ec64d8-90dd-4cf1-99b5-34d074221940.webp"
+      ],
+      "creado": "2026-09-28T22:05:34.838Z"
+    },
+    {
+      "id": "26487c99-5f48-45bc-bd9b-c61c9820f4ee",
+      "nombre": "Dalina payasa rojo y azul",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/526e24b4-7b21-4680-889c-416a95bc73ae.webp"
+      ],
+      "creado": "2026-09-28T22:05:34.820Z"
+    },
+    {
+      "id": "c2358c77-b8e8-484e-b96f-bcd78a03c5b0",
+      "nombre": "Conjunto urbano azul",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/de5f1ccd-675c-44d8-b03b-f9a9f7811ed8.webp"
+      ],
+      "creado": "2026-09-28T22:05:34.776Z"
+    },
+    {
+      "id": "7dc07461-bbe5-42c5-a8bc-09da9bcbf866",
+      "nombre": "Falda amarilla con polo negro",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/8c8855cb-b32b-4740-957d-d7cfccee463e.webp"
+      ],
+      "creado": "2026-09-28T22:05:34.752Z"
+    },
+    {
+      "id": "99ffd561-ea56-46b4-b8a8-2ca43f416e9b",
+      "nombre": "Chaqueta amarilla urbana",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/b83e16a2-2257-4fcb-b763-a3fa6ea3a1ea.webp"
+      ],
+      "creado": "2026-09-28T22:05:34.735Z"
+    },
+    {
+      "id": "1a9d759c-a3b0-45da-b412-57d4c964184b",
+      "nombre": "Conjunto negro dorado falda con cortes",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/7137a6c1-4ce0-4e57-a48f-51da99bda3e4.webp"
+      ],
+      "creado": "2026-09-28T22:05:34.716Z"
+    },
+    {
+      "id": "2306e1e5-240e-414c-a18a-9078160da5b8",
+      "nombre": "Conjunto negro top corto y falda blanca",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/1331b207-8e0e-4aa7-933e-7db5c1b965e2.webp"
+      ],
+      "creado": "2026-09-28T22:05:34.691Z"
+    },
+    {
+      "id": "46c9cdc8-6b36-400f-989f-e246b04aa674",
+      "nombre": "Conjunto militar negro con falda blanca",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/3a7b6fd6-d3c9-46bb-aed8-1ddd2f41ca74.webp"
+      ],
+      "creado": "2026-09-28T22:05:34.661Z"
+    },
+    {
+      "id": "33bbe9ca-ca40-4e12-8dbf-22ba8779ea15",
+      "nombre": "Conjunto blanco y dorado",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/d676a65e-dac8-4446-906b-0e95d3f24c8f.webp"
+      ],
+      "creado": "2026-09-28T22:05:34.637Z"
+    },
+    {
+      "id": "06669557-07e8-4c68-907d-fecaa9351b86",
+      "nombre": "Conjunto negro y dorado con pantalón plateado",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/acbd1b20-b43e-43d2-9bf3-806130158c0b.webp"
+      ],
+      "creado": "2026-09-28T22:05:34.619Z"
+    },
+    {
+      "id": "0d8af854-1fa7-4004-b6a2-f665b9655873",
+      "nombre": "Conjunto negro y dorado con tul",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/a6d418ad-e874-4dfc-b3ed-6c431233d72a.webp"
+      ],
+      "creado": "2026-09-28T22:05:34.590Z"
+    },
+    {
+      "id": "d6228d18-3b49-4a77-b801-3bef993ee8c6",
+      "nombre": "Dalina chaqueta naranja y falda azul",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/c4fa28df-c88c-4276-865a-b9904ff768a0.webp"
+      ],
+      "creado": "2026-09-28T22:05:34.572Z"
+    },
+    {
+      "id": "53c45619-433f-4559-b6af-54d403d94fb2",
+      "nombre": "Dalina lentejuelas rojo y azul con lazo",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/b29e6304-4ff6-416d-ae87-7ade28ee7510.webp"
+      ],
+      "creado": "2026-09-28T22:05:34.539Z"
+    },
+    {
+      "id": "289bfc58-71c8-4b3a-8ca6-690c5deb1ebb",
+      "nombre": "Dalina lentejuelas rojo, azul y amarillo",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/91a0d678-2952-48d9-add2-3945d0aeac49.webp"
+      ],
+      "creado": "2026-09-28T22:05:34.514Z"
+    },
+    {
+      "id": "8c41480e-2d56-4e28-8eb2-977065792f0a",
+      "nombre": "Princesa Disney niña",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.223Z",
+      "actualizado": "2026-09-28T21:53:36.269Z"
+    },
+    {
+      "id": "6ce3b416-f36c-463d-ab79-07b3052c269b",
+      "nombre": "Goku Super Saiyan niño",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.219Z",
+      "actualizado": "2026-09-28T21:53:36.273Z"
+    },
+    {
+      "id": "6b52b93f-2b28-449b-acf4-017d3d7a67c8",
+      "nombre": "Goku niño",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.217Z",
+      "actualizado": "2026-09-28T21:53:36.276Z"
+    },
+    {
+      "id": "4c9156f7-e2d4-433f-872a-dc8085b66ac3",
+      "nombre": "Demonio/Diablo niño",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.213Z",
+      "actualizado": "2026-09-28T21:53:36.279Z"
+    },
+    {
+      "id": "65a00e33-5bdc-4ce5-a93c-dfa5643b0624",
+      "nombre": "Patrulla de Cachorros (otro) niño",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.210Z",
+      "actualizado": "2026-09-28T21:53:36.285Z"
+    },
+    {
+      "id": "0e6fca9c-0d6d-417b-bc88-5a7f5bccf6cb",
+      "nombre": "Patrulla de Cachorros Chase niño",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.207Z",
+      "actualizado": "2026-09-28T21:53:36.290Z"
+    },
+    {
+      "id": "a06957a4-e978-4df7-90d6-82278e140d00",
+      "nombre": "Marinero niño",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.204Z",
+      "actualizado": "2026-09-28T21:53:36.293Z"
+    },
+    {
+      "id": "a1a3a842-9aac-4873-9766-8fdda42a36f7",
+      "nombre": "Explorador Safari niño",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.199Z",
+      "actualizado": "2026-09-28T21:53:36.296Z"
+    },
+    {
+      "id": "5984cd9e-9485-4b3f-ad32-323bb137a2c9",
+      "nombre": "Astronauta niño",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.196Z",
+      "actualizado": "2026-09-28T21:53:36.299Z"
+    },
+    {
+      "id": "8f02b7ce-6720-40b1-a9dd-50c4f4398e19",
+      "nombre": "Astronauta NASA niño",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.193Z",
+      "actualizado": "2026-09-28T21:53:36.303Z"
+    },
+    {
+      "id": "8696c542-08b0-42b6-bc95-45c0525b526a",
+      "nombre": "Gwen Stacy (Spider-Gwen) niña",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.190Z",
+      "actualizado": "2026-09-28T21:53:36.307Z"
+    },
+    {
+      "id": "c36e18bb-c992-424a-b72a-fade709c69fd",
+      "nombre": "Batichica niña",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.186Z",
+      "actualizado": "2026-09-28T21:53:36.310Z"
+    },
+    {
+      "id": "cfffd96f-5212-40cc-b878-180907e20e9a",
+      "nombre": "Mujer Maravilla niña",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.183Z",
+      "actualizado": "2026-09-28T21:53:36.314Z"
+    },
+    {
+      "id": "7c533811-b329-4247-bbab-129eece94fac",
+      "nombre": "Deadpool niño",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.180Z",
+      "actualizado": "2026-09-28T21:53:36.318Z"
+    },
+    {
+      "id": "a88e2974-a486-45f9-bc21-3fa6af6c9487",
+      "nombre": "Capitán América niño",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.176Z",
+      "actualizado": "2026-09-28T21:53:36.322Z"
+    },
+    {
+      "id": "1dbe43e6-f0b6-45d5-9b44-1c466f833afe",
+      "nombre": "Iron Man niño",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.172Z",
+      "actualizado": "2026-09-28T21:53:36.325Z"
+    },
+    {
+      "id": "51bfdab0-654c-47c4-9897-5a4279fb48de",
+      "nombre": "Hulk niño",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.169Z",
+      "actualizado": "2026-09-28T21:53:36.327Z"
+    },
+    {
+      "id": "ae4c6ae9-35e7-4f59-be78-1a5f7a172cec",
+      "nombre": "Thor niño",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.166Z",
+      "actualizado": "2026-09-28T21:53:36.330Z"
+    },
+    {
+      "id": "ae20a3a1-c87a-443a-b4b2-49ba26cfabc8",
+      "nombre": "Wolverine amarillo niño",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.162Z",
+      "actualizado": "2026-09-28T21:53:36.334Z"
+    },
+    {
+      "id": "c72a630b-fa9b-4089-b3db-4b9420c95f38",
+      "nombre": "Wolverine niño",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.158Z",
+      "actualizado": "2026-09-28T21:53:36.337Z"
+    },
+    {
+      "id": "bf1d8ef3-2fb1-484e-9721-dc82a7d529ad",
+      "nombre": "Hombre Araña niño (cuarto)",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.154Z",
+      "actualizado": "2026-09-28T21:53:36.340Z"
+    },
+    {
+      "id": "55434b8a-f185-47f7-b0be-a4e2c68ad8d2",
+      "nombre": "Hombre Araña niño (tercero)",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.151Z",
+      "actualizado": "2026-09-28T21:53:36.345Z"
+    },
+    {
+      "id": "6580c93f-64a6-4b78-ad0f-0f19b874d6f1",
+      "nombre": "Hombre Araña niño (otro)",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.148Z",
+      "actualizado": "2026-09-28T21:53:36.348Z"
+    },
+    {
+      "id": "05228ffe-7fdf-4110-b163-aa1a09356c35",
+      "nombre": "Hombre Araña niño",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.144Z",
+      "actualizado": "2026-09-28T21:53:36.351Z"
+    },
+    {
+      "id": "eda27864-9694-4fd9-a00e-498f9a3e9ff2",
+      "nombre": "Robin niño",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.140Z",
+      "actualizado": "2026-09-28T21:53:36.354Z"
+    },
+    {
+      "id": "d4e8d94b-a6d0-470d-bafa-3d32851e2a1c",
+      "nombre": "Batman niño",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.136Z",
+      "actualizado": "2026-09-28T21:53:36.357Z"
+    },
+    {
+      "id": "62140d09-aeee-46a5-aade-ccfb709440d7",
+      "nombre": "Flash niño",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.133Z",
+      "actualizado": "2026-09-28T21:53:36.361Z"
+    },
+    {
+      "id": "4a3d4ae6-2248-4e75-bf72-fbea1f49e56b",
+      "nombre": "Superman niño",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.130Z",
+      "actualizado": "2026-09-28T21:53:36.365Z"
+    },
+    {
+      "id": "019c25d9-fb38-408e-9edd-019f7967447e",
+      "nombre": "Supergirl adulto",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.128Z",
+      "actualizado": "2026-09-28T21:53:36.369Z"
+    },
+    {
+      "id": "0d146e27-a7e9-4071-a09b-4aa72419a183",
+      "nombre": "Batichica adulto",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.124Z",
+      "actualizado": "2026-09-28T21:53:36.372Z"
+    },
+    {
+      "id": "b50ff025-dbb3-47d8-957c-c6ad65e634ed",
+      "nombre": "Mujer Maravilla adulto",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.119Z",
+      "actualizado": "2026-09-28T21:53:36.374Z"
+    },
+    {
+      "id": "87a4c30c-0a76-47aa-862f-ace844363574",
+      "nombre": "Anna (Frozen)",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.116Z",
+      "actualizado": "2026-09-28T21:53:36.378Z"
+    },
+    {
+      "id": "3d626300-cceb-4019-b6d2-8fd54ebc9437",
+      "nombre": "Elsa (Frozen) con capa",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.113Z",
+      "actualizado": "2026-09-28T21:53:36.382Z"
+    },
+    {
+      "id": "02bf6f4d-bae4-420c-a7ea-cce3e7df43b5",
+      "nombre": "Ceniciella plateada",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.109Z",
+      "actualizado": "2026-09-28T21:53:36.385Z"
+    },
+    {
+      "id": "57d3ed87-4863-4591-bbaf-6085f7ebf5e2",
+      "nombre": "Ariel (La Sirenita)",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.105Z",
+      "actualizado": "2026-09-28T21:53:36.388Z"
+    },
+    {
+      "id": "1a38ee50-5dd8-4ce0-8462-249b55b22bbf",
+      "nombre": "Aurora (Bella Durmiente)",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.102Z",
+      "actualizado": "2026-09-28T21:53:36.393Z"
+    },
+    {
+      "id": "2e419a39-77b9-4ac1-b72e-15024d60661a",
+      "nombre": "Anna (Frozen) roja y morada",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.098Z",
+      "actualizado": "2026-09-28T21:53:36.397Z"
+    },
+    {
+      "id": "1ca6f0c8-f7fc-4766-8038-ccc50f240fb7",
+      "nombre": "Elsa (Frozen) azul marino",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.094Z",
+      "actualizado": "2026-09-28T21:53:36.399Z"
+    },
+    {
+      "id": "fa274067-438f-44c7-aa58-553d17fcf56a",
+      "nombre": "Elsa (Frozen) plateada",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.089Z",
+      "actualizado": "2026-09-28T21:53:36.402Z"
+    },
+    {
+      "id": "a897d959-5347-4e7d-bd9f-0a2ae6dcb4aa",
+      "nombre": "Rapunzel púrpura",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.084Z",
+      "actualizado": "2026-09-28T21:53:36.405Z"
+    },
+    {
+      "id": "bcd9052a-e075-47fd-bf87-4c7cc2263737",
+      "nombre": "Rapunzel verde",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.081Z",
+      "actualizado": "2026-09-28T21:53:36.409Z"
+    },
+    {
+      "id": "bb974d11-ab25-46a8-931c-10461abf1920",
+      "nombre": "Rapunzel magenta",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.078Z",
+      "actualizado": "2026-09-28T21:53:36.412Z"
+    },
+    {
+      "id": "20b77a90-f559-411e-a48e-416f937b2609",
+      "nombre": "Rapunzel púrpura y rosa",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.060Z",
+      "actualizado": "2026-09-28T21:53:36.416Z"
+    },
+    {
+      "id": "39feec4c-8fbb-4357-a917-0bd76d4c2d37",
+      "nombre": "Cenicienta blanca",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.042Z",
+      "actualizado": "2026-09-28T21:53:36.419Z"
+    },
+    {
+      "id": "0164f217-cdf1-4bb7-a667-89a15c39dfeb",
+      "nombre": "Cenicienta azul",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.036Z",
+      "actualizado": "2026-09-28T21:53:36.422Z"
+    },
+    {
+      "id": "046dc72e-f0da-4f6f-96c3-3f01e21b80c0",
+      "nombre": "Blancanieves falda amarilla",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.032Z",
+      "actualizado": "2026-09-28T21:53:36.424Z"
+    },
+    {
+      "id": "1540eda7-53b6-4e5b-a190-f23619b7c845",
+      "nombre": "Blancanieves rojo y azul",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.029Z",
+      "actualizado": "2026-09-28T21:53:36.428Z"
+    },
+    {
+      "id": "5df0b937-32e3-4576-a803-7cf423d13bb0",
+      "nombre": "Blancanieves en tienda",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.025Z",
+      "actualizado": "2026-09-28T21:53:36.431Z"
+    },
+    {
+      "id": "9ce345c9-63d1-4eb8-a355-f8055943b4bb",
+      "nombre": "Blancanieves amarillo",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [],
+      "creado": "2026-09-28T21:52:33.005Z",
+      "actualizado": "2026-09-28T21:53:36.434Z"
+    },
+    {
+      "id": "4b1312eb-f658-4ce1-af67-0b5238534c6f",
+      "nombre": "Blancanieves",
+      "categoria": "adultos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/a19cca30-8a0b-4c5c-9c63-ba66dd1aa1b6.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.770Z"
+    },
+    {
+      "id": "9e462ec1-9213-4128-ac15-b74c2d1f084d",
+      "nombre": "Princesa Rosa de Cuento",
+      "categoria": "adultos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/47d12954-5cd8-4369-8e70-84c24a132d36.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.766Z"
+    },
+    {
+      "id": "dd07d23d-67a9-4329-81fb-fc7406a8d9a0",
+      "nombre": "Iron Man",
+      "categoria": "superheroes",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/da47dfbb-5fa2-4326-b954-3ade81c9b25b.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.761Z"
+    },
+    {
+      "id": "bf619ca0-b71a-4876-b0cf-ecf0a7c4bb4d",
+      "nombre": "Superman con capa",
+      "categoria": "superheroes",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/badc5166-0254-4b86-930b-8326da632f82.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.756Z"
+    },
+    {
+      "id": "9d8bb75e-7151-4ab5-9275-0d46f4e95242",
+      "nombre": "Wolverine",
+      "categoria": "superheroes",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/8b570b9b-7e6b-41e3-a328-1cb7647713f1.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.752Z"
+    },
+    {
+      "id": "d77c69b1-a58c-4b1d-8842-1dd6fa303070",
+      "nombre": "Deadpool",
+      "categoria": "superheroes",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/a123231d-c506-4866-af63-1ebb1b03192b.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.747Z"
+    },
+    {
+      "id": "02bd7026-c138-4005-8b85-837332ba1fcc",
+      "nombre": "Hombre Araña Iron Spider",
+      "categoria": "superheroes",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/3ef81a50-db16-42e2-92ee-15a46655b7ab.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.742Z"
+    },
+    {
+      "id": "912d4e38-8cec-47c2-85b9-c1a7f963e5f4",
+      "nombre": "Batman",
+      "categoria": "superheroes",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/044906c4-cfb6-47a9-9d6b-848387655e69.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.736Z"
+    },
+    {
+      "id": "f1f58e8d-a831-44f3-a971-f1c317d24855",
+      "nombre": "Hombre Araña clásico",
+      "categoria": "superheroes",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/51f3f548-accc-4309-8fe8-82b648b055e9.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.732Z"
+    },
+    {
+      "id": "19d96dfb-70c3-4cee-88bd-c004b196c655",
+      "nombre": "Capitán América clásico",
+      "categoria": "superheroes",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/5f954871-0281-4c35-a427-a8fa8c0cea9c.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.727Z"
+    },
+    {
+      "id": "fd830e44-aa77-458d-a00d-9bfb2aaa787d",
+      "nombre": "Flash",
+      "categoria": "superheroes",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/f8fff860-9f38-4fb6-96cd-5ae3164c241e.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.723Z"
+    },
+    {
+      "id": "042224f4-fa17-4daf-b852-97cda01638f3",
+      "nombre": "Capitán América armadura",
+      "categoria": "superheroes",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/56fa37a5-a91d-4f06-8c49-8baf7f9edfa2.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.719Z"
+    },
+    {
+      "id": "5d3d2825-6b86-4079-a766-16434ddca66b",
+      "nombre": "Pantera Negra",
+      "categoria": "superheroes",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/59dc0452-1648-4c6e-bf8e-8c9174d0ac09.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.713Z"
+    },
+    {
+      "id": "7a706647-8205-43b4-b7cb-8bd5600c0013",
+      "nombre": "Doctor Strange",
+      "categoria": "superheroes",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/9a7eb3d6-430d-4f41-9685-e05e9f5bde6b.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.708Z"
+    },
+    {
+      "id": "859c69a5-1bab-4581-b760-71e8cec3a16d",
+      "nombre": "Gwen Araña (Spider-Gwen)",
+      "categoria": "superheroes",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/ea31687a-3717-4f4d-9234-2316946000f6.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.705Z"
+    },
+    {
+      "id": "12de9768-46a7-4c74-bc79-4f48f3e96af5",
+      "nombre": "Catwoman",
+      "categoria": "halloween-sexy",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/9f7baf99-b1d1-4848-ab31-ca7b6db98cef.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.701Z"
+    },
+    {
+      "id": "e11affb9-2c1f-4068-9a24-0f947ed3b75f",
+      "nombre": "Mujer Maravilla",
+      "categoria": "halloween-sexy",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/1b0f1c44-a832-488c-84d7-b310f96215de.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.696Z"
+    },
+    {
+      "id": "054c2c7f-d461-4b09-85cc-76f1539d90fa",
+      "nombre": "Batichica",
+      "categoria": "halloween-sexy",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/77083656-a366-4c80-aa93-6d887600f332.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.692Z"
+    },
+    {
+      "id": "91b6ad8d-e2bd-45ca-8907-4c155cd72c6b",
+      "nombre": "Supergirl falda roja",
+      "categoria": "halloween-sexy",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/0b91217b-75a2-4770-9332-4e18b2b12eef.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.687Z"
+    },
+    {
+      "id": "9d2bdaae-7518-45c5-a631-088342f7fa45",
+      "nombre": "Batichica tutú",
+      "categoria": "halloween-sexy",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/2dfacf5a-fe5f-407a-83dc-acc1987eb52b.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.683Z"
+    },
+    {
+      "id": "9d097a91-5c84-4900-b918-7a7b91acb026",
+      "nombre": "Mujer Maravilla tutú",
+      "categoria": "halloween-sexy",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/c3824cc1-d5c9-47ae-bc5c-0900fe7daddd.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.679Z"
+    },
+    {
+      "id": "4e3a35e8-39c7-4d43-b8da-ca57534ca567",
+      "nombre": "Supergirl tutú azul",
+      "categoria": "halloween-sexy",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/814c75ce-31a6-430c-9223-5f4d1731ac82.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.674Z"
+    },
+    {
+      "id": "c04f6389-82c6-488a-ace0-ba58cce00332",
+      "nombre": "El Chavo del 8",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/055cbf1a-e530-44fb-9fe9-acbc73b69509.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.669Z"
+    },
+    {
+      "id": "a6a1e602-b1f7-40d2-bbc8-58507401ffb6",
+      "nombre": "Pinocho",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/51bff687-bde6-431d-b920-3b309e0b27db.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.663Z"
+    },
+    {
+      "id": "bfe0157e-1a0d-40dc-b5c0-7af81dd3fe56",
+      "nombre": "Quico",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/a656ecaf-addc-4d43-ab70-697ca94aac40.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.660Z"
+    },
+    {
+      "id": "561b39df-0516-4e74-83d4-0df1471bcfc2",
+      "nombre": "Don Ramón",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/e2347bef-aab1-4f7e-8de6-10e126ce5e09.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.637Z"
+    },
+    {
+      "id": "e2c090a2-8cdf-4d4d-aad5-f7422110a838",
+      "nombre": "Doña Clotilde (Bruja del 71)",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/b6d080ce-4418-4d9e-a019-94f3b356fede.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.633Z"
+    },
+    {
+      "id": "af831664-1f6d-4280-a5bd-025f167a895e",
+      "nombre": "Doña Florinda con delantal",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/b41f4fd9-b37f-45ca-9be4-292ed817e0e0.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.628Z"
+    },
+    {
+      "id": "c765d240-e1db-488b-b76b-ae5c23053029",
+      "nombre": "La Chilindrina",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/40fff2d5-7e5b-41d1-ba62-0b458b0f5a25.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.624Z"
+    },
+    {
+      "id": "53bd8292-ad61-44b4-9f00-b9b3136d85bd",
+      "nombre": "Doña Florinda vestido floral",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/515371d5-6881-4754-9509-9614c1b525e4.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.619Z"
+    },
+    {
+      "id": "5e6a0d42-5734-4518-a75f-4675f2ff60d6",
+      "nombre": "Doña Florinda vestido rosado",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/ceb9e95b-a3f6-407d-94a9-afb77113b857.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.615Z"
+    },
+    {
+      "id": "f17f2ca4-4060-4870-9ad9-b430afeb73bd",
+      "nombre": "Guardia Juego del Calamar (círculo)",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/4fcea076-235e-4d6e-9d89-bdbd29bc4998.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.611Z"
+    },
+    {
+      "id": "08a6a026-7fc8-4a17-a184-620e929e5441",
+      "nombre": "Líder Juego del Calamar (impermeable negro)",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/214e2f16-0e57-4554-a8f7-075a1f993d51.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.607Z"
+    },
+    {
+      "id": "34486e50-85ec-41c3-bc11-bd1d67f73ea7",
+      "nombre": "Jugador 456 Juego del Calamar",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/0a96b1b0-29c8-45a5-bd1e-4620af1a3c7d.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.602Z"
+    },
+    {
+      "id": "2d54a388-ea49-4d61-a62d-a4d14d780fd5",
+      "nombre": "Líder Juego del Calamar (capa negra)",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/c07487ec-901e-407b-bd98-f5672cf5b007.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.597Z"
+    },
+    {
+      "id": "76bcb74e-37fa-45c6-b7fc-003561981616",
+      "nombre": "Jugador Juego del Calamar (rayas rojas)",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/f7e70fbe-026e-4241-ac45-329e1ae038cc.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.592Z"
+    },
+    {
+      "id": "0b512459-b77a-4ff4-99cb-800913ba4d49",
+      "nombre": "Chucky",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/57bbaa0f-7678-4a0b-a9d7-ab742c8ec436.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.587Z"
+    },
+    {
+      "id": "d5f2a82f-7815-4c33-8a29-4b15c36623b9",
+      "nombre": "Pennywise (Eso)",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/d75b9640-146f-4a31-b660-c5b9d51204c5.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.583Z"
+    },
+    {
+      "id": "ef4fe826-4d11-45ab-b782-6a99f067f4c8",
+      "nombre": "Preso naranja 999",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/912e71e8-e275-4eb8-9c61-5be2317b10f1.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.578Z"
+    },
+    {
+      "id": "e76698d9-eb30-4928-9eee-b62aefef62d4",
+      "nombre": "Sandy (Grease)",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/7faeb359-702e-4f3e-8f76-761741f4e5ae.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.574Z"
+    },
+    {
+      "id": "b00a4614-cfab-414f-ad7b-26a5f7af2891",
+      "nombre": "Harry Potter Gryffindor",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/f495e107-baed-4b5b-b8f7-57a9de7e015e.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.570Z"
+    },
+    {
+      "id": "f59993f6-c225-4e78-abfe-a2321317a8a9",
+      "nombre": "Harry Potter Slytherin",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/daed22bc-c449-4450-8eb5-fd369aa3a7fc.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.566Z"
+    },
+    {
+      "id": "82470ba0-ec12-4832-97c7-dc6ba6dcd709",
+      "nombre": "Ash Ketchum (Pokémon)",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/91def2a2-7c91-4ea9-b1fb-d81b2ed0c3fc.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.561Z"
+    },
+    {
+      "id": "3ac7df9f-0cb4-4088-93bc-8cbe02e1cdbb",
+      "nombre": "Goku",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/b29b9895-1b5d-4e6e-9448-30223a1e58bb.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.556Z"
+    },
+    {
+      "id": "29afa869-b0af-48ae-82d1-05a8a2795986",
+      "nombre": "Tanjiro (Demon Slayer)",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/4ab4c0d5-169c-458d-99b0-18ab9e476a4b.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.551Z"
+    },
+    {
+      "id": "60b58da0-df57-4f2e-8964-3eace6a906fc",
+      "nombre": "Giyu Tomioka (Demon Slayer)",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/24d9083d-2344-4c11-8af4-13c45e2e19da.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.547Z"
+    },
+    {
+      "id": "9082aef6-8205-4e98-8be0-e1032b19bf5e",
+      "nombre": "Shinobu Kocho (Demon Slayer)",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/24f89b47-4cdf-4e76-baa2-fe1b3df9e5ac.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.542Z"
+    },
+    {
+      "id": "a4060bf8-b503-4c3d-9779-c981cbd055c7",
+      "nombre": "Kanao Tsuyuri (Demon Slayer)",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/ca6402b1-8847-4d18-9910-0f23b68ddf1e.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.537Z"
+    },
+    {
+      "id": "7e973d12-3231-400f-8434-e673777e8f55",
+      "nombre": "Woody (Toy Story)",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/3c85b006-93b4-4c45-84bd-6adad629dddc.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.533Z"
+    },
+    {
+      "id": "df44afd5-5a4d-42ed-bc68-6507eee52b24",
+      "nombre": "La Máscara traje amarillo",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/22a66bb9-f4b3-48c3-9cf4-6e601649efdb.webp",
+        "/uploads/327340c9-9dd5-403e-b108-b804fecb96ad.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.527Z"
+    },
+    {
+      "id": "f883a8dd-0c98-4930-b775-b70da66ab8e4",
+      "nombre": "Mario Bros",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/b9fb234b-790d-4671-9b43-400f135cc897.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.520Z"
+    },
+    {
+      "id": "3ac1049e-eb55-4d5c-b3f3-f5eaebb1e767",
+      "nombre": "Luigi",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/4227a176-450a-4d0f-a7ad-c903e8dee10b.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.515Z"
+    },
+    {
+      "id": "d854b5ba-933a-4644-b9c8-fcd3461d4f5e",
+      "nombre": "Mario mujer",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/f0c342fb-e8d1-4f2e-89a9-0d74733dbd4e.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.510Z"
+    },
+    {
+      "id": "90908599-7aed-423c-9d17-f65bf916a5a2",
+      "nombre": "Luigi mujer",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/1975f684-d2e1-46b0-be99-90c337d8b4b0.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.506Z"
+    },
+    {
+      "id": "68dee444-f5e6-4b22-ae4b-c0bc174f1bce",
+      "nombre": "Príncipe capa roja y azul",
+      "categoria": "adultos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/0f941ca6-c2d7-42d5-bf8f-4e066ae36e83.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.501Z"
+    },
+    {
+      "id": "1aed711b-da9e-4b19-af62-44b957a9bec8",
+      "nombre": "Príncipe azul y blanco",
+      "categoria": "adultos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/b06a4fe2-4e80-4f43-a6cd-cfade4d314aa.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.495Z"
+    },
+    {
+      "id": "0d066933-89fd-411f-b4ce-a20aa447f597",
+      "nombre": "Príncipe capa roja y pantalón rojo",
+      "categoria": "adultos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/16041d42-1df4-4771-b6aa-34b38f94c212.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.485Z"
+    },
+    {
+      "id": "d80ab5f7-2070-45a7-90eb-d96eb572525b",
+      "nombre": "Michael Jackson Thriller",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/bf212bde-f16f-4282-9247-92f4a2a13493.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.468Z"
+    },
+    {
+      "id": "baf9aac1-cc7f-4786-8559-432428f68aad",
+      "nombre": "Michael Jackson plateado",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/65b451c0-6a7d-4ae8-a12f-b30b7d59ce9b.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.454Z"
+    },
+    {
+      "id": "913c206e-70e1-4715-9680-f98cce659198",
+      "nombre": "Mal (Descendientes)",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/74bd56e2-d3c9-42c5-9442-b450bf44d01e.webp"
+      ],
+      "creado": "2026-09-28T21:38:18.450Z"
+    },
+    {
+      "id": "c8d7bf02-b8a9-4156-8b9e-e1763408c7f1",
+      "nombre": "Aladdín crema y naranja",
+      "categoria": "adultos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/711fa486-a2f6-4bab-9e27-12d4d4aed1c2.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.672Z"
+    },
+    {
+      "id": "ac2b883d-0c70-41d7-9828-bb8e4fa83f30",
+      "nombre": "Príncipe Ali blanco y dorado",
+      "categoria": "adultos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/cf3cbc12-103b-4e46-b01e-47d31629894e.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.667Z"
+    },
+    {
+      "id": "c5300cbe-4df1-4d64-a259-3c581087e6e0",
+      "nombre": "Aladdín azul y amarillo",
+      "categoria": "adultos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/699afb15-ac30-4bf0-9326-e7ba50d5c7e0.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.662Z"
+    },
+    {
+      "id": "5853e8d0-9fe2-4369-8c55-3fc4f33d0bac",
+      "nombre": "Aladdín marrón",
+      "categoria": "adultos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/90fa2e9a-dafb-403a-987b-f083ed7227ef.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.657Z"
+    },
+    {
+      "id": "30c8ecb8-c6d7-4d99-a2e1-941a4b34015b",
+      "nombre": "Jazmín (Jasmine)",
+      "categoria": "adultos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/4b90ecea-09d7-4a58-8650-38cb1fd0d91c.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.652Z"
+    },
+    {
+      "id": "6adf7e43-b993-48d3-ba3f-c484541fdb91",
+      "nombre": "Ariel Sirena",
+      "categoria": "adultos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/1d2cc5c7-7e04-4de7-8e14-0f72f9da0307.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.645Z"
+    },
+    {
+      "id": "fc57d35f-f56c-4763-b31e-b6072ec22a7f",
+      "nombre": "La Máscara rumbera (camisa azul)",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/47a361c8-7767-43d2-a747-a673f09f4938.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.640Z"
+    },
+    {
+      "id": "e22185f2-9f26-4990-b6df-90ab284c2cc7",
+      "nombre": "Campanita vestido corto",
+      "categoria": "adultos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/38486b57-d7bd-4478-84cd-e371dd0acb77.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.620Z"
+    },
+    {
+      "id": "d4cd2e42-418a-4dcd-b567-e4a850081a8c",
+      "nombre": "Maléfica corta",
+      "categoria": "halloween-sexy",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/4bc44e1c-3ed0-4cd8-848b-920c9d55f201.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.616Z"
+    },
+    {
+      "id": "4a166f02-9f8a-4819-96e6-9e001c3c2242",
+      "nombre": "Maléfica larga",
+      "categoria": "adultos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/a4902e0d-01f8-4664-8a81-8e3e0e6e19ae.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.610Z"
+    },
+    {
+      "id": "145de768-3169-447b-9770-114c6da577e7",
+      "nombre": "Campanita con alas",
+      "categoria": "adultos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/dedf7053-bd55-4572-9d75-43975746537c.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.606Z"
+    },
+    {
+      "id": "992b495e-a005-41db-a93b-1fd7ba6c4f83",
+      "nombre": "Astronauta NASA",
+      "categoria": "adultos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/9d9da305-49c3-44af-abd5-a441c77e07ca.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.601Z"
+    },
+    {
+      "id": "823856a5-a97e-43b6-bbc4-32a011c22231",
+      "nombre": "Astronauta plateado",
+      "categoria": "adultos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/53f70760-4c4c-4a5f-b13d-3783086bf80d.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.597Z"
+    },
+    {
+      "id": "6054369f-c1ab-4054-bfa5-5adf56061b7e",
+      "nombre": "Mago con capa",
+      "categoria": "adultos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/400c54a3-b16d-4c5c-bb22-04f59f2991ef.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.591Z"
+    },
+    {
+      "id": "eb4ad9b5-c312-40d6-99ba-e089e79fab89",
+      "nombre": "Reina de Corazones",
+      "categoria": "halloween-sexy",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/d7ac096c-fb01-47bf-aeaa-120ddcc10c8d.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.587Z"
+    },
+    {
+      "id": "ec1025b1-bf72-4425-99e5-98257b2aef59",
+      "nombre": "Mimo con overol",
+      "categoria": "dalinas-arlequines-payasos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/bbc360dd-246c-4c3b-b809-7e92f1308735.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.582Z"
+    },
+    {
+      "id": "e937d8bb-f001-45ce-873d-f8fe7537b9d7",
+      "nombre": "Barbie vestido de cuadros",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/f474c049-5188-4f56-82ee-58e4d900f447.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.578Z"
+    },
+    {
+      "id": "2ce5fa20-d4a9-4fe8-89f6-b029d4862222",
+      "nombre": "Faraón egipcio",
+      "categoria": "adultos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/5f5bcc8e-3fed-4aa4-bb2f-b1acedc17ffb.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.574Z"
+    },
+    {
+      "id": "a7f27121-dbab-4ab0-bb3f-193dfbf5c3e2",
+      "nombre": "Moana",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/093dd326-9257-4128-845f-4217ef9a3c8a.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.570Z"
+    },
+    {
+      "id": "6f2750b4-4463-436a-9d76-9de7b61d951d",
+      "nombre": "Cazafantasmas",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/71c71cb8-091d-486e-abd3-3b245826ef82.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.563Z"
+    },
+    {
+      "id": "32a88d29-668a-4c76-ba1f-a0ef056ab7d2",
+      "nombre": "La Casa de Papel",
+      "categoria": "personajes-y-peliculas",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/916bcda7-3915-4efc-9481-34c225fa24ba.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.559Z"
+    },
+    {
+      "id": "40508ea1-b72a-40d8-8500-65d4426258a6",
+      "nombre": "Sheriff vaquero",
+      "categoria": "adultos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/61e28e85-fbcf-4cda-8982-6c1710b86fa4.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.555Z"
+    },
+    {
+      "id": "d0ae836b-5199-4a7d-b059-6c7a55f9f20f",
+      "nombre": "Caperucita Roja vestido rojo",
+      "categoria": "adultos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/47754241-c83e-4af1-8bdf-6c65420935f2.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.549Z"
+    },
+    {
+      "id": "6a97fc8b-560d-446e-b450-eb826f284784",
+      "nombre": "Pueblerina falda roja",
+      "categoria": "adultos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/8c9e3148-e1cd-4b3b-98f0-0f2dd716bc7f.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.545Z"
+    },
+    {
+      "id": "b77f45a0-c9e8-42b2-a833-5878b0bb2d26",
+      "nombre": "Pueblerina falda azul",
+      "categoria": "adultos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/47c15459-b58a-4877-9648-8925dcb6d769.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.541Z"
+    },
+    {
+      "id": "b61037dc-0d6c-4c5c-8f1a-55e7e55396d2",
+      "nombre": "Explorador safari",
+      "categoria": "adultos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/45d2e5ad-c91b-4f36-a53d-ff5271953178.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.534Z"
+    },
+    {
+      "id": "dabb4bb2-b41b-4e5b-bcef-ca4428082909",
+      "nombre": "Caperucita Roja con delantal",
+      "categoria": "adultos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/d2d14490-fbc4-48ea-be56-fcd585da687a.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.530Z"
+    },
+    {
+      "id": "9956de8c-5cb1-46d9-9193-db4c9825566a",
+      "nombre": "Monja",
+      "categoria": "adultos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/3ac6e3d2-54ce-4dc4-8d45-ae38fa5fad05.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.525Z"
+    },
+    {
+      "id": "425de5fc-473b-47d9-99e3-8274c6cf20d5",
+      "nombre": "Monje con cruz dorada",
+      "categoria": "adultos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/03461eb7-5f3c-4eca-859b-73b3ebe5d53d.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.520Z"
+    },
+    {
+      "id": "fbd12100-4540-4d89-b612-3390c2a82fc2",
+      "nombre": "Pirata hombre",
+      "categoria": "adultos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/07d3e03e-0e7f-45db-9e58-499841f65301.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.516Z"
+    },
+    {
+      "id": "71d34b30-a064-446f-b21c-44ce27391c55",
+      "nombre": "Pirata mujer",
+      "categoria": "halloween-sexy",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/adba772f-d2f7-4345-bd94-5ef6ebedd9a3.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.512Z"
+    },
+    {
+      "id": "160d9428-c311-4fa4-a22f-943328c1db4e",
+      "nombre": "Ángel mujer",
+      "categoria": "adultos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/c46383ae-adf2-4d08-8608-8aa498acc808.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.508Z"
+    },
+    {
+      "id": "153fcf5f-e1e7-46c6-9cf5-3e5f46cdc011",
+      "nombre": "Ángel hombre",
+      "categoria": "adultos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/c9eaa3da-a39f-441e-b54c-1f0b11c2e526.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.504Z"
+    },
+    {
+      "id": "24eeb00a-dd3a-4854-b196-8a18a8de7249",
+      "nombre": "Uniforme verde con gorra (niña)",
+      "categoria": "ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/127e634d-4cab-45ac-a1f8-37c1b5fc9fba.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.500Z"
+    },
+    {
+      "id": "5d115325-5cf2-4a08-a7e1-e8c3265dfa6b",
+      "nombre": "Uniforme verde con gorra (niño)",
+      "categoria": "ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/80ce0b17-1003-4130-98be-4fb23c05fde2.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.495Z"
+    },
+    {
+      "id": "782e4eb4-2100-468c-972d-13c511e130b4",
+      "nombre": "Militar camuflado",
+      "categoria": "adultos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/40af0403-2f3f-46b7-8988-79a2c59638ec.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.486Z"
+    },
+    {
+      "id": "bdf26aac-fa4d-4e46-b1e2-ddad9e6ee2cf",
+      "nombre": "Bombero (niño)",
+      "categoria": "ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/2e2aaed3-ce22-4e37-a6be-3eca155faa4f.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.479Z"
+    },
+    {
+      "id": "4682210f-0170-476f-a32b-d21789224212",
+      "nombre": "Poncho blanco con pañuelo rojo",
+      "categoria": "danzas-tipicas-del-peru",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/82586387-34c9-4c80-979a-af45493cea85.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.474Z"
+    },
+    {
+      "id": "ddfe7daf-5969-49e8-be90-ae46760a4689",
+      "nombre": "Campesina blusa blanca y falda fucsia",
+      "categoria": "danzas-tipicas-del-peru",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/cd8e33c6-739d-4885-85d5-1a78ad317c44.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.470Z"
+    },
+    {
+      "id": "0372e219-5495-4227-b565-95f415077081",
+      "nombre": "Traje típico bordado (niña)",
+      "categoria": "ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/f0ee5c6a-2e59-4064-9e24-c9b34eea29d0.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.466Z"
+    },
+    {
+      "id": "acd0fd3e-b1e0-4a8b-a159-c66cdbed5523",
+      "nombre": "Traje típico chaleco negro (varón)",
+      "categoria": "danzas-tipicas-del-peru",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/568f131e-b371-44a5-aaef-a9bebf092cdd.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.461Z"
+    },
+    {
+      "id": "a4ece41b-d693-490b-8768-ec52b4373e2f",
+      "nombre": "Campesina blusa amarilla",
+      "categoria": "danzas-tipicas-del-peru",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/56f8ea5f-e542-49e4-97f0-2395fb98e801.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.456Z"
+    },
+    {
+      "id": "2bacf465-2cdc-4fbc-829a-6c38ba40613b",
+      "nombre": "Poncho marrón con sombrero de paja",
+      "categoria": "danzas-tipicas-del-peru",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/3833149f-5c3c-4301-93fa-88054b2d2bbf.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.451Z"
+    },
+    {
+      "id": "fb18aeee-e4b4-4156-be5b-83117464a2f2",
+      "nombre": "Campesina blusa azul con faja",
+      "categoria": "danzas-tipicas-del-peru",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/2f350774-f3eb-4274-8182-467cbdad2d2f.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.445Z"
+    },
+    {
+      "id": "26ee4e2d-23fc-4353-a29e-9e32f2adb208",
+      "nombre": "Pastor andino con awayo",
+      "categoria": "danzas-tipicas-del-peru",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/87bb17e9-9db9-4545-b803-5ad35f5bf330.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.440Z"
+    },
+    {
+      "id": "327a0972-b8c4-470d-8dbb-728b44cc5b80",
+      "nombre": "Cusqueña con manta bordada",
+      "categoria": "danzas-tipicas-del-peru",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/45bf51b8-3499-4cbf-8499-ad8cb0f5d414.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.437Z"
+    },
+    {
+      "id": "f4960bec-7e44-4618-acb6-6f4c2ba60fc8",
+      "nombre": "Mariachi charro negro",
+      "categoria": "adultos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/dfb19134-f9dc-4f4f-b393-5568cacbe045.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.432Z"
+    },
+    {
+      "id": "26f466b3-bd95-483f-872a-947f6dc089aa",
+      "nombre": "Traje negro con dorado (varón)",
+      "categoria": "danzas-tipicas-del-peru",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/22e09e4b-3b32-4f22-8a75-b0adeb6d0c22.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.429Z"
+    },
+    {
+      "id": "72ff3b71-9235-4c06-9f9c-7dbf7c96023b",
+      "nombre": "Traje negro con dorado (mujer)",
+      "categoria": "danzas-tipicas-del-peru",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/2ec2fe68-ae18-4240-920b-533089b2404e.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.423Z"
+    },
+    {
+      "id": "e173e75d-2df3-419d-921c-184e4467d321",
+      "nombre": "Traje negro y dorado (niño)",
+      "categoria": "ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/7b49b77c-1345-41c4-9c20-4d3d976836bb.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.418Z"
+    },
+    {
+      "id": "5f85aa4d-af6a-43e5-b69a-383912610594",
+      "nombre": "Vestido negro con mariposa dorada (niña)",
+      "categoria": "ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/ebdbc0b0-95e5-4ff8-952b-7b56eeae9cf8.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.414Z"
+    },
+    {
+      "id": "675bb3b2-adbe-4884-a58d-feb3caac7f49",
+      "nombre": "Cusqueño con chullo y chaleco rojo",
+      "categoria": "danzas-tipicas-del-peru",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/4f9c1488-21f5-4f1d-ace8-a2ce11e7069d.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.400Z"
+    },
+    {
+      "id": "1970029f-a2b1-4a32-a19a-c3a34d534c70",
+      "nombre": "Cusqueña roja con pompones",
+      "categoria": "danzas-tipicas-del-peru",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/af5ce07e-0767-4afc-9906-c2006cfc37cf.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.385Z"
+    },
+    {
+      "id": "3037c4e6-548f-4e68-8a5c-758419a57c71",
+      "nombre": "Traje chaleco negro bordado",
+      "categoria": "danzas-tipicas-del-peru",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/3a8875fb-f6d0-41a7-9efe-7a16be1ff1db.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.381Z"
+    },
+    {
+      "id": "048d69bb-c5b9-4898-87f1-e4d72fc93831",
+      "nombre": "Pastora con falda verde bordada",
+      "categoria": "danzas-tipicas-del-peru",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/c436e794-7344-4326-982f-142047d0e107.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.376Z"
+    },
+    {
+      "id": "64a5f749-5b77-48aa-9150-11bbbd526880",
+      "nombre": "Shipibo (varón)",
+      "categoria": "danzas-tipicas-del-peru",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/fa7e5547-4feb-42c7-b42d-19950f54f79a.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.371Z"
+    },
+    {
+      "id": "44a21df5-d7fc-4202-aa75-2fcbbcf44132",
+      "nombre": "Shipibo (mujer)",
+      "categoria": "danzas-tipicas-del-peru",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/ba1804ef-fb1f-4708-9e09-eeed4c24e4c4.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.360Z"
+    },
+    {
+      "id": "283b321e-dd5a-4952-839a-cba49e173f44",
+      "nombre": "Danza amazónica lunares rojos (varón)",
+      "categoria": "danzas-tipicas-del-peru",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/a4cf75e4-aff3-4030-b5af-0a187f874ee8.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.344Z"
+    },
+    {
+      "id": "c6a6ddb8-377b-45c4-a2d1-8faf22f3583f",
+      "nombre": "Danza amazónica lunares rojos (mujer)",
+      "categoria": "danzas-tipicas-del-peru",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/69eb1304-f869-4556-ba23-3aa121f71c35.webp"
+      ],
+      "creado": "2026-09-28T21:38:09.338Z"
+    },
+    {
+      "id": "83821105-4fee-4a42-b38a-869240dde352",
+      "nombre": "Princesa Cenicienta",
+      "categoria": "adultos",
+      "modalidad": "ambos",
+      "descripcion": "Vestido celeste con mangas abullonadas blancas y guantes.",
+      "tallas": "S, M, L",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/17f0d380-27c7-441f-afa2-4718f56c8cdb.webp"
+      ],
+      "creado": "2026-09-28T20:25:36.837Z",
+      "actualizado": "2026-09-28T21:38:18.779Z"
+    },
+    {
+      "id": "28d59705-bc5d-45b2-8d5d-30170d80f633",
+      "nombre": "Princesa del Mar",
+      "categoria": "adultos",
+      "modalidad": "ambos",
+      "descripcion": "Vestido verde agua con corsé morado brillante y peluca pelirroja.",
+      "tallas": "S, M, L",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/f4b625d3-b3b9-481c-9a89-5ae7a5a76b77.webp"
+      ],
+      "creado": "2026-09-28T20:25:36.820Z",
+      "actualizado": "2026-09-28T21:38:18.782Z"
+    },
+    {
+      "id": "2da59778-c8cd-4656-aa1d-b202edcde138",
+      "nombre": "Princesa Rosa Durmiente",
+      "categoria": "adultos",
+      "modalidad": "ambos",
+      "descripcion": "Vestido fucsia con cuello blanco satinado y mangas de tul.",
+      "tallas": "S, M, L",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/aa94a099-ae1d-4e4a-a124-a85d6d634e26.webp"
+      ],
+      "creado": "2026-09-28T20:25:36.802Z",
+      "actualizado": "2026-09-28T21:38:18.788Z"
+    },
+    {
+      "id": "8e59d5ca-a860-46d6-8e0a-beb310b6270c",
+      "nombre": "Princesa Bella",
+      "categoria": "adultos",
+      "modalidad": "ambos",
+      "descripcion": "Vestido amarillo de gala con guantes largos y peluca.",
+      "tallas": "S, M, L",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": true,
+      "imagenes": [
+        "/uploads/0444b891-f84b-4d94-a1d0-c6a5c969e197.webp"
+      ],
+      "creado": "2026-09-28T20:25:36.770Z",
+      "actualizado": "2026-09-28T21:38:18.791Z"
+    },
+    {
+      "id": "cc5e3ec3-4d60-4b16-8e06-82c60756755f",
+      "nombre": "Princesa de la Torre",
+      "categoria": "adultos",
+      "modalidad": "ambos",
+      "descripcion": "Vestido lila con corsé rosado y mangas abullonadas. Incluye peluca trenzada larga.",
+      "tallas": "S, M, L",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": true,
+      "imagenes": [
+        "/uploads/4d146d40-af68-45d5-81b3-d2f5ede22c5f.webp"
+      ],
+      "creado": "2026-09-28T20:25:36.738Z",
+      "actualizado": "2026-09-28T21:38:18.795Z"
+    },
+    {
+      "id": "7bf3c485-c488-4ed8-af09-13cd075f42c6",
+      "nombre": "Reina de las Nieves",
+      "categoria": "adultos",
+      "modalidad": "ambos",
+      "descripcion": "Vestido turquesa con capa de tul brillante. Incluye peluca con trenza.",
+      "tallas": "S, M, L",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": true,
+      "imagenes": [
+        "/uploads/268cb374-0304-4214-a92b-199f39588893.webp"
+      ],
+      "creado": "2026-09-28T20:25:36.710Z",
+      "actualizado": "2026-09-28T21:38:18.798Z"
+    }
+  ]
+}

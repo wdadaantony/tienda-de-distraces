@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <title>Administrador · Disfraces Perú</title>
+  <link rel="icon" href="/img/logo.jpg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lilita+One&family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/site.css">
+  <link rel="stylesheet" href="/css/admin.css">
+</head>
+<body class="admin">
+
+  <!-- LOGIN -->
+  <section class="login" id="login" hidden>
+    <form class="login__card" id="loginForm">
+      <img src="/img/logo.jpg" alt="Disfraces Perú" width="120" height="120">
+      <h1>Panel administrador</h1>
+      <p>Ingresa tu usuario y contraseña para gestionar el catálogo.</p>
+      <label class="field">
+        <span>Usuario</span>
+        <input type="text" id="usuario" autocomplete="username" autocapitalize="none" spellcheck="false" required autofocus>
+      </label>
+      <label class="field">
+        <span>Contraseña</span>
+        <input type="password" id="password" autocomplete="current-password" required>
+      </label>
+      <p class="form-error" id="loginError" role="alert"></p>
+      <button class="btn btn--primary btn--lg btn--block" type="submit">Ingresar</button>
+      <a class="login__back" href="/">← Volver a la página</a>
+    </form>
+  </section>
+
+  <!-- APP -->
+  <div class="app" id="app" hidden>
+    <header class="a-header">
+      <div class="wrap a-header__inner">
+        <a href="/admin" class="brand">
+          <img src="/img/logo.jpg" alt="" width="44" height="44">
+          <span class="brand__text">Disfraces <em>Perú</em><small>Administrador</small></span>
+        </a>
+        <div class="a-header__actions">
+          <a class="btn btn--ghost-dark" href="/" target="_blank" rel="noopener">Ver página</a>
+          <button class="btn btn--ghost-dark" type="button" id="logout">Salir</button>
+        </div>
+      </div>
+    </header>
+
+    <main class="wrap a-main">
+      <nav class="tabs" role="tablist">
+        <button type="button" role="tab" aria-selected="true" data-tab="items">Disfraces <span class="tabs__n" id="nItems">0</span></button>
+        <button type="button" role="tab" aria-selected="false" data-tab="bulk">Carga rápida</button>
+        <button type="button" role="tab" aria-selected="false" data-tab="cats">Categorías <span class="tabs__n" id="nCats">0</span></button>
+      </nav>
+
+      <!-- ITEMS -->
+      <section class="panel" data-panel="items">
+        <div class="toolbar">
+          <label class="search">
+            <svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M10.5 3a7.5 7.5 0 0 1 6 12l4.3 4.3-1.5 1.5-4.3-4.3A7.5 7.5 0 1 1 10.5 3Zm0 2a5.5 5.5 0 1 0 0 11 5.5 5.5 0 0 0 0-11Z"/></svg>
+            <input type="search" id="aq" placeholder="Buscar disfraz…" aria-label="Buscar disfraz">
+          </label>
+          <select id="acat" aria-label="Filtrar por categoría"></select>
+          <button class="btn btn--primary" type="button" id="newItem">+ Nuevo disfraz</button>
+        </div>
+        <div class="list" id="list"></div>
+        <div class="a-empty" id="listEmpty" hidden>
+          <p><strong>Aún no hay disfraces aquí.</strong></p>
+          <p>Crea uno con “Nuevo disfraz” o sube muchas fotos a la vez en “Carga rápida”.</p>
+        </div>
+      </section>
+
+      <!-- BULK -->
+      <section class="panel" data-panel="bulk" hidden>
+        <div class="bulk">
+          <div class="bulk__intro">
+            <h2>Carga rápida</h2>
+            <p>Sube muchas fotos a la vez: cada foto se convierte en un disfraz. Después puedes editar cada uno para agregar descripción, tallas o más fotos.</p>
+          </div>
+          <div class="bulk__opts">
+            <label class="field"><span>Categoría</span><select id="bCat"></select></label>
+            <label class="field"><span>Modalidad</span>
+              <select id="bMode">
+                <option value="ambos">Alquiler y venta</option>
+                <option value="alquiler">Solo alquiler</option>
+                <option value="venta">Solo venta</option>
+              </select>
+            </label>
+            <label class="field"><span>Precio alquiler (S/)</span><input type="number" id="bRent" min="0" step="0.5" placeholder="Opcional"></label>
+            <label class="field"><span>Precio venta (S/)</span><input type="number" id="bSale" min="0" step="0.5" placeholder="Opcional"></label>
+          </div>
+          <label class="switch bulk__split"><input type="checkbox" id="bSplit"><span></span> Mis fotos son capturas con varios disfraces (separarlas automáticamente)</label>
+          <label class="drop" id="bDrop">
+            <input type="file" id="bFiles" accept="image/jpeg,image/png,image/webp" multiple hidden>
+            <strong>Arrastra aquí las fotos</strong>
+            <span>o haz clic para elegirlas · JPG, PNG o WEBP</span>
+          </label>
+          <div class="bulk__list" id="bList"></div>
+          <div class="bulk__footer" id="bFooter" hidden>
+            <button class="btn btn--ghost-dark" type="button" id="bClear">Quitar todas</button>
+            <button class="btn btn--primary btn--lg" type="button" id="bUpload">Subir disfraces</button>
+          </div>
+          <div class="progress" id="bProgress" hidden><div class="progress__bar" id="bBar"></div><span id="bText"></span></div>
+        </div>
+      </section>
+
+      <!-- CATEGORIES -->
+      <section class="panel" data-panel="cats" hidden>
+        <form class="cat-add" id="catForm">
+          <label class="field"><span>Nueva categoría</span><input id="catName" maxlength="80" placeholder="Ej. Superhéroes" required></label>
+          <button class="btn btn--primary" type="submit">Agregar</button>
+        </form>
+        <p class="hint">Usa las flechas para cambiar el orden en que aparecen en la página. Para eliminar una categoría primero debe estar vacía.</p>
+        <ul class="cat-list" id="catList"></ul>
+      </section>
+    </main>
+  </div>
+
+  <!-- EDITOR -->
+  <dialog class="modal editor" id="editor" aria-labelledby="edTitle">
+    <form id="edForm" novalidate>
+      <header class="editor__head">
+        <h2 id="edTitle">Nuevo disfraz</h2>
+        <button type="button" class="modal__close" data-close aria-label="Cerrar">×</button>
+      </header>
+      <div class="editor__body">
+        <div class="editor__photos">
+          <p class="field-label">Fotos <small>(la primera es la portada · máx. 8)</small></p>
+          <div class="photos" id="edPhotos"></div>
+          <label class="drop drop--sm" id="edDrop">
+            <input type="file" id="edFiles" accept="image/jpeg,image/png,image/webp" multiple hidden>
+            <strong>+ Agregar fotos</strong>
+            <span>Arrastra o haz clic</span>
+          </label>
+        </div>
+        <div class="editor__fields">
+          <label class="field"><span>Nombre *</span><input name="nombre" maxlength="120" required placeholder="Ej. Princesa de las Nieves"></label>
+          <label class="field"><span>Categoría *</span><select name="categoria" id="edCat" required></select></label>
+          <fieldset class="field">
+            <legend>Modalidad</legend>
+            <div class="radios">
+              <label><input type="radio" name="modalidad" value="ambos" checked> Alquiler y venta</label>
+              <label><input type="radio" name="modalidad" value="alquiler"> Solo alquiler</label>
+              <label><input type="radio" name="modalidad" value="venta"> Solo venta</label>
+            </div>
+          </fieldset>
+          <div class="row2">
+            <label class="field" id="fRent"><span>Precio alquiler (S/)</span><input type="number" name="precioAlquiler" min="0" step="0.5" placeholder="Vacío = consultar"></label>
+            <label class="field" id="fSale"><span>Precio venta (S/)</span><input type="number" name="precioVenta" min="0" step="0.5" placeholder="Vacío = consultar"></label>
+          </div>
+          <label class="field"><span>Tallas</span><input name="tallas" maxlength="200" placeholder="Ej. S, M, L · Niños 4 a 10 años"></label>
+          <label class="field"><span>Descripción</span><textarea name="descripcion" rows="4" maxlength="2000" placeholder="Qué incluye: vestido, peluca, corona…"></textarea></label>
+          <div class="checks">
+            <label class="switch"><input type="checkbox" name="disponible" checked><span></span> Disponible</label>
+            <label class="switch"><input type="checkbox" name="destacado"><span></span> Destacado (sale primero)</label>
+          </div>
+          <p class="form-error" id="edError" role="alert"></p>
+        </div>
+      </div>
+      <footer class="editor__foot">
+        <button type="button" class="btn btn--ghost-dark" data-close>Cancelar</button>
+        <button type="submit" class="btn btn--primary" id="edSave">Guardar</button>
+      </footer>
+    </form>
+  </dialog>
+
+  <div class="toasts" id="toasts" aria-live="polite"></div>
+
+  <script src="/js/admin.js"></script>
+</body>
+</html>
