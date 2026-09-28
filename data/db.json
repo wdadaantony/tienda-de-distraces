@@ -3598,23 +3598,6 @@
       "actualizado": "2026-09-28T22:56:02.465Z"
     },
     {
-      "id": "67128489-f487-463e-bcc2-b8eaeb9939d6",
-      "nombre": "prueba",
-      "categoria": "adultos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "S,M",
-      "precioAlquiler": 100,
-      "precioVenta": 100,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [
-        "/uploads/549618a5-3504-444a-aee0-43408e195f67.webp"
-      ],
-      "creado": "2026-09-28T22:08:07.115Z",
-      "actualizado": "2026-09-28T22:56:02.471Z"
-    },
-    {
       "id": "4edd792c-4e2e-4b27-a184-197b9ab86f1d",
       "nombre": "Payaso chaleco amarillo y azul",
       "categoria": "adultos",

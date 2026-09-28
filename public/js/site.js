@@ -203,14 +203,25 @@
   }
 
   function renderHome() {
+    const ICONS = { bebes: '🍼', ninos: '🧒', adultos: '🎭', accesorios: '🎩', botargas: '🐻' };
     $('#circles').innerHTML = state.cats.map((c, i) => {
-      const cover = state.items.find((d) => d.categoria === c.id && d.imagenes?.length)?.imagenes[0];
-      const ini = c.nombre.replace(/^(disfraces|dalinas)\s+(de|para)\s+/i, '').slice(0, 1).toUpperCase();
-      return `<a class="circle" href="/?cat=${encodeURIComponent(c.id)}" data-cat="${esc(c.id)}">
-        <span class="circle__img" style="${cover ? '' : `background:${CIRCLE_COLORS[i % CIRCLE_COLORS.length]}`}">
-          ${cover ? `<img src="${esc(cover)}" alt="" loading="lazy">` : `<span class="circle__ini">${esc(ini)}</span>`}
-        </span>
-        <span class="circle__name">${esc(c.nombre)}</span></a>`;
+      const withImg = state.items.filter((d) => d.categoria === c.id && d.imagenes?.length);
+      const feat = withImg.filter((d) => d.destacado);
+      const pool = [...feat, ...withImg.filter((d) => !d.destacado)];
+      const step = Math.max(1, Math.floor(pool.length / 3));
+      const pics = [0, 1, 2].map((k) => pool[Math.min(pool.length - 1, k * step)]?.imagenes[0]).filter(Boolean);
+      const n = state.items.filter((d) => d.categoria === c.id).length;
+      const color = CIRCLE_COLORS[i % CIRCLE_COLORS.length];
+      const art = pics.length
+        ? `<span class="cat-card__pics cat-card__pics--${Math.min(pics.length, 3)}">${pics.map((u) => `<img src="${esc(u)}" alt="" loading="lazy">`).join('')}</span>`
+        : `<span class="cat-card__empty" style="background:linear-gradient(135deg,${color},#0004),${color}"><span>${ICONS[c.id] || '✨'}</span></span>`;
+      return `<a class="cat-card" href="/?cat=${encodeURIComponent(c.id)}" data-cat="${esc(c.id)}" style="--cc:${color}">
+        ${art}
+        <span class="cat-card__body">
+          <span class="cat-card__name">${esc(c.nombre)}</span>
+          <span class="cat-card__count">${n ? n + ' disfraces' : 'Muy pronto'}</span>
+          <span class="cat-card__go">Ver más →</span>
+        </span></a>`;
     }).join('');
 
     const featured = state.items.filter((d) => d.destacado && d.imagenes?.length);
