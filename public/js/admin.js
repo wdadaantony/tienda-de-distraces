@@ -345,7 +345,7 @@
     const d = ctx.getImageData(0, 0, W, H).data;
     const isBg = (i) => {
       const r = d[i * 4], g = d[i * 4 + 1], b = d[i * 4 + 2];
-      return r < 130 && g > 140 && b > 200;
+      return (r < 130 && g > 140 && b > 200) || (b - r > 50 && r < 100 && b < 200 && g < 140 && b < 170) || (r > 200 && r - g > 40 && b > 170 && b - g > 10);
     };
     const runs = (frac, minLen, maxGap) => {
       const out = [];
@@ -364,10 +364,19 @@
     const colFrac = new Float32Array(W);
     for (let x = 0; x < W; x++) { let n = 0; for (let y = 0; y < H; y++) if (!isBg(y * W + x)) n++; colFrac[x] = n / H; }
     const tiles = [];
-    for (const [x0, x1] of runs(colFrac, W * 0.08, W * 0.012)) {
+    for (const [x0, x1] of runs(colFrac, W * 0.15, W * 0.012)) {
       const rowFrac = new Float32Array(H);
       for (let y = 0; y < H; y++) { let n = 0; for (let x = x0; x < x1; x++) if (!isBg(y * W + x)) n++; rowFrac[y] = n / (x1 - x0); }
-      for (const [y0, y1] of runs(rowFrac, H * 0.15, H * 0.012)) tiles.push({ x: x0, y: y0, w: x1 - x0, h: y1 - y0 });
+      let top = 0, bottom = H - 1;
+      while (top < H && rowFrac[top] <= 0.5) top++;
+      while (bottom > top && rowFrac[bottom] <= 0.5) bottom--;
+      let mid = Math.round(H * 0.42);
+      for (let y = mid; y < H * 0.58; y++) if (rowFrac[y] < rowFrac[mid]) mid = y;
+      let g0 = mid, g1 = mid;
+      while (g0 > top && rowFrac[g0 - 1] <= 0.5) g0--;
+      while (g1 < bottom && rowFrac[g1 + 1] <= 0.5) g1++;
+      if (rowFrac[mid] > 0.5) { g0 = mid; g1 = mid; }
+      tiles.push({ x: x0, y: top, w: x1 - x0, h: g0 - top }, { x: x0, y: g1 + 1, w: x1 - x0, h: bottom - g1 });
     }
     if (tiles.length < 2) return null;
     tiles.sort((a, b) => (Math.abs(a.y - b.y) < H * 0.1 ? a.x - b.x : a.y - b.y));

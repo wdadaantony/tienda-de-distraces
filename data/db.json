@@ -73,6 +73,1926 @@
   ],
   "disfraces": [
     {
+      "id": "918533a7-656a-4bbd-b00e-d02f74dc5ba1",
+      "nombre": "Gaucho niño",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/e7d0603a-df55-49dc-9b8a-7c508777a8fb.webp"
+      ],
+      "creado": "2026-09-28T22:49:49.609Z"
+    },
+    {
+      "id": "fa2b838b-34b5-4d07-9b30-4efdc862738f",
+      "nombre": "Blippi",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/bf193539-a454-42ea-bee1-6e5ed2eb9e8e.webp"
+      ],
+      "creado": "2026-09-28T22:49:49.586Z"
+    },
+    {
+      "id": "f6fd2b90-088a-415d-ba81-36fa66ce785a",
+      "nombre": "Campesina rosada",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/ef079135-cf49-41ca-94c5-50eb257a71ba.webp"
+      ],
+      "creado": "2026-09-28T22:49:49.560Z"
+    },
+    {
+      "id": "2eb88d15-12e7-4af4-9d47-71871897494a",
+      "nombre": "Campesina fucsia niña",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/bf09c7d3-d740-4915-8429-3e57ea1abedc.webp"
+      ],
+      "creado": "2026-09-28T22:49:49.540Z"
+    },
+    {
+      "id": "8fd9e447-b40a-473b-a40c-e08a49d2cdb1",
+      "nombre": "Minnie polo y tutú rosa",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/cdc71451-9d27-4194-8ef2-136d596d8eb8.webp"
+      ],
+      "creado": "2026-09-28T22:49:49.518Z"
+    },
+    {
+      "id": "33599401-000d-42cf-9de4-c93caf9974fc",
+      "nombre": "Minnie polo y tutú rojo",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/72aa7946-25b8-4bb3-a29c-0aefa879af0c.webp"
+      ],
+      "creado": "2026-09-28T22:49:49.497Z"
+    },
+    {
+      "id": "e874e98c-447f-48f6-83fc-9d06122ba47e",
+      "nombre": "Minnie roja",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/644801ea-2f39-47a3-bc54-948f051d1a39.webp"
+      ],
+      "creado": "2026-09-28T22:49:49.477Z"
+    },
+    {
+      "id": "43ab567b-6390-46ca-824e-d2172a80867e",
+      "nombre": "Minnie rosa fucsia",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/91b5fec6-b4f9-4833-bc88-032648d121b0.webp"
+      ],
+      "creado": "2026-09-28T22:49:49.456Z"
+    },
+    {
+      "id": "bbf6bed5-b245-4fa2-a67f-1774d808db65",
+      "nombre": "Príncipe Mickey blanco",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/ea10b31a-2713-42b3-bcb0-ce5c385bf7c8.webp"
+      ],
+      "creado": "2026-09-28T22:49:49.436Z"
+    },
+    {
+      "id": "000f4e5a-70ad-401a-970f-b5214f67c7d3",
+      "nombre": "Príncipe Mickey azul",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/3b53bcdb-7f9f-4f18-a946-960e71e00ae5.webp"
+      ],
+      "creado": "2026-09-28T22:49:49.415Z"
+    },
+    {
+      "id": "f29ad852-a31d-44bc-a737-27c36ef30db5",
+      "nombre": "Mickey Mouse azul",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/d02acd34-972c-4491-bc93-6655b3cc24b8.webp"
+      ],
+      "creado": "2026-09-28T22:49:49.394Z"
+    },
+    {
+      "id": "48a25ad2-a30e-4782-9b33-4cbd720a2e8e",
+      "nombre": "Mickey Mouse con frac",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/0e2d7f91-8fe0-49a7-812f-f4956f1b9f10.webp"
+      ],
+      "creado": "2026-09-28T22:49:49.373Z"
+    },
+    {
+      "id": "14b1ebf8-2edc-4675-8172-9b35f8d40d13",
+      "nombre": "Marshall (Paw Patrol)",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/fbc0e678-7714-4ba9-8a63-1d8aa003766d.webp"
+      ],
+      "creado": "2026-09-28T22:49:49.352Z"
+    },
+    {
+      "id": "b1220146-d831-472f-bca4-db60f834717b",
+      "nombre": "Chase (Paw Patrol)",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/2517b4ca-d1a5-4635-a81d-26257ca4372b.webp"
+      ],
+      "creado": "2026-09-28T22:49:49.332Z"
+    },
+    {
+      "id": "4938ad04-675f-4b3b-bf17-3067c420955e",
+      "nombre": "Ryder (Paw Patrol)",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/6b10ba38-937e-4d8b-a792-3ba7da9df7b9.webp"
+      ],
+      "creado": "2026-09-28T22:49:49.311Z"
+    },
+    {
+      "id": "b4abc04d-f15e-4d7c-a5a0-ab9814bc8c7b",
+      "nombre": "Skye (Paw Patrol)",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/fa419f3b-b306-41ac-9b0a-ff82332e65cc.webp"
+      ],
+      "creado": "2026-09-28T22:49:49.285Z"
+    },
+    {
+      "id": "3b614179-0fc7-473b-833b-2c32f9d8dcc0",
+      "nombre": "Tiana",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/cb771a5c-f79b-4488-a1cb-f829f204a4e2.webp"
+      ],
+      "creado": "2026-09-28T22:49:49.262Z"
+    },
+    {
+      "id": "78697e7e-3479-4e6d-8e77-88696e0d6e69",
+      "nombre": "Sonic",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/d176977c-37de-4005-a8e8-a405d7279a4b.webp"
+      ],
+      "creado": "2026-09-28T22:49:49.239Z"
+    },
+    {
+      "id": "6c111a7c-4d70-42a8-a7ca-70deea67f271",
+      "nombre": "Gohan niño (Dragon Ball)",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/27604cbc-2fd0-41e7-9636-b7a301856d2a.webp"
+      ],
+      "creado": "2026-09-28T22:49:49.217Z"
+    },
+    {
+      "id": "cc8d73ea-6c33-4e2d-a215-06c7e43dd71f",
+      "nombre": "Goku Super Saiyan",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/cd1ad250-47c1-4f3b-9e31-d5cf135b5e36.webp"
+      ],
+      "creado": "2026-09-28T22:49:49.194Z"
+    },
+    {
+      "id": "e51f843f-0bc9-47fe-b9dd-dd666ee84dc8",
+      "nombre": "Itachi (Akatsuki)",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/504ab24b-97e4-47a4-b962-96c8a3d85580.webp"
+      ],
+      "creado": "2026-09-28T22:49:49.171Z"
+    },
+    {
+      "id": "83827c70-2e21-445a-aa7a-97e6ca5695d7",
+      "nombre": "Ash Ketchum (Pokémon)",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/2056c5f1-356b-4afe-a744-b8ba69bceb43.webp"
+      ],
+      "creado": "2026-09-28T22:49:49.151Z"
+    },
+    {
+      "id": "3342e202-90a9-46a6-bc50-77d699a3a9c9",
+      "nombre": "Naruto",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/314fb4f0-af22-42c6-b880-e23b117d2969.webp"
+      ],
+      "creado": "2026-09-28T22:49:49.130Z"
+    },
+    {
+      "id": "77460635-3860-47e4-9a72-b68289ee337a",
+      "nombre": "Shinobu Kocho (Demon Slayer)",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/d06338a5-58ef-4166-a48e-a0df2a5eaa15.webp"
+      ],
+      "creado": "2026-09-28T22:49:49.110Z"
+    },
+    {
+      "id": "266d0e5b-a46e-4de3-863e-fccd2822b3ca",
+      "nombre": "Cazador de demonios negro",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/3ec02c27-323d-44cb-a217-3541c68e6241.webp"
+      ],
+      "creado": "2026-09-28T22:49:49.085Z"
+    },
+    {
+      "id": "c994e252-f22f-4fdc-926e-c79a3cec8c31",
+      "nombre": "Kanao Tsuyuri (Demon Slayer)",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/e2d56015-c7ff-4a54-a390-f3776ee56657.webp"
+      ],
+      "creado": "2026-09-28T22:49:49.063Z"
+    },
+    {
+      "id": "07d955c5-32dd-4982-9c6b-6f90d48d151a",
+      "nombre": "Giyu Tomioka (Demon Slayer)",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/8fdfb66e-35fc-40f7-a138-b844d5c5097b.webp"
+      ],
+      "creado": "2026-09-28T22:49:49.043Z"
+    },
+    {
+      "id": "486171f6-c946-4fa5-b185-567a337f9396",
+      "nombre": "Zenitsu (Demon Slayer)",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/82b3e550-b284-4e1c-92ad-0b9f354fbd78.webp"
+      ],
+      "creado": "2026-09-28T22:49:49.022Z"
+    },
+    {
+      "id": "e8a968ff-1e29-4357-a27f-6e35d82bad88",
+      "nombre": "Tanjiro (Demon Slayer)",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/057d9c6f-df45-4f36-8942-1c6943f1903c.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.999Z"
+    },
+    {
+      "id": "70117278-79ed-422c-960c-7aa59faeece2",
+      "nombre": "Nezuko (Demon Slayer)",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/aa7d763f-aa3f-49f4-9441-4eb548ed3f9b.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.974Z"
+    },
+    {
+      "id": "afc28255-eee4-410d-bc90-b1b62e4cf304",
+      "nombre": "Astronauta NASA rosa",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/abd5927b-c749-4d99-8d62-c9e3dba00b9b.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.953Z"
+    },
+    {
+      "id": "b62dfac3-9e62-42e4-8725-4822c377f473",
+      "nombre": "Astronauta NASA blanco",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/53d737d7-df01-412c-a9c1-1a1868953355.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.928Z"
+    },
+    {
+      "id": "5302ca0f-8026-43f0-88de-1262f26b173a",
+      "nombre": "Astronauta NASA plateado",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/56d9d77d-cc8a-46a3-9500-ac6059b03d41.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.908Z"
+    },
+    {
+      "id": "f3a79c32-acb6-479f-a334-534e2043cb4e",
+      "nombre": "Plim Plim niña con capa amarilla",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/a1ea6ffe-8187-48ab-a4f9-adbdf7b60523.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.888Z"
+    },
+    {
+      "id": "9f966a29-20b9-4f73-9f9e-4ba7f3afbd92",
+      "nombre": "Plim Plim niña rosa",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/c3e7ff46-296d-46e5-8288-a2155b316c07.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.855Z"
+    },
+    {
+      "id": "18e5cc6f-5e99-4354-8612-9167ee4b7fdf",
+      "nombre": "Plim Plim niña rojo y azul",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/5e249558-1163-46ae-81e6-eaf53fce2c6d.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.833Z"
+    },
+    {
+      "id": "35e54769-1484-4960-b09f-d3bfc7608af5",
+      "nombre": "Payasita Plim Plim tutú",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/bf36316e-8f8f-4672-a4c2-ff2c0d32efa3.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.811Z"
+    },
+    {
+      "id": "2403a385-7d18-455e-abaa-4d04f2ab4086",
+      "nombre": "Súper Plim Plim con capa",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/2e2a4361-1722-440f-97d0-8a61ba425bcd.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.785Z"
+    },
+    {
+      "id": "d27e340d-646e-4228-bc8d-eca2344590e9",
+      "nombre": "Explorador Plim Plim",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/07728df7-cf70-4fa8-b027-e5e601296292.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.760Z"
+    },
+    {
+      "id": "76b9964a-9598-4e32-b353-988b46d71f33",
+      "nombre": "Súper Plim Plim rojo",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/13130147-8684-404f-b643-cb436c5db258.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.735Z"
+    },
+    {
+      "id": "38798c49-258b-4868-abfb-7eb735a9832b",
+      "nombre": "Príncipe Plim Plim",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/b505e7f4-6890-4d54-b6ad-cd06f6a58a32.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.713Z"
+    },
+    {
+      "id": "da558eb7-ee8f-4aa4-aca5-3bf2c19433b1",
+      "nombre": "Plim Plim conjunto",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/144edd47-1480-4320-9151-db6649f78a61.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.690Z"
+    },
+    {
+      "id": "e215a6d4-ce04-4a2a-b435-2cccac554a67",
+      "nombre": "Príncipe con capa roja",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/3a4eccc3-feb9-46bf-86e3-2204fdd90666.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.670Z"
+    },
+    {
+      "id": "44f71833-95df-4250-8a2b-ec47af05f77c",
+      "nombre": "Rey con capa",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/359dd2cb-8f70-4361-87b4-f408be0ba6e4.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.649Z"
+    },
+    {
+      "id": "c436acd7-b32a-4240-8e27-217af3253603",
+      "nombre": "Príncipe chaqueta azul",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/c3079d15-7fdd-4405-9d20-04f382f18c95.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.629Z"
+    },
+    {
+      "id": "78aca1ed-5472-41d3-8a8e-80f9033d2331",
+      "nombre": "Príncipe azul y blanco",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/5c6a9bae-3926-44a6-bb9c-15a6e849247d.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.607Z"
+    },
+    {
+      "id": "daf012be-c9e7-40c8-b1e9-e04da79c262b",
+      "nombre": "Príncipe rojo y blanco",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/09c5832c-91bd-4ab7-ad58-48c530069437.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.586Z"
+    },
+    {
+      "id": "a85c76c3-4cfd-47d7-9e9c-6d058c8e2990",
+      "nombre": "Explorador safari con sombrero",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/c3324832-7ab3-45a7-b5e9-6e408e94f999.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.554Z"
+    },
+    {
+      "id": "956c033d-2c53-43ee-b13d-3f732b7d5545",
+      "nombre": "Explorador Safari",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/288c13fa-a24a-48e7-b77a-cdb38e90a1bd.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.524Z"
+    },
+    {
+      "id": "56de7a0f-7538-4f65-9419-6eb4713b472c",
+      "nombre": "Explorador Jurassic Park",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/d90afa82-1d3f-45ce-9888-29bed29d363e.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.503Z"
+    },
+    {
+      "id": "5a39fa50-c9e1-4a1f-bfd3-4fbcaa8405b9",
+      "nombre": "Cabra morada (Zootopia)",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/e31e8a47-17ff-4b2f-a7ec-e4041695ce12.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.473Z"
+    },
+    {
+      "id": "6a3a5700-d6d0-4805-8bc3-93fc1d85ef72",
+      "nombre": "Judy Hopps vestido",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/ab486c94-9872-4609-af4c-467d5728c8b4.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.453Z"
+    },
+    {
+      "id": "2ca7d6c9-e31f-489f-b4f8-45209788374e",
+      "nombre": "Judy Hopps policía",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/8a673b44-bdf0-4783-ab78-07ed902d044f.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.433Z"
+    },
+    {
+      "id": "ef2d8a17-daf5-46ad-ac12-2a3f9c27079a",
+      "nombre": "Nick Wilde (Zootopia)",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/3b23d897-d660-4e9b-8e6e-96cefe22bd45.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.385Z"
+    },
+    {
+      "id": "c0589fd2-845f-40cf-8010-eb6f4e95529c",
+      "nombre": "Jardinera rosa metalizada",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/6ef70e5d-c944-4d15-918f-675465ac3d23.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.364Z"
+    },
+    {
+      "id": "bbf6b65f-50e6-4b73-b74b-83b851039937",
+      "nombre": "Dalina corazón rosa niña",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/4b2c7114-0bc3-40e4-8948-706673f4a662.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.344Z"
+    },
+    {
+      "id": "6e55da5d-e022-4d42-8f34-4d17c03bc8e5",
+      "nombre": "Conjunto negro dorado con tutú blanco",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/af7b2b89-7518-48cd-beac-0e06f73780a9.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.324Z"
+    },
+    {
+      "id": "a3aeafcc-d6f1-40f0-a1f5-b83e7fa17c81",
+      "nombre": "Conjunto negro dorado con falda plateada",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/e2fc5c10-4439-4a97-85d0-aa3735497931.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.303Z"
+    },
+    {
+      "id": "680e3318-7f11-42cd-9a1a-208fd4b5192e",
+      "nombre": "Conjunto militar negro y dorado",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/db18cae4-07ea-4133-9827-9194aff9caba.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.283Z"
+    },
+    {
+      "id": "7c63fa1d-86f5-4c06-8d93-6ada747fd9d2",
+      "nombre": "Conjunto negro dorado con lentejuelas",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/c696066e-2de7-490d-b057-feaa2e7f4548.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.259Z"
+    },
+    {
+      "id": "5aa9be00-0cee-477c-bd1b-7a4ee492915d",
+      "nombre": "Conjunto negro y dorado blanco",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/07a75a84-abc8-4024-80a4-03b45533ae3f.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.221Z"
+    },
+    {
+      "id": "ca9ca339-e4b7-4356-b13d-7b79685fe566",
+      "nombre": "Conjunto negro y dorado con tutú",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/840d6798-7b3e-4fbb-9f5c-307a2107ca01.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.198Z"
+    },
+    {
+      "id": "62b986c7-fda1-4570-8618-b378c5ea8700",
+      "nombre": "Conjunto negro y dorado con short blanco",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/a70401d2-6ea4-4f0d-a381-cc1dab2fb462.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.176Z"
+    },
+    {
+      "id": "9bc35598-1b10-4eea-8ffb-87ab88bbdc02",
+      "nombre": "Conjunto urbano azul",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/a910b717-32f1-4b6a-b5bc-39deef8b680c.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.154Z"
+    },
+    {
+      "id": "31809d55-5cb3-4a0d-8b6c-e2fdb880cb3d",
+      "nombre": "Conjunto urbano polo negro",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/a2b5c76b-47a4-4dcb-abb7-b73b6dd47dc3.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.133Z"
+    },
+    {
+      "id": "7b30bdaf-d8ed-4436-9818-cb8047e4bb72",
+      "nombre": "Conjunto urbano chaqueta amarilla",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/760f0c6d-1a29-4148-9cdd-0a5104345669.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.113Z"
+    },
+    {
+      "id": "ce8fa83f-0711-4bd5-95a1-46bbb190ae0a",
+      "nombre": "Spider-Gwen",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/d734af5b-e005-4c2f-85c7-c0de7eb640d0.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.093Z"
+    },
+    {
+      "id": "7a0c701d-cedc-4d76-bd26-3b40999feba7",
+      "nombre": "Catwoman niña",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/75cd4a6e-d01b-4765-acf7-a1f450cedfa2.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.073Z"
+    },
+    {
+      "id": "91986599-839b-44d3-9483-1023bed8bf97",
+      "nombre": "Mujer Maravilla niña",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/20b602bb-16ba-4189-ac38-9686cfc12070.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.051Z"
+    },
+    {
+      "id": "de4ebfdb-a78f-4a34-a7fa-64b29c8b55ee",
+      "nombre": "Supergirl con tutú",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/0de03acc-06d5-4535-a066-705fdb48bea8.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.028Z"
+    },
+    {
+      "id": "dc698c8b-80ff-439e-936a-00b0497a4c0f",
+      "nombre": "Batichica con tutú",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/ec543578-104c-4d86-8d79-42121a4ef091.webp"
+      ],
+      "creado": "2026-09-28T22:49:48.007Z"
+    },
+    {
+      "id": "320179df-8123-4095-8410-852ecf290469",
+      "nombre": "Mujer Maravilla con tutú",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/cee2c5d2-f753-44d9-a0f5-6bbe9db266ff.webp"
+      ],
+      "creado": "2026-09-28T22:49:47.972Z"
+    },
+    {
+      "id": "4e3816cd-83dd-40c2-bed6-b055a606959c",
+      "nombre": "Doctor Strange",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/18d5634b-7ca3-4b53-815b-5caf5489acd2.webp"
+      ],
+      "creado": "2026-09-28T22:49:47.950Z"
+    },
+    {
+      "id": "9361105c-638d-4e7a-bff2-726870c4a027",
+      "nombre": "Deadpool rojo y negro",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/692ea9bc-53b5-4670-8cd2-ba63a0f844c0.webp"
+      ],
+      "creado": "2026-09-28T22:49:47.930Z"
+    },
+    {
+      "id": "a49d7d2a-4776-4534-92ff-b3678940800b",
+      "nombre": "Deadpool",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/484ac841-7384-4ba8-82b6-fd2643bf3f74.webp"
+      ],
+      "creado": "2026-09-28T22:49:47.905Z"
+    },
+    {
+      "id": "89284779-52f4-41e7-b506-cf84b715e01a",
+      "nombre": "Capitán América armadura",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/41e1b0e3-aab2-482c-aee6-2bcf8491f79b.webp"
+      ],
+      "creado": "2026-09-28T22:49:47.880Z"
+    },
+    {
+      "id": "be3d7a56-ac59-4eea-a674-5d52eab5377f",
+      "nombre": "Capitán América musculoso",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/a656aaa9-de53-45e7-8c21-1d4a335b5319.webp"
+      ],
+      "creado": "2026-09-28T22:49:47.860Z"
+    },
+    {
+      "id": "8d1df3c4-d5da-4517-ad04-f06fcf1290ef",
+      "nombre": "Capitán América con escudo",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/338d2c5f-359e-4053-8985-4c2117b05a41.webp"
+      ],
+      "creado": "2026-09-28T22:49:47.827Z"
+    },
+    {
+      "id": "0770fa78-2d5d-42ec-85e3-11b5fd088c2b",
+      "nombre": "Hulk musculoso",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/f90622bd-0d74-4d9d-b300-2651686af25c.webp"
+      ],
+      "creado": "2026-09-28T22:49:47.807Z"
+    },
+    {
+      "id": "8c81ee92-c7a9-4c51-b178-4d2826fa12b9",
+      "nombre": "Hulk con máscara",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/0c475939-96bb-4076-b850-0a2a700509b5.webp"
+      ],
+      "creado": "2026-09-28T22:49:47.784Z"
+    },
+    {
+      "id": "a9db7a9b-475a-4a98-a447-eba818744880",
+      "nombre": "Thor con casco plateado",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/4a564075-7edd-4571-b667-d2e983260c56.webp"
+      ],
+      "creado": "2026-09-28T22:49:47.755Z"
+    },
+    {
+      "id": "9232c78e-d7d4-4db2-837a-852b59b79c85",
+      "nombre": "Thor con capa roja",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/bed28b57-9555-4a9c-b035-a6616e39292f.webp"
+      ],
+      "creado": "2026-09-28T22:49:47.731Z"
+    },
+    {
+      "id": "661ad8dd-468b-4a75-8450-281013f98210",
+      "nombre": "Wolverine naranja",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/38d9c389-ca04-416e-9d6b-73bd6336b441.webp"
+      ],
+      "creado": "2026-09-28T22:49:47.704Z"
+    },
+    {
+      "id": "7b7268df-b88f-40d9-b3d4-478059e9fc01",
+      "nombre": "Wolverine amarillo",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/831dd50b-f553-452f-a913-5277f92c8b4a.webp"
+      ],
+      "creado": "2026-09-28T22:49:47.681Z"
+    },
+    {
+      "id": "65cabe1d-af50-435b-8890-ab89169f1669",
+      "nombre": "Robin",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/59481201-4e4d-4295-9380-4d0e1d5b54a1.webp"
+      ],
+      "creado": "2026-09-28T22:49:47.659Z"
+    },
+    {
+      "id": "c0bcbf6c-469c-482d-8e4a-25fa81a7e609",
+      "nombre": "Hombre Araña musculoso",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/8be89eba-e94b-4b5b-91fc-db9784ed04a3.webp"
+      ],
+      "creado": "2026-09-28T22:49:47.636Z"
+    },
+    {
+      "id": "0f0d05ae-e3db-4aa1-b9f9-ae2b84cf85c9",
+      "nombre": "Hombre Araña con capucha",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/5e0e0de4-0dce-4e80-b6c9-c0c26326efb8.webp"
+      ],
+      "creado": "2026-09-28T22:49:47.615Z"
+    },
+    {
+      "id": "4fc30e2b-5f8d-4a7f-b494-8b11a7048d0e",
+      "nombre": "Hombre Araña Iron Spider",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/4a8019a4-d873-4291-a820-ecfd255425e5.webp"
+      ],
+      "creado": "2026-09-28T22:49:47.592Z"
+    },
+    {
+      "id": "f79de8b0-bf51-4162-b731-61c741147dda",
+      "nombre": "Hombre Araña con máscara aparte",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/cc3845c3-7e1d-4af7-9616-08e938b23e3a.webp"
+      ],
+      "creado": "2026-09-28T22:49:47.570Z"
+    },
+    {
+      "id": "2c064ec6-f70a-4164-a0de-db1f168cafae",
+      "nombre": "Hombre Araña",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/c824366a-7a8f-410d-9137-613830d9ed98.webp"
+      ],
+      "creado": "2026-09-28T22:49:47.548Z"
+    },
+    {
+      "id": "19f027e6-bb6b-40c0-8573-cc8d86262a61",
+      "nombre": "Batman gris musculoso",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/e19714cf-d943-4e02-82a5-8eb36dbe19c5.webp"
+      ],
+      "creado": "2026-09-28T22:49:47.526Z"
+    },
+    {
+      "id": "8b3f1ca3-b505-4a5f-a0ea-315b18ffadc9",
+      "nombre": "Batman con máscara dorada",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/5f8d6cbb-43c8-499b-9141-3bdf9623738d.webp"
+      ],
+      "creado": "2026-09-28T22:49:47.506Z"
+    },
+    {
+      "id": "1f86adcc-2adc-46e7-818d-e14f58d2083b",
+      "nombre": "Batman con capa",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/ed0c6232-b87d-4cf3-b897-e95e2719f512.webp"
+      ],
+      "creado": "2026-09-28T22:49:47.486Z"
+    },
+    {
+      "id": "fc638ca3-87a0-41a3-84a3-c35d0dbbe72b",
+      "nombre": "Iron Man musculoso",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/6cd71ae5-ea27-4097-8e77-88d9ca20f4e7.webp"
+      ],
+      "creado": "2026-09-28T22:49:47.466Z"
+    },
+    {
+      "id": "0a9e6c06-afd5-400d-838f-ad54eb123c4e",
+      "nombre": "Iron Man triángulo dorado",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/9a231240-7e1c-4533-853c-fbca246c62ec.webp"
+      ],
+      "creado": "2026-09-28T22:49:47.437Z"
+    },
+    {
+      "id": "f51a3892-08f5-4c32-9b03-91df87f7a8ae",
+      "nombre": "Iron Man con guantes",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/690a699c-7aed-4662-9b93-c54b2b54620a.webp"
+      ],
+      "creado": "2026-09-28T22:49:47.416Z"
+    },
+    {
+      "id": "bbd5c0e2-401f-4e00-9f3b-8d80837e846f",
+      "nombre": "Flash musculoso",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/abe540b0-efbb-4265-85f0-77e2cd01b16c.webp"
+      ],
+      "creado": "2026-09-28T22:49:47.393Z"
+    },
+    {
+      "id": "d8084036-8cd1-452f-af85-fc3037f0cf43",
+      "nombre": "Flash con capucha",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/e0f51dee-b20f-4eb7-a546-e91b53586447.webp"
+      ],
+      "creado": "2026-09-28T22:49:47.371Z"
+    },
+    {
+      "id": "b0cf609f-63a3-4c26-bc5a-961837556d36",
+      "nombre": "Flash",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/211f05da-7371-4549-b16f-cf4124b636ae.webp"
+      ],
+      "creado": "2026-09-28T22:49:47.345Z"
+    },
+    {
+      "id": "95e5a4b1-d66f-463c-8373-6d933a924398",
+      "nombre": "Superman con short rojo",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/4e7d9e58-13ac-475f-84e1-561156a76cf0.webp"
+      ],
+      "creado": "2026-09-28T22:49:47.325Z"
+    },
+    {
+      "id": "739cf395-fd63-4a0d-ac51-16d4b69869cf",
+      "nombre": "Superman musculoso",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/3103f521-db45-4413-9731-144e9ddf41b4.webp"
+      ],
+      "creado": "2026-09-28T22:49:47.262Z"
+    },
+    {
+      "id": "db04d91d-1b9a-412a-b519-c06134f6f977",
+      "nombre": "Superman con capa",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/0ac4486e-d5ff-47df-95dc-a8ca7a59aceb.webp"
+      ],
+      "creado": "2026-09-28T22:49:47.200Z"
+    },
+    {
+      "id": "83d9cea5-0dd5-4e2d-baf2-6267226a593c",
+      "nombre": "Princesa Peach",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/954717fd-73ad-4e8b-acc3-37593aae38f4.webp"
+      ],
+      "creado": "2026-09-28T22:49:47.177Z"
+    },
+    {
+      "id": "8a1f14f8-2205-40bf-981c-3fd4b59e90b9",
+      "nombre": "Princesa Peach con peluca",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/3c4f41eb-eb7d-49a0-a822-11646dc5a2d3.webp"
+      ],
+      "creado": "2026-09-28T22:49:47.154Z"
+    },
+    {
+      "id": "04f44341-d1c3-4c6f-9e51-67309130cba6",
+      "nombre": "Princesa Sofía",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/e4dbb235-fac2-47ad-9d5c-f7916a68380d.webp"
+      ],
+      "creado": "2026-09-28T22:49:47.126Z"
+    },
+    {
+      "id": "1b7cabf1-cd42-4fc1-9d94-83e391f60bf4",
+      "nombre": "Anna (Frozen)",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/b9747360-5bb6-4ce8-be82-1b6967bfa307.webp"
+      ],
+      "creado": "2026-09-28T22:49:47.061Z"
+    },
+    {
+      "id": "b6435745-eee8-4b7f-8de6-b333f2202292",
+      "nombre": "Elsa (Frozen 2) azul",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/a3836145-4ea4-4088-a18e-ea6388d8dcea.webp"
+      ],
+      "creado": "2026-09-28T22:49:47.038Z"
+    },
+    {
+      "id": "efdb5587-35c0-492a-b788-f6b24ed75827",
+      "nombre": "Elsa (Frozen)",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/e42b0c94-0dd9-4abb-abf4-53e848cd23fa.webp"
+      ],
+      "creado": "2026-09-28T22:49:47.018Z"
+    },
+    {
+      "id": "68fb6849-32d0-4f37-9b39-b621d53ef429",
+      "nombre": "Ariel verde con morado",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/3478742e-0148-419e-83fa-c609de3b9597.webp"
+      ],
+      "creado": "2026-09-28T22:49:46.996Z"
+    },
+    {
+      "id": "b1765b96-b26b-4d53-a42f-7ef82b0ab143",
+      "nombre": "Ariel verde agua",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/df5375c7-4dfe-4629-8d90-d06275bbd9e8.webp"
+      ],
+      "creado": "2026-09-28T22:49:46.919Z"
+    },
+    {
+      "id": "9fffb6ca-e631-4e25-9d0d-68efc3efbf64",
+      "nombre": "Rapunzel lila con dorado",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/559b33de-48ae-4d78-ab65-d90aca8499c3.webp"
+      ],
+      "creado": "2026-09-28T22:49:46.897Z"
+    },
+    {
+      "id": "4adc9e93-bfb1-490c-bbbb-a2d46fd585c2",
+      "nombre": "Rapunzel lila y rosa",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/2aa77bdd-3a58-40ce-9322-95cc3321cebf.webp"
+      ],
+      "creado": "2026-09-28T22:49:46.876Z"
+    },
+    {
+      "id": "f9a2d2e3-d161-4905-8949-ba1b857ea261",
+      "nombre": "Aurora fucsia",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/8327d5fd-d454-4e3c-a371-2a967799fe18.webp"
+      ],
+      "creado": "2026-09-28T22:49:46.853Z"
+    },
+    {
+      "id": "c2d6ca4a-420e-4180-bf23-e0736567acb4",
+      "nombre": "Aurora rosa",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/2721b59c-8633-4f05-b1e7-ef68ac14a293.webp"
+      ],
+      "creado": "2026-09-28T22:49:46.823Z"
+    },
+    {
+      "id": "8d10a9e5-4c3b-4319-94f8-21c42c8480f5",
+      "nombre": "Cenicienta azul brillante",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/737aa8c9-d494-47b9-a5f0-0fcc394cafcc.webp"
+      ],
+      "creado": "2026-09-28T22:49:46.787Z"
+    },
+    {
+      "id": "51548f5c-616c-4954-a227-b12721fc291c",
+      "nombre": "Cenicienta azul",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/31e2a70e-f4df-466e-a598-d65eb1eaec47.webp"
+      ],
+      "creado": "2026-09-28T22:49:46.749Z"
+    },
+    {
+      "id": "4400677a-3a07-42f8-af0b-f0a17073ba6e",
+      "nombre": "Blancanieves con tul amarillo",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/dbf507c0-3ad0-475a-adc8-8d12a370bc3b.webp"
+      ],
+      "creado": "2026-09-28T22:49:46.698Z"
+    },
+    {
+      "id": "f1bc15d2-1f28-4edc-9a4f-60184f169ce6",
+      "nombre": "Blancanieves con capa",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/0843ec7d-5e5e-4792-99e5-922d26d684fe.webp"
+      ],
+      "creado": "2026-09-28T22:49:46.655Z"
+    },
+    {
+      "id": "f0609b23-fd4a-4c07-bd9a-58c08aed3cb5",
+      "nombre": "Bella con guantes amarillos",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/cb927c2b-7f60-4fcb-a1db-10de103991fc.webp"
+      ],
+      "creado": "2026-09-28T22:49:46.625Z"
+    },
+    {
+      "id": "65cdde8c-9135-43ca-8ace-b262bb896e3b",
+      "nombre": "Bella (La Bella y la Bestia) vestido amarillo",
+      "categoria": "disfraces-generales-para-ninos",
+      "modalidad": "ambos",
+      "descripcion": "",
+      "tallas": "",
+      "precioAlquiler": null,
+      "precioVenta": null,
+      "disponible": true,
+      "destacado": false,
+      "imagenes": [
+        "/uploads/0d23488f-5f8c-48f6-9c23-7c92838f9fb8.webp"
+      ],
+      "creado": "2026-09-28T22:49:46.558Z"
+    },
+    {
       "id": "67128489-f487-463e-bcc2-b8eaeb9939d6",
       "nombre": "prueba",
       "categoria": "halloween-sexy",
@@ -1335,741 +3255,6 @@
         "/uploads/91a0d678-2952-48d9-add2-3945d0aeac49.webp"
       ],
       "creado": "2026-09-28T22:05:34.514Z"
-    },
-    {
-      "id": "8c41480e-2d56-4e28-8eb2-977065792f0a",
-      "nombre": "Princesa Disney niña",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.223Z",
-      "actualizado": "2026-09-28T21:53:36.269Z"
-    },
-    {
-      "id": "6ce3b416-f36c-463d-ab79-07b3052c269b",
-      "nombre": "Goku Super Saiyan niño",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.219Z",
-      "actualizado": "2026-09-28T21:53:36.273Z"
-    },
-    {
-      "id": "6b52b93f-2b28-449b-acf4-017d3d7a67c8",
-      "nombre": "Goku niño",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.217Z",
-      "actualizado": "2026-09-28T21:53:36.276Z"
-    },
-    {
-      "id": "4c9156f7-e2d4-433f-872a-dc8085b66ac3",
-      "nombre": "Demonio/Diablo niño",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.213Z",
-      "actualizado": "2026-09-28T21:53:36.279Z"
-    },
-    {
-      "id": "65a00e33-5bdc-4ce5-a93c-dfa5643b0624",
-      "nombre": "Patrulla de Cachorros (otro) niño",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.210Z",
-      "actualizado": "2026-09-28T21:53:36.285Z"
-    },
-    {
-      "id": "0e6fca9c-0d6d-417b-bc88-5a7f5bccf6cb",
-      "nombre": "Patrulla de Cachorros Chase niño",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.207Z",
-      "actualizado": "2026-09-28T21:53:36.290Z"
-    },
-    {
-      "id": "a06957a4-e978-4df7-90d6-82278e140d00",
-      "nombre": "Marinero niño",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.204Z",
-      "actualizado": "2026-09-28T21:53:36.293Z"
-    },
-    {
-      "id": "a1a3a842-9aac-4873-9766-8fdda42a36f7",
-      "nombre": "Explorador Safari niño",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.199Z",
-      "actualizado": "2026-09-28T21:53:36.296Z"
-    },
-    {
-      "id": "5984cd9e-9485-4b3f-ad32-323bb137a2c9",
-      "nombre": "Astronauta niño",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.196Z",
-      "actualizado": "2026-09-28T21:53:36.299Z"
-    },
-    {
-      "id": "8f02b7ce-6720-40b1-a9dd-50c4f4398e19",
-      "nombre": "Astronauta NASA niño",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.193Z",
-      "actualizado": "2026-09-28T21:53:36.303Z"
-    },
-    {
-      "id": "8696c542-08b0-42b6-bc95-45c0525b526a",
-      "nombre": "Gwen Stacy (Spider-Gwen) niña",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.190Z",
-      "actualizado": "2026-09-28T21:53:36.307Z"
-    },
-    {
-      "id": "c36e18bb-c992-424a-b72a-fade709c69fd",
-      "nombre": "Batichica niña",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.186Z",
-      "actualizado": "2026-09-28T21:53:36.310Z"
-    },
-    {
-      "id": "cfffd96f-5212-40cc-b878-180907e20e9a",
-      "nombre": "Mujer Maravilla niña",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.183Z",
-      "actualizado": "2026-09-28T21:53:36.314Z"
-    },
-    {
-      "id": "7c533811-b329-4247-bbab-129eece94fac",
-      "nombre": "Deadpool niño",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.180Z",
-      "actualizado": "2026-09-28T21:53:36.318Z"
-    },
-    {
-      "id": "a88e2974-a486-45f9-bc21-3fa6af6c9487",
-      "nombre": "Capitán América niño",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.176Z",
-      "actualizado": "2026-09-28T21:53:36.322Z"
-    },
-    {
-      "id": "1dbe43e6-f0b6-45d5-9b44-1c466f833afe",
-      "nombre": "Iron Man niño",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.172Z",
-      "actualizado": "2026-09-28T21:53:36.325Z"
-    },
-    {
-      "id": "51bfdab0-654c-47c4-9897-5a4279fb48de",
-      "nombre": "Hulk niño",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.169Z",
-      "actualizado": "2026-09-28T21:53:36.327Z"
-    },
-    {
-      "id": "ae4c6ae9-35e7-4f59-be78-1a5f7a172cec",
-      "nombre": "Thor niño",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.166Z",
-      "actualizado": "2026-09-28T21:53:36.330Z"
-    },
-    {
-      "id": "ae20a3a1-c87a-443a-b4b2-49ba26cfabc8",
-      "nombre": "Wolverine amarillo niño",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.162Z",
-      "actualizado": "2026-09-28T21:53:36.334Z"
-    },
-    {
-      "id": "c72a630b-fa9b-4089-b3db-4b9420c95f38",
-      "nombre": "Wolverine niño",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.158Z",
-      "actualizado": "2026-09-28T21:53:36.337Z"
-    },
-    {
-      "id": "bf1d8ef3-2fb1-484e-9721-dc82a7d529ad",
-      "nombre": "Hombre Araña niño (cuarto)",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.154Z",
-      "actualizado": "2026-09-28T21:53:36.340Z"
-    },
-    {
-      "id": "55434b8a-f185-47f7-b0be-a4e2c68ad8d2",
-      "nombre": "Hombre Araña niño (tercero)",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.151Z",
-      "actualizado": "2026-09-28T21:53:36.345Z"
-    },
-    {
-      "id": "6580c93f-64a6-4b78-ad0f-0f19b874d6f1",
-      "nombre": "Hombre Araña niño (otro)",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.148Z",
-      "actualizado": "2026-09-28T21:53:36.348Z"
-    },
-    {
-      "id": "05228ffe-7fdf-4110-b163-aa1a09356c35",
-      "nombre": "Hombre Araña niño",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.144Z",
-      "actualizado": "2026-09-28T21:53:36.351Z"
-    },
-    {
-      "id": "eda27864-9694-4fd9-a00e-498f9a3e9ff2",
-      "nombre": "Robin niño",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.140Z",
-      "actualizado": "2026-09-28T21:53:36.354Z"
-    },
-    {
-      "id": "d4e8d94b-a6d0-470d-bafa-3d32851e2a1c",
-      "nombre": "Batman niño",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.136Z",
-      "actualizado": "2026-09-28T21:53:36.357Z"
-    },
-    {
-      "id": "62140d09-aeee-46a5-aade-ccfb709440d7",
-      "nombre": "Flash niño",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.133Z",
-      "actualizado": "2026-09-28T21:53:36.361Z"
-    },
-    {
-      "id": "4a3d4ae6-2248-4e75-bf72-fbea1f49e56b",
-      "nombre": "Superman niño",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.130Z",
-      "actualizado": "2026-09-28T21:53:36.365Z"
-    },
-    {
-      "id": "019c25d9-fb38-408e-9edd-019f7967447e",
-      "nombre": "Supergirl adulto",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.128Z",
-      "actualizado": "2026-09-28T21:53:36.369Z"
-    },
-    {
-      "id": "0d146e27-a7e9-4071-a09b-4aa72419a183",
-      "nombre": "Batichica adulto",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.124Z",
-      "actualizado": "2026-09-28T21:53:36.372Z"
-    },
-    {
-      "id": "b50ff025-dbb3-47d8-957c-c6ad65e634ed",
-      "nombre": "Mujer Maravilla adulto",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.119Z",
-      "actualizado": "2026-09-28T21:53:36.374Z"
-    },
-    {
-      "id": "87a4c30c-0a76-47aa-862f-ace844363574",
-      "nombre": "Anna (Frozen)",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.116Z",
-      "actualizado": "2026-09-28T21:53:36.378Z"
-    },
-    {
-      "id": "3d626300-cceb-4019-b6d2-8fd54ebc9437",
-      "nombre": "Elsa (Frozen) con capa",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.113Z",
-      "actualizado": "2026-09-28T21:53:36.382Z"
-    },
-    {
-      "id": "02bf6f4d-bae4-420c-a7ea-cce3e7df43b5",
-      "nombre": "Ceniciella plateada",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.109Z",
-      "actualizado": "2026-09-28T21:53:36.385Z"
-    },
-    {
-      "id": "57d3ed87-4863-4591-bbaf-6085f7ebf5e2",
-      "nombre": "Ariel (La Sirenita)",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.105Z",
-      "actualizado": "2026-09-28T21:53:36.388Z"
-    },
-    {
-      "id": "1a38ee50-5dd8-4ce0-8462-249b55b22bbf",
-      "nombre": "Aurora (Bella Durmiente)",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.102Z",
-      "actualizado": "2026-09-28T21:53:36.393Z"
-    },
-    {
-      "id": "2e419a39-77b9-4ac1-b72e-15024d60661a",
-      "nombre": "Anna (Frozen) roja y morada",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.098Z",
-      "actualizado": "2026-09-28T21:53:36.397Z"
-    },
-    {
-      "id": "1ca6f0c8-f7fc-4766-8038-ccc50f240fb7",
-      "nombre": "Elsa (Frozen) azul marino",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.094Z",
-      "actualizado": "2026-09-28T21:53:36.399Z"
-    },
-    {
-      "id": "fa274067-438f-44c7-aa58-553d17fcf56a",
-      "nombre": "Elsa (Frozen) plateada",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.089Z",
-      "actualizado": "2026-09-28T21:53:36.402Z"
-    },
-    {
-      "id": "a897d959-5347-4e7d-bd9f-0a2ae6dcb4aa",
-      "nombre": "Rapunzel púrpura",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.084Z",
-      "actualizado": "2026-09-28T21:53:36.405Z"
-    },
-    {
-      "id": "bcd9052a-e075-47fd-bf87-4c7cc2263737",
-      "nombre": "Rapunzel verde",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.081Z",
-      "actualizado": "2026-09-28T21:53:36.409Z"
-    },
-    {
-      "id": "bb974d11-ab25-46a8-931c-10461abf1920",
-      "nombre": "Rapunzel magenta",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.078Z",
-      "actualizado": "2026-09-28T21:53:36.412Z"
-    },
-    {
-      "id": "20b77a90-f559-411e-a48e-416f937b2609",
-      "nombre": "Rapunzel púrpura y rosa",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.060Z",
-      "actualizado": "2026-09-28T21:53:36.416Z"
-    },
-    {
-      "id": "39feec4c-8fbb-4357-a917-0bd76d4c2d37",
-      "nombre": "Cenicienta blanca",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.042Z",
-      "actualizado": "2026-09-28T21:53:36.419Z"
-    },
-    {
-      "id": "0164f217-cdf1-4bb7-a667-89a15c39dfeb",
-      "nombre": "Cenicienta azul",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.036Z",
-      "actualizado": "2026-09-28T21:53:36.422Z"
-    },
-    {
-      "id": "046dc72e-f0da-4f6f-96c3-3f01e21b80c0",
-      "nombre": "Blancanieves falda amarilla",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.032Z",
-      "actualizado": "2026-09-28T21:53:36.424Z"
-    },
-    {
-      "id": "1540eda7-53b6-4e5b-a190-f23619b7c845",
-      "nombre": "Blancanieves rojo y azul",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.029Z",
-      "actualizado": "2026-09-28T21:53:36.428Z"
-    },
-    {
-      "id": "5df0b937-32e3-4576-a803-7cf423d13bb0",
-      "nombre": "Blancanieves en tienda",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.025Z",
-      "actualizado": "2026-09-28T21:53:36.431Z"
-    },
-    {
-      "id": "9ce345c9-63d1-4eb8-a355-f8055943b4bb",
-      "nombre": "Blancanieves amarillo",
-      "categoria": "disfraces-generales-para-ninos",
-      "modalidad": "ambos",
-      "descripcion": "",
-      "tallas": "",
-      "precioAlquiler": null,
-      "precioVenta": null,
-      "disponible": true,
-      "destacado": false,
-      "imagenes": [],
-      "creado": "2026-09-28T21:52:33.005Z",
-      "actualizado": "2026-09-28T21:53:36.434Z"
     },
     {
       "id": "4b1312eb-f658-4ce1-af67-0b5238534c6f",
