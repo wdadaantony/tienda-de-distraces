@@ -1,0 +1,13 @@
+[build]
+  command = "node build-static.js"
+  publish = "public"
+
+[[redirects]]
+  from = "/api/data"
+  to = "/data/db.json"
+  status = 200
+
+[[redirects]]
+  from = "/admin"
+  to = "/"
+  status = 302

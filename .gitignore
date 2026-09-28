@@ -2,3 +2,5 @@ config.json
 node_modules/
 .claude/
 *.tmp
+public/data/
+public/uploads/
