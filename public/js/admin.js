@@ -146,6 +146,7 @@
     $('#listEmpty').hidden = list.length > 0;
     $('#list').innerHTML = list.map((d) => {
       const tags = [
+        d.genero === 'varon' ? '<span class="tag">Varón</span>' : d.genero === 'dama' ? '<span class="tag">Dama</span>' : '',
         d.modalidad !== 'venta' ? `<span class="tag tag--rent">Alquiler${d.precioAlquiler != null ? ' ' + money(d.precioAlquiler) : ''}</span>` : '',
         d.modalidad !== 'alquiler' ? `<span class="tag tag--sale">Venta${d.precioVenta != null ? ' ' + money(d.precioVenta) : ''}</span>` : '',
       ].join('');
@@ -221,6 +222,7 @@
     if (item) {
       form.nombre.value = item.nombre;
       form.modalidad.value = item.modalidad;
+      form.genero.value = item.genero || 'unisex';
       form.precioAlquiler.value = item.precioAlquiler ?? '';
       form.precioVenta.value = item.precioVenta ?? '';
       form.tallas.value = item.tallas || '';
@@ -280,6 +282,7 @@
       nombre: form.nombre.value,
       categoria: form.categoria.value,
       modalidad: form.modalidad.value,
+      genero: form.genero.value,
       precioAlquiler: form.precioAlquiler.value,
       precioVenta: form.precioVenta.value,
       tallas: form.tallas.value,
@@ -429,7 +432,7 @@
         const created = await api('/api/disfraces', {
           method: 'POST',
           body: {
-            nombre: b.nombre, categoria: cat, modalidad: $('#bMode').value,
+            nombre: b.nombre, categoria: cat, modalidad: $('#bMode').value, genero: $('#bGen').value,
             precioAlquiler: $('#bRent').value, precioVenta: $('#bSale').value,
             disponible: true, imagenes: [b.src],
           },

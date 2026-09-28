@@ -14,6 +14,7 @@
     const p = [hasRent(d) ? d.precioAlquiler : null, hasSale(d) ? d.precioVenta : null].filter((x) => x != null);
     return p.length ? Math.min(...p) : null;
   };
+  const { SITE, GENS, catUrl, itemUrl, catTitle } = window.DP_SEO;
   const store = {
     get(k, def) { try { return JSON.parse(localStorage.getItem(k)) ?? def; } catch { return def; } },
     set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch { /* storage unavailable */ } },
@@ -29,7 +30,7 @@
   const CIRCLE_COLORS = ['#fb7701', '#e11d2e', '#7c3aed', '#0ea5e9', '#16a34a', '#db2777', '#f59e0b', '#0d9488', '#6366f1', '#dc2626'];
 
   const state = {
-    cats: [], items: [], q: '', cat: 'todos', mode: 'todos', sort: 'recomendado', avail: false, fav: false,
+    cats: [], items: [], q: '', cat: 'todos', gen: 'todos', mode: 'todos', sort: 'recomendado', avail: false, fav: false,
     shown: PAGE, list: [],
     favs: new Set(store.get('dp_favs', [])),
     recent: store.get('dp_recent', []),
@@ -74,20 +75,34 @@
   }
 
   // ---------- URL ----------
+  function urlItemRaw() {
+    const p = new URLSearchParams(location.search);
+    const im = location.pathname.match(/^\/disfraz\/[^/]*-([a-f0-9]{8})\/?$/);
+    return p.get('d') || (im ? 'pref:' + im[1] : null);
+  }
+  const resolveId = (raw) => (raw ? state.items.find((x) => x.id === raw || (raw.startsWith('pref:') && x.id.startsWith(raw.slice(5))))?.id : null);
   function readUrl() {
     const p = new URLSearchParams(location.search);
+    const m = location.pathname.match(/^\/categoria\/([^/]+)(?:\/(varon|dama))?\/?$/);
     state.q = p.get('q') || '';
-    state.cat = p.get('cat') || 'todos';
+    state.cat = m ? decodeURIComponent(m[1]) : (p.get('cat') || 'todos');
+    state.gen = m && m[2] ? m[2] : (GENS[p.get('gen')] ? p.get('gen') : 'todos');
     state.mode = ['alquiler', 'venta'].includes(p.get('modo')) ? p.get('modo') : 'todos';
     state.sort = ['nuevos', 'precio-asc', 'precio-desc'].includes(p.get('orden')) ? p.get('orden') : 'recomendado';
     state.avail = p.get('disp') === '1';
     state.fav = p.get('fav') === '1';
-    return p.get('d');
+    return urlItemRaw();
+  }
+  function currentPath() {
+    return !state.q && !state.fav && state.cat !== 'todos' ? catUrl(state.cat, state.gen) : '/';
   }
   function filterQuery() {
     const p = new URLSearchParams();
     if (state.q) p.set('q', state.q);
-    if (state.cat !== 'todos') p.set('cat', state.cat);
+    if (currentPath() === '/' && state.cat !== 'todos') {
+      p.set('cat', state.cat);
+      if (state.gen !== 'todos') p.set('gen', state.gen);
+    }
     if (state.mode !== 'todos') p.set('modo', state.mode);
     if (state.sort !== 'recomendado') p.set('orden', state.sort);
     if (state.avail) p.set('disp', '1');
@@ -96,7 +111,14 @@
   }
   function writeUrl() {
     const qs = filterQuery().toString();
-    history.replaceState(null, '', location.pathname + (qs ? `?${qs}` : ''));
+    history.replaceState(null, '', currentPath() + (qs ? `?${qs}` : ''));
+  }
+  function setSeo() {
+    const onCat = currentPath() !== '/';
+    document.title = onCat
+      ? `${catTitle(state.cat, catName(state.cat), state.gen)} en Miraflores, Lima · Disfraces Perú`
+      : 'Disfraces Perú · Alquiler y venta de disfraces en Miraflores';
+    $('#canon').href = SITE + currentPath();
   }
 
   // ---------- list building ----------
@@ -105,6 +127,7 @@
     let list = state.items.filter((d) => {
       if (state.fav && !state.favs.has(d.id)) return false;
       if (state.cat !== 'todos' && d.categoria !== state.cat) return false;
+      if (state.gen !== 'todos' && d.genero && d.genero !== 'unisex' && d.genero !== state.gen) return false;
       if (state.mode === 'alquiler' && !hasRent(d)) return false;
       if (state.mode === 'venta' && !hasSale(d)) return false;
       if (state.avail && d.disponible === false) return false;
@@ -146,13 +169,13 @@
     return `
       <article class="pc" data-id="${esc(d.id)}">
         <div class="pc__img">
-          <a href="/?d=${esc(d.id)}" tabindex="-1" aria-hidden="true">${img ? `<img src="${esc(img)}" alt="" loading="lazy">` : '<div class="pc__noimg">Sin foto</div>'}</a>
+          <a href="${itemUrl(d)}" tabindex="-1" aria-hidden="true">${img ? `<img src="${esc(img)}" alt="${esc(d.nombre)}" loading="lazy">` : '<div class="pc__noimg">Sin foto</div>'}</a>
           ${d.destacado ? '<span class="pc__badge">Destacado</span>' : ''}
           ${d.disponible === false ? '<span class="pc__out">Agotado por ahora</span>' : ''}
           <button type="button" class="pc__fav" aria-pressed="${fav}" aria-label="${fav ? 'Quitar de' : 'Agregar a'} favoritos">${ICON.heart}</button>
         </div>
         <div class="pc__body">
-          <a class="pc__name" href="/?d=${esc(d.id)}">${esc(d.nombre)}</a>
+          <a class="pc__name" href="${itemUrl(d)}">${esc(d.nombre)}</a>
           <div class="pc__tags">
             ${hasRent(d) ? '<span class="tag tag--rent">Alquiler</span>' : ''}${hasSale(d) ? '<span class="tag tag--sale">Venta</span>' : ''}
           </div>
@@ -196,9 +219,9 @@
 
   // ---------- rendering ----------
   function renderNav() {
-    const link = (id, name) => `<a href="/?cat=${encodeURIComponent(id)}" data-cat="${esc(id)}" aria-current="${!state.fav && state.cat === id}">${esc(name)}</a>`;
+    const link = (id, name) => `<a href="${catUrl(id)}" data-cat="${esc(id)}" aria-current="${!state.fav && state.cat === id}">${esc(name)}</a>`;
     $('#catnav').innerHTML = link('todos', 'Todo') + state.cats.map((c) => link(c.id, c.nombre)).join('');
-    $('#ftCats').innerHTML = state.cats.map((c) => `<a href="/?cat=${encodeURIComponent(c.id)}" data-cat="${esc(c.id)}">${esc(c.nombre)}</a>`).join('');
+    $('#ftCats').innerHTML = state.cats.map((c) => `<a href="${catUrl(c.id)}" data-cat="${esc(c.id)}">${esc(c.nombre)}</a>`).join('');
     $('#catnav').querySelector('[aria-current="true"]')?.scrollIntoView({ block: 'nearest', inline: 'center' });
   }
 
@@ -215,7 +238,7 @@
       const art = pics.length
         ? `<span class="cat-card__pics cat-card__pics--${Math.min(pics.length, 3)}">${pics.map((u) => `<img src="${esc(u)}" alt="" loading="lazy">`).join('')}</span>`
         : `<span class="cat-card__empty" style="background:linear-gradient(135deg,${color},#0004),${color}"><span>${ICONS[c.id] || '✨'}</span></span>`;
-      return `<a class="cat-card" href="/?cat=${encodeURIComponent(c.id)}" data-cat="${esc(c.id)}" style="--cc:${color}">
+      return `<a class="cat-card" href="${catUrl(c.id)}" data-cat="${esc(c.id)}" style="--cc:${color}">
         ${art}
         <span class="cat-card__body">
           <span class="cat-card__name">${esc(c.nombre)}</span>
@@ -246,12 +269,28 @@
     if (state.fav) { title = 'Mis favoritos'; crumbs.push('<span>Favoritos</span>'); }
     else if (state.q) {
       title = `Resultados para “${esc(state.q)}”`;
-      if (state.cat !== 'todos') crumbs.push(`<a href="/?cat=${encodeURIComponent(state.cat)}" data-cat="${esc(state.cat)}">${esc(catName(state.cat))}</a>`);
+      if (state.cat !== 'todos') crumbs.push(`<a href="${catUrl(state.cat)}" data-cat="${esc(state.cat)}">${esc(catName(state.cat))}</a>`);
       crumbs.push('<span>Búsqueda</span>');
-    } else if (state.cat !== 'todos') { title = esc(catName(state.cat)); crumbs.push(`<span>${title}</span>`); }
+    } else if (state.cat !== 'todos') {
+      title = esc(catTitle(state.cat, catName(state.cat), state.gen));
+      if (state.gen !== 'todos') {
+        crumbs.push(`<a href="${catUrl(state.cat)}" data-cat="${esc(state.cat)}">${esc(catName(state.cat))}</a>`, `<span>${esc(GENS[state.gen])}</span>`);
+      } else crumbs.push(`<span>${esc(catName(state.cat))}</span>`);
+    }
     $('#crumbs').innerHTML = isHome ? '' : crumbs.join('<span aria-hidden="true">›</span>');
     $('#crumbs').hidden = isHome;
     $('#resTitle').innerHTML = `${title}${isHome ? '' : ` <small>${count} ${count === 1 ? 'disfraz' : 'disfraces'}</small>`}`;
+  }
+
+  function renderSubcats() {
+    const show = state.cat !== 'todos' && !state.q && !state.fav && catCount(state.cat) > 0;
+    const box = $('#subcats');
+    box.hidden = !show;
+    if (!show) return;
+    const items = state.items.filter((d) => d.categoria === state.cat);
+    const n = (g) => items.filter((d) => !d.genero || d.genero === 'unisex' || d.genero === g).length;
+    const chip = (gen, label, count) => `<a class="subcat" href="${catUrl(state.cat, gen)}" data-cat="${esc(state.cat)}" data-gen="${gen}" aria-current="${state.gen === gen}">${label}<small>${count}</small></a>`;
+    box.innerHTML = chip('todos', 'Todos', items.length) + chip('varon', 'Disfraces de Varón', n('varon')) + chip('dama', 'Disfraces de Dama', n('dama'));
   }
 
   function renderFilters() {
@@ -305,6 +344,8 @@
     state.shown = PAGE;
     renderNav();
     renderHead(state.list.length);
+    renderSubcats();
+    setSeo();
     renderFilters();
     renderFavCta(state.list);
     renderEmpty(state.list);
@@ -379,13 +420,13 @@
     saveRecent(t);
     closeSuggest();
     q.blur();
-    update({ q: t, cat: 'todos', fav: false, sort: 'recomendado' });
+    update({ q: t, cat: 'todos', gen: 'todos', fav: false, sort: 'recomendado' });
   }
 
   function runSuggestion(el) {
     const { sg, v } = el.dataset;
     if (sg === 'q') commitSearch(v);
-    if (sg === 'cat') { closeSuggest(); q.value = ''; $('#qClear').hidden = true; q.blur(); update({ cat: v, q: '', fav: false }); }
+    if (sg === 'cat') { closeSuggest(); q.value = ''; $('#qClear').hidden = true; q.blur(); update({ cat: v, gen: 'todos', q: '', fav: false }); }
     if (sg === 'item') { saveRecent(q.value); closeSuggest(); q.blur(); openItem(v); }
   }
 
@@ -440,7 +481,7 @@
   $('#resetAll').addEventListener('click', () => {
     q.value = '';
     $('#qClear').hidden = true;
-    update({ q: '', cat: 'todos', mode: 'todos', avail: false, fav: false, sort: 'recomendado' });
+    update({ q: '', cat: 'todos', gen: 'todos', mode: 'todos', avail: false, fav: false, sort: 'recomendado' });
   });
 
   document.addEventListener('click', (e) => {
@@ -450,9 +491,9 @@
     if (pdp.open) closePdp();
     q.value = '';
     $('#qClear').hidden = true;
-    if (a.id === 'favLink') update({ fav: true, q: '', cat: 'todos' });
-    else if (a.hasAttribute('data-reset')) { update({ q: '', cat: 'todos', fav: false, mode: 'todos', avail: false, sort: 'recomendado' }); scrollTo({ top: 0 }); }
-    else update({ cat: a.dataset.cat, q: '', fav: false });
+    if (a.id === 'favLink') update({ fav: true, q: '', cat: 'todos', gen: 'todos' });
+    else if (a.hasAttribute('data-reset')) { update({ q: '', cat: 'todos', gen: 'todos', fav: false, mode: 'todos', avail: false, sort: 'recomendado' }); scrollTo({ top: 0 }); }
+    else update({ cat: a.dataset.cat, gen: a.dataset.gen || 'todos', q: '', fav: false });
   });
 
   bindCards($('#grid'));
@@ -530,12 +571,12 @@
 
     $('#pCrumbs').innerHTML = [
       '<a href="/" data-reset>Inicio</a>',
-      `<a href="/?cat=${encodeURIComponent(d.categoria)}" data-cat="${esc(d.categoria)}">${esc(catName(d.categoria))}</a>`,
+      `<a href="${catUrl(d.categoria)}" data-cat="${esc(d.categoria)}">${esc(catName(d.categoria))}</a>`,
       `<span>${esc(d.nombre)}</span>`,
     ].join('<span aria-hidden="true">›</span>');
     $('#pTags').innerHTML = [
       d.destacado ? '<span class="tag tag--star">Destacado</span>' : '',
-      `<a class="tag tag--cat" href="/?cat=${encodeURIComponent(d.categoria)}" data-cat="${esc(d.categoria)}">${esc(catName(d.categoria))}</a>`,
+      `<a class="tag tag--cat" href="${catUrl(d.categoria)}" data-cat="${esc(d.categoria)}">${esc(catName(d.categoria))}</a>`,
       hasRent(d) ? '<span class="tag tag--rent">Alquiler</span>' : '',
       hasSale(d) ? '<span class="tag tag--sale">Venta</span>' : '',
     ].join('');
@@ -556,7 +597,8 @@
     $('#relatedSec').hidden = related.length === 0;
     $('#related').innerHTML = related.map(cardHtml).join('');
     $('#pScroll').scrollTop = 0;
-    document.title = `${d.nombre} · Disfraces Perú`;
+    document.title = `${d.nombre} · ${catName(d.categoria)} · Disfraces Perú`;
+    $('#canon').href = SITE + itemUrl(d);
   }
 
   function openItem(id, { push = true } = {}) {
@@ -566,9 +608,8 @@
     fillPdp(d);
     if (push) {
       const p = filterQuery();
-      p.set('d', id);
       pdpDepth += 1;
-      history.pushState({ pdpDepth }, '', `${location.pathname}?${p}`);
+      history.pushState({ pdpDepth }, '', itemUrl(d));
     }
     if (!pdp.open) { pdp.showModal(); document.body.style.overflow = 'hidden'; }
   }
@@ -576,8 +617,8 @@
   function hidePdp() {
     if (pdp.open) pdp.close();
     document.body.style.overflow = '';
-    document.title = 'Disfraces Perú · Alquiler y venta de disfraces en Miraflores';
     pdpItem = null;
+    setSeo();
   }
 
   let closing = false;
@@ -589,9 +630,9 @@
 
   window.addEventListener('popstate', () => {
     if (closing) { closing = false; pdpDepth = 0; writeUrl(); hidePdp(); return; }
-    const id = new URLSearchParams(location.search).get('d');
+    const id = resolveId(urlItemRaw());
     pdpDepth = history.state?.pdpDepth || 0;
-    if (id && state.items.some((x) => x.id === id)) openItem(id, { push: false });
+    if (id) openItem(id, { push: false });
     else hidePdp();
   });
 
@@ -611,7 +652,7 @@
     renderPdpOptions();
   });
   $('#pShare').addEventListener('click', async () => {
-    const link = `${location.origin}/?d=${pdpItem.id}`;
+    const link = `${location.origin}${itemUrl(pdpItem)}`;
     try { await navigator.clipboard.writeText(link); $('#pShare').textContent = '¡Enlace copiado!'; }
     catch { prompt('Copia este enlace:', link); }
   });
@@ -654,10 +695,12 @@
       state.cats = [...data.categorias].sort((a, b) => a.orden - b.orden);
       state.items = data.disfraces;
       if (state.cat !== 'todos' && !state.cats.some((c) => c.id === state.cat)) state.cat = 'todos';
+      const oid = resolveId(openId);
+      if (oid && state.cat === 'todos' && !state.q && !state.fav) state.cat = state.items.find((x) => x.id === oid).categoria;
       renderHome();
       renderFavCount();
       render({ keepScroll: true });
-      if (openId) openItem(openId, { push: false });
+      if (oid) openItem(oid, { push: false });
     })
     .catch(() => {
       $('#grid').innerHTML = '';

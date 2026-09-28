@@ -124,7 +124,7 @@ body.admin { background: #f6f2ea; }
 .bulk { background: #fff; border-radius: 20px; padding: 24px; box-shadow: var(--shadow); display: flex; flex-direction: column; gap: 18px; }
 .bulk__intro h2 { font-size: 1.7rem; }
 .bulk__intro p { color: var(--muted); margin: 6px 0 0; max-width: 60em; }
-.bulk__opts { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; }
+.bulk__opts { display: grid; grid-template-columns: repeat(5, 1fr); gap: 12px; }
 .bulk__split { align-self: flex-start; }
 .bulk-item input:placeholder-shown { background: #fff7ed; }
 .bulk__list { display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 12px; }

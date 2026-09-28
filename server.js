@@ -203,6 +203,7 @@ function validateCostume(body) {
     modalidad,
     descripcion: str(body.descripcion, 2000),
     tallas: str(body.tallas, 200),
+    genero: ['varon', 'dama', 'unisex'].includes(body.genero) ? body.genero : 'unisex',
     precioAlquiler: modalidad === 'venta' ? null : price(body.precioAlquiler),
     precioVenta: modalidad === 'alquiler' ? null : price(body.precioVenta),
     disponible: body.disponible !== false,
@@ -355,6 +356,8 @@ async function serveStatic(req, res, pathname) {
     base = UPLOADS_DIR;
     rel = pathname.slice('/uploads'.length);
   } else if (pathname === '/' ) {
+    rel = '/index.html';
+  } else if (pathname.startsWith('/categoria/') || pathname.startsWith('/disfraz/')) {
     rel = '/index.html';
   } else if (pathname === '/admin' || pathname === '/admin/') {
     rel = '/admin.html';

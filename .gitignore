@@ -4,3 +4,4 @@ node_modules/
 *.tmp
 public/data/
 public/uploads/
+dist/

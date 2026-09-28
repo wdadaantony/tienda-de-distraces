@@ -82,6 +82,13 @@
           </div>
           <div class="bulk__opts">
             <label class="field"><span>Categoría</span><select id="bCat"></select></label>
+            <label class="field"><span>Para</span>
+              <select id="bGen">
+                <option value="unisex">Varón y dama</option>
+                <option value="varon">Varón</option>
+                <option value="dama">Dama</option>
+              </select>
+            </label>
             <label class="field"><span>Modalidad</span>
               <select id="bMode">
                 <option value="ambos">Alquiler y venta</option>
@@ -139,6 +146,13 @@
         <div class="editor__fields">
           <label class="field"><span>Nombre *</span><input name="nombre" maxlength="120" required placeholder="Ej. Princesa de las Nieves"></label>
           <label class="field"><span>Categoría *</span><select name="categoria" id="edCat" required></select></label>
+          <label class="field"><span>Para</span>
+            <select name="genero">
+              <option value="unisex">Varón y dama (unisex)</option>
+              <option value="varon">Varón</option>
+              <option value="dama">Dama</option>
+            </select>
+          </label>
           <fieldset class="field">
             <legend>Modalidad</legend>
             <div class="radios">

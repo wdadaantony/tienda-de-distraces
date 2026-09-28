@@ -1,6 +1,12 @@
 [build]
   command = "node build-static.js"
-  publish = "public"
+  publish = "dist"
+
+[[redirects]]
+  from = "https://www.disfracesperu.net.pe/*"
+  to = "https://disfracesperu.net.pe/:splat"
+  status = 301
+  force = true
 
 [[redirects]]
   from = "/api/data"
