@@ -1,81 +1,36 @@
 {
   "categorias": [
     {
-      "id": "adultos",
-      "nombre": "Adultos",
+      "id": "bebes",
+      "nombre": "Bebes",
       "orden": 0
     },
     {
-      "id": "superheroes",
-      "nombre": "Superhéroes",
+      "id": "ninos",
+      "nombre": "Niños",
       "orden": 1
     },
     {
-      "id": "personajes-y-peliculas",
-      "nombre": "Personajes y Películas",
+      "id": "adultos",
+      "nombre": "Adultos",
       "orden": 2
     },
     {
-      "id": "halloween-sexy",
-      "nombre": "Halloween Sexy",
+      "id": "accesorios",
+      "nombre": "Accesorios",
       "orden": 3
-    },
-    {
-      "id": "danzas-tipicas-del-peru",
-      "nombre": "Danzas Típicas del Perú",
-      "orden": 4
-    },
-    {
-      "id": "ninos",
-      "nombre": "Disfraces para Niños",
-      "orden": 5
-    },
-    {
-      "id": "dalinas-arlequines-payasos",
-      "nombre": "Dalinas, Arlequines y Payasos",
-      "orden": 6
     },
     {
       "id": "botargas",
       "nombre": "Botargas",
-      "orden": 7
-    },
-    {
-      "id": "juegos-show",
-      "nombre": "Juegos para Show",
-      "orden": 8
-    },
-    {
-      "id": "ositos-sorpresa",
-      "nombre": "Ositos Sorpresa",
-      "orden": 9
-    },
-    {
-      "id": "dalinas-navidad",
-      "nombre": "Dalinas de Navidad",
-      "orden": 10
-    },
-    {
-      "id": "navidad",
-      "nombre": "Disfraces de Navidad",
-      "orden": 11
-    },
-    {
-      "id": "munecos-inflables",
-      "nombre": "Muñecos Inflables",
-      "orden": 12
-    },
-    {
-      "id": "disfraces-generales-para-ninos",
-      "nombre": "Disfraces Generales para Niños",
-      "orden": 13
+      "orden": 4
     }
   ],
   "disfraces": [
     {
       "id": "8c285a70-3c11-4345-b5a6-8a44bee21337",
       "nombre": "Ranita overol",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -86,12 +41,13 @@
       "imagenes": [
         "/uploads/e6801fbc-9ad9-4cc7-baf9-86be94eb8e09.webp"
       ],
-      "creado": "2026-09-28T22:52:05.899Z"
+      "creado": "2026-09-28T22:52:05.899Z",
+      "actualizado": "2026-09-28T22:56:01.433Z"
     },
     {
       "id": "7c5c2c8b-abd5-4fdb-b772-4d0df1be2658",
       "nombre": "Ranita vestido jean",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -102,12 +58,13 @@
       "imagenes": [
         "/uploads/1d4a1e55-3473-4912-b8c4-8287d0f6f6fe.webp"
       ],
-      "creado": "2026-09-28T22:52:05.879Z"
+      "creado": "2026-09-28T22:52:05.879Z",
+      "actualizado": "2026-09-28T22:56:01.440Z"
     },
     {
       "id": "af2887b7-5a42-439f-ae23-db5967ec4a4f",
       "nombre": "Ranita vestido azul",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -118,12 +75,13 @@
       "imagenes": [
         "/uploads/44acab45-5c70-4b03-9cc9-ec7b1e2461fd.webp"
       ],
-      "creado": "2026-09-28T22:52:05.857Z"
+      "creado": "2026-09-28T22:52:05.857Z",
+      "actualizado": "2026-09-28T22:56:01.445Z"
     },
     {
       "id": "b5e4bccf-4536-4616-8c18-9ffc878cfb2f",
       "nombre": "Ranita polo y tutú verde",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -134,12 +92,13 @@
       "imagenes": [
         "/uploads/f69637fa-e9f3-4b46-ba28-d57b53a75038.webp"
       ],
-      "creado": "2026-09-28T22:52:05.837Z"
+      "creado": "2026-09-28T22:52:05.837Z",
+      "actualizado": "2026-09-28T22:56:01.449Z"
     },
     {
       "id": "9f4cfdec-07b4-46f5-a5a1-e75675c4317e",
       "nombre": "Harry Potter Gryffindor",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -150,12 +109,13 @@
       "imagenes": [
         "/uploads/26c3b64c-d56f-4d81-8fd0-6ad63d76a75f.webp"
       ],
-      "creado": "2026-09-28T22:52:05.816Z"
+      "creado": "2026-09-28T22:52:05.816Z",
+      "actualizado": "2026-09-28T22:56:01.454Z"
     },
     {
       "id": "4549c65a-2f39-48d3-980b-f930d15a57a2",
       "nombre": "Harry Potter Slytherin",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -166,12 +126,13 @@
       "imagenes": [
         "/uploads/2a271d58-382c-47d3-b353-b60ac42b0d3f.webp"
       ],
-      "creado": "2026-09-28T22:52:05.796Z"
+      "creado": "2026-09-28T22:52:05.796Z",
+      "actualizado": "2026-09-28T22:56:01.458Z"
     },
     {
       "id": "15fbda3b-a119-4720-99d3-b51c6d979a5a",
       "nombre": "Minion",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -182,12 +143,13 @@
       "imagenes": [
         "/uploads/811f0e3b-13a5-47d4-bf5f-8309e0fe2e8e.webp"
       ],
-      "creado": "2026-09-28T22:52:05.777Z"
+      "creado": "2026-09-28T22:52:05.777Z",
+      "actualizado": "2026-09-28T22:56:01.485Z"
     },
     {
       "id": "a07bbaa0-fe37-4439-b44e-4f39906aadbc",
       "nombre": "Caperucita Roja",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -198,12 +160,13 @@
       "imagenes": [
         "/uploads/1447bbef-7b41-4401-ba59-08f2f745be2f.webp"
       ],
-      "creado": "2026-09-28T22:52:05.759Z"
+      "creado": "2026-09-28T22:52:05.759Z",
+      "actualizado": "2026-09-28T22:56:01.489Z"
     },
     {
       "id": "2ee820e5-3de8-4c97-926e-09668b2d8762",
       "nombre": "Jazmín (Jasmine)",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -214,12 +177,13 @@
       "imagenes": [
         "/uploads/c4a869c9-0370-4bd6-abaa-555efd04f282.webp"
       ],
-      "creado": "2026-09-28T22:52:05.740Z"
+      "creado": "2026-09-28T22:52:05.740Z",
+      "actualizado": "2026-09-28T22:56:01.502Z"
     },
     {
       "id": "19e1c5df-6142-4620-a365-a84b0b856d17",
       "nombre": "Aladdín azul",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -230,12 +194,13 @@
       "imagenes": [
         "/uploads/abb87c3d-79e0-43fa-9cc8-d6bfe2e11a94.webp"
       ],
-      "creado": "2026-09-28T22:52:05.721Z"
+      "creado": "2026-09-28T22:52:05.721Z",
+      "actualizado": "2026-09-28T22:56:01.506Z"
     },
     {
       "id": "34ac940e-b705-4811-b218-0c9f6bb5686d",
       "nombre": "Aladdín marrón",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -246,12 +211,13 @@
       "imagenes": [
         "/uploads/4aa25b93-b20f-4af7-8b56-a28148370a1b.webp"
       ],
-      "creado": "2026-09-28T22:52:05.700Z"
+      "creado": "2026-09-28T22:52:05.700Z",
+      "actualizado": "2026-09-28T22:56:01.509Z"
     },
     {
       "id": "448dca22-6261-4512-a5f2-e5fb8b3f305c",
       "nombre": "Aladdín blanco y dorado",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -262,12 +228,13 @@
       "imagenes": [
         "/uploads/d5666dc5-4ba5-49a0-b5e9-b13e41746a86.webp"
       ],
-      "creado": "2026-09-28T22:52:05.683Z"
+      "creado": "2026-09-28T22:52:05.683Z",
+      "actualizado": "2026-09-28T22:56:01.513Z"
     },
     {
       "id": "ca9ba0c6-4851-40e9-95ba-4e55d7a6493e",
       "nombre": "Barbie vestido rosa brillante",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -278,12 +245,13 @@
       "imagenes": [
         "/uploads/2f7db614-32f1-4866-be1c-59d4928f6bd7.webp"
       ],
-      "creado": "2026-09-28T22:52:05.666Z"
+      "creado": "2026-09-28T22:52:05.666Z",
+      "actualizado": "2026-09-28T22:56:01.516Z"
     },
     {
       "id": "03e77b11-1234-47c3-9f3c-b8fcc9a09981",
       "nombre": "Vaquero niño",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -294,12 +262,13 @@
       "imagenes": [
         "/uploads/176b0234-26e9-472d-a47d-e60709ede619.webp"
       ],
-      "creado": "2026-09-28T22:52:05.647Z"
+      "creado": "2026-09-28T22:52:05.647Z",
+      "actualizado": "2026-09-28T22:56:01.520Z"
     },
     {
       "id": "f20c9f24-e7f4-46ad-90de-6ec6535554ed",
       "nombre": "Vaquerita rosa con sombrero",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -310,12 +279,13 @@
       "imagenes": [
         "/uploads/2cd8b808-c631-406c-b323-86abc1e2836f.webp"
       ],
-      "creado": "2026-09-28T22:52:05.627Z"
+      "creado": "2026-09-28T22:52:05.627Z",
+      "actualizado": "2026-09-28T22:56:01.524Z"
     },
     {
       "id": "1ab851d0-d8c3-4cdf-9147-fd38796f7076",
       "nombre": "Vaquerita jean",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -326,12 +296,13 @@
       "imagenes": [
         "/uploads/b0745f48-1b88-401e-805d-7050ac05fa40.webp"
       ],
-      "creado": "2026-09-28T22:52:05.610Z"
+      "creado": "2026-09-28T22:52:05.610Z",
+      "actualizado": "2026-09-28T22:56:01.527Z"
     },
     {
       "id": "16313fac-0385-42c8-b2a6-d6ea38c38890",
       "nombre": "Sirenita Ariel con peluca",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -342,12 +313,13 @@
       "imagenes": [
         "/uploads/c872b0a6-d164-4a3c-8200-ac77e4be599b.webp"
       ],
-      "creado": "2026-09-28T22:52:05.592Z"
+      "creado": "2026-09-28T22:52:05.592Z",
+      "actualizado": "2026-09-28T22:56:01.530Z"
     },
     {
       "id": "59b9e31d-ebf6-4dc8-a2a8-2bac8df275f0",
       "nombre": "Sirenita Ariel vestido",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -358,12 +330,13 @@
       "imagenes": [
         "/uploads/48817db3-19cf-4e68-8108-8eddfbe6ffa5.webp"
       ],
-      "creado": "2026-09-28T22:52:05.575Z"
+      "creado": "2026-09-28T22:52:05.575Z",
+      "actualizado": "2026-09-28T22:56:01.534Z"
     },
     {
       "id": "7cd4c069-1120-4185-bddd-73448cb30aab",
       "nombre": "Peter Pan",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -374,12 +347,13 @@
       "imagenes": [
         "/uploads/3dc48923-2cbb-4516-b1f0-16652a52f438.webp"
       ],
-      "creado": "2026-09-28T22:52:05.525Z"
+      "creado": "2026-09-28T22:52:05.525Z",
+      "actualizado": "2026-09-28T22:56:01.538Z"
     },
     {
       "id": "6e58d950-bc91-4dac-b165-19722a4e6b75",
       "nombre": "Jedi con capucha",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -390,12 +364,13 @@
       "imagenes": [
         "/uploads/4d4f2ab2-6868-4274-b0a3-827d088e0009.webp"
       ],
-      "creado": "2026-09-28T22:52:05.505Z"
+      "creado": "2026-09-28T22:52:05.505Z",
+      "actualizado": "2026-09-28T22:56:01.541Z"
     },
     {
       "id": "34e4db3a-71cd-4382-9c78-6261d83e949d",
       "nombre": "Jessie conjunto pantalón",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -406,12 +381,13 @@
       "imagenes": [
         "/uploads/2c33320b-e89f-4275-9261-348c9c3b74c2.webp"
       ],
-      "creado": "2026-09-28T22:52:05.479Z"
+      "creado": "2026-09-28T22:52:05.479Z",
+      "actualizado": "2026-09-28T22:56:01.545Z"
     },
     {
       "id": "bca2b872-322f-4276-8a15-413142c766f9",
       "nombre": "Jessie (Toy Story)",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -422,12 +398,13 @@
       "imagenes": [
         "/uploads/240d7c6a-4a4f-4aa0-bea6-8680b3df09d3.webp"
       ],
-      "creado": "2026-09-28T22:52:05.461Z"
+      "creado": "2026-09-28T22:52:05.461Z",
+      "actualizado": "2026-09-28T22:56:01.548Z"
     },
     {
       "id": "0e0c165a-db32-4ce3-bb43-ddf24e2fa417",
       "nombre": "Buzz Lightyear",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -438,12 +415,13 @@
       "imagenes": [
         "/uploads/3dd1514f-5a2a-4cd0-bffd-dff00d1180b5.webp"
       ],
-      "creado": "2026-09-28T22:52:05.441Z"
+      "creado": "2026-09-28T22:52:05.441Z",
+      "actualizado": "2026-09-28T22:56:01.552Z"
     },
     {
       "id": "9f240e64-632f-46e1-97f9-d448abd4f75d",
       "nombre": "Woody (Toy Story)",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -454,12 +432,13 @@
       "imagenes": [
         "/uploads/78c29325-ecfa-4651-b35e-9d34fba8e65e.webp"
       ],
-      "creado": "2026-09-28T22:52:05.422Z"
+      "creado": "2026-09-28T22:52:05.422Z",
+      "actualizado": "2026-09-28T22:56:01.556Z"
     },
     {
       "id": "ab90542d-80c8-4116-a7af-de9dc28b6de9",
       "nombre": "Plim Plim con capa amarilla",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -470,12 +449,13 @@
       "imagenes": [
         "/uploads/f8efe4c4-8dec-4a47-bbb3-6aa57a477765.webp"
       ],
-      "creado": "2026-09-28T22:52:05.402Z"
+      "creado": "2026-09-28T22:52:05.402Z",
+      "actualizado": "2026-09-28T22:56:01.560Z"
     },
     {
       "id": "c1e7ce5d-0dba-4322-af47-f1c0c57aab5b",
       "nombre": "Barbie vestido rosa de cuadros",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -486,12 +466,13 @@
       "imagenes": [
         "/uploads/8ac6803c-c951-465f-8636-21bae7bcf83d.webp"
       ],
-      "creado": "2026-09-28T22:52:05.383Z"
+      "creado": "2026-09-28T22:52:05.383Z",
+      "actualizado": "2026-09-28T22:56:01.563Z"
     },
     {
       "id": "53dc3fc9-9d2e-41e2-b5ab-eccfd68b00eb",
       "nombre": "Mago negro",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -502,12 +483,13 @@
       "imagenes": [
         "/uploads/d83e86b3-728a-4135-b8d1-ef993bc8dd3a.webp"
       ],
-      "creado": "2026-09-28T22:52:05.361Z"
+      "creado": "2026-09-28T22:52:05.361Z",
+      "actualizado": "2026-09-28T22:56:01.567Z"
     },
     {
       "id": "5dcfb07b-54c7-467b-b78d-48e9ab078a2e",
       "nombre": "Granjera",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -518,12 +500,13 @@
       "imagenes": [
         "/uploads/d5e0a094-0d2a-4c21-946c-5a484d1fa4b3.webp"
       ],
-      "creado": "2026-09-28T22:52:05.334Z"
+      "creado": "2026-09-28T22:52:05.334Z",
+      "actualizado": "2026-09-28T22:56:01.571Z"
     },
     {
       "id": "a1f59dd5-0eac-4154-a8f0-e3e9e68799db",
       "nombre": "Campanita",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -534,12 +517,13 @@
       "imagenes": [
         "/uploads/d2f9c314-5776-48bd-8781-345fdc0e2d65.webp"
       ],
-      "creado": "2026-09-28T22:52:05.312Z"
+      "creado": "2026-09-28T22:52:05.312Z",
+      "actualizado": "2026-09-28T22:56:01.575Z"
     },
     {
       "id": "38a6e619-42d2-4f89-9d54-5e089fc683c2",
       "nombre": "Cabra morada (Zootopia)",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -550,12 +534,13 @@
       "imagenes": [
         "/uploads/c70d7256-2751-43e1-9ed3-105be6286fe6.webp"
       ],
-      "creado": "2026-09-28T22:52:05.294Z"
+      "creado": "2026-09-28T22:52:05.294Z",
+      "actualizado": "2026-09-28T22:56:01.578Z"
     },
     {
       "id": "2e0ceac8-ebd0-4815-b4d3-57a7adc328a1",
       "nombre": "Bam-Bam",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -566,12 +551,13 @@
       "imagenes": [
         "/uploads/01548be2-4377-49a0-a28d-9d8fb3bc4c05.webp"
       ],
-      "creado": "2026-09-28T22:52:05.276Z"
+      "creado": "2026-09-28T22:52:05.276Z",
+      "actualizado": "2026-09-28T22:56:01.582Z"
     },
     {
       "id": "736dda24-00e0-4ddf-a3b3-290ff74f9cff",
       "nombre": "Betty Picapiedra vestido azul",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -582,12 +568,13 @@
       "imagenes": [
         "/uploads/6a469caf-221a-467b-bb02-a0092a0092a6.webp"
       ],
-      "creado": "2026-09-28T22:52:05.251Z"
+      "creado": "2026-09-28T22:52:05.251Z",
+      "actualizado": "2026-09-28T22:56:01.586Z"
     },
     {
       "id": "a1b1b7ad-27be-438f-a319-c31e4c0bf987",
       "nombre": "Picapiedra túnica dorada",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -598,12 +585,13 @@
       "imagenes": [
         "/uploads/a3330a98-fce0-43a3-a159-59fdaeb0271e.webp"
       ],
-      "creado": "2026-09-28T22:52:05.234Z"
+      "creado": "2026-09-28T22:52:05.234Z",
+      "actualizado": "2026-09-28T22:56:01.590Z"
     },
     {
       "id": "098c728b-0558-4ebe-886a-726a9a348c6e",
       "nombre": "Betty Picapiedra",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -614,12 +602,13 @@
       "imagenes": [
         "/uploads/deb197d0-9547-4406-a1db-acc63ab528e6.webp"
       ],
-      "creado": "2026-09-28T22:52:05.216Z"
+      "creado": "2026-09-28T22:52:05.216Z",
+      "actualizado": "2026-09-28T22:56:01.593Z"
     },
     {
       "id": "fc4f539f-8e34-4786-9052-9ff42ee5841b",
       "nombre": "Wilma Picapiedra",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -630,12 +619,13 @@
       "imagenes": [
         "/uploads/33ee25ef-5f50-4c6d-87b6-16d39e31b869.webp"
       ],
-      "creado": "2026-09-28T22:52:05.198Z"
+      "creado": "2026-09-28T22:52:05.198Z",
+      "actualizado": "2026-09-28T22:56:01.596Z"
     },
     {
       "id": "a0dfc770-6e2a-4c51-b098-df6ec814b278",
       "nombre": "Pedro Picapiedra",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -646,12 +636,13 @@
       "imagenes": [
         "/uploads/ac449f18-c8d8-493b-b403-4e6ba79088d8.webp"
       ],
-      "creado": "2026-09-28T22:52:05.178Z"
+      "creado": "2026-09-28T22:52:05.178Z",
+      "actualizado": "2026-09-28T22:56:01.626Z"
     },
     {
       "id": "c60dc444-3493-45ba-ab72-f9c3af6cc317",
       "nombre": "Granjero",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -662,12 +653,13 @@
       "imagenes": [
         "/uploads/8ce15d51-a327-41ec-96a6-c9d812043af0.webp"
       ],
-      "creado": "2026-09-28T22:52:05.160Z"
+      "creado": "2026-09-28T22:52:05.160Z",
+      "actualizado": "2026-09-28T22:56:01.631Z"
     },
     {
       "id": "0232be88-67dc-4d3c-9aa0-7c8c8460b628",
       "nombre": "Motociclista Grease",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -678,12 +670,13 @@
       "imagenes": [
         "/uploads/0b2a5c68-3105-4ff3-8337-f0b8c891283f.webp"
       ],
-      "creado": "2026-09-28T22:52:05.141Z"
+      "creado": "2026-09-28T22:52:05.141Z",
+      "actualizado": "2026-09-28T22:56:01.636Z"
     },
     {
       "id": "54d5b9f4-810e-447c-8ee8-b2c226ce29c7",
       "nombre": "Blusa blanca y falda rosa de lunares",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -694,12 +687,13 @@
       "imagenes": [
         "/uploads/07814b2d-b113-4f6f-a8f6-f138b5f7294d.webp"
       ],
-      "creado": "2026-09-28T22:52:05.121Z"
+      "creado": "2026-09-28T22:52:05.121Z",
+      "actualizado": "2026-09-28T22:56:01.643Z"
     },
     {
       "id": "eb8c5d8c-a90d-40c5-b7c8-8b5a2b97c7d2",
       "nombre": "Blusa blanca y falda amarilla",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -710,12 +704,13 @@
       "imagenes": [
         "/uploads/b71edff2-3643-436b-9824-d126dda059e6.webp"
       ],
-      "creado": "2026-09-28T22:52:05.102Z"
+      "creado": "2026-09-28T22:52:05.102Z",
+      "actualizado": "2026-09-28T22:56:01.648Z"
     },
     {
       "id": "9cc89592-5fb3-4a09-a68b-cc781d99fbd4",
       "nombre": "Blusa blanca y falda celeste de lunares",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -726,12 +721,13 @@
       "imagenes": [
         "/uploads/3e810097-a210-4bd5-9c0c-c2803f4970b1.webp"
       ],
-      "creado": "2026-09-28T22:52:05.084Z"
+      "creado": "2026-09-28T22:52:05.084Z",
+      "actualizado": "2026-09-28T22:56:01.653Z"
     },
     {
       "id": "7b7e4096-66f4-42b9-8289-27a797d2123c",
       "nombre": "Superheroína morada y dorada",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -742,12 +738,13 @@
       "imagenes": [
         "/uploads/a5298d2f-2240-467e-85e9-c9f8532046bc.webp"
       ],
-      "creado": "2026-09-28T22:52:05.064Z"
+      "creado": "2026-09-28T22:52:05.064Z",
+      "actualizado": "2026-09-28T22:56:01.713Z"
     },
     {
       "id": "7942b445-3799-4ceb-8d6d-f816be8050c5",
       "nombre": "Pinocho",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -758,12 +755,13 @@
       "imagenes": [
         "/uploads/63d14528-702c-49ff-a5f4-77a38ec2126d.webp"
       ],
-      "creado": "2026-09-28T22:52:05.043Z"
+      "creado": "2026-09-28T22:52:05.043Z",
+      "actualizado": "2026-09-28T22:56:01.720Z"
     },
     {
       "id": "51c8be8b-20c6-4708-8724-aa074c0fc821",
       "nombre": "La Chilindrina",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -774,12 +772,13 @@
       "imagenes": [
         "/uploads/895f06fc-2128-4507-b262-9c041a16a8d0.webp"
       ],
-      "creado": "2026-09-28T22:52:05.026Z"
+      "creado": "2026-09-28T22:52:05.026Z",
+      "actualizado": "2026-09-28T22:56:01.724Z"
     },
     {
       "id": "3944903a-f680-42a2-9de4-4d61718ff400",
       "nombre": "Doña Clotilde (Bruja del 71)",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -790,12 +789,13 @@
       "imagenes": [
         "/uploads/a00a2fa7-0339-4616-ae15-b013a317db5e.webp"
       ],
-      "creado": "2026-09-28T22:52:05.003Z"
+      "creado": "2026-09-28T22:52:05.003Z",
+      "actualizado": "2026-09-28T22:56:01.728Z"
     },
     {
       "id": "76a0e377-c9c1-4f19-bc5c-c6b6e128b436",
       "nombre": "Vestido floral con encaje",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -806,12 +806,13 @@
       "imagenes": [
         "/uploads/adb7df8c-aa9c-4b93-b8c2-c525b5934397.webp"
       ],
-      "creado": "2026-09-28T22:52:04.984Z"
+      "creado": "2026-09-28T22:52:04.984Z",
+      "actualizado": "2026-09-28T22:56:01.732Z"
     },
     {
       "id": "d9ecfe33-7596-4c8e-98f6-31e66b3916d6",
       "nombre": "Vestido floral con delantal",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -822,12 +823,13 @@
       "imagenes": [
         "/uploads/520573de-18a5-4df7-9697-dfaf5b5ff631.webp"
       ],
-      "creado": "2026-09-28T22:52:04.961Z"
+      "creado": "2026-09-28T22:52:04.961Z",
+      "actualizado": "2026-09-28T22:56:01.737Z"
     },
     {
       "id": "59d7a753-b444-4d04-a0bc-a27ad9da0b1e",
       "nombre": "Vestido floral niña",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -838,12 +840,13 @@
       "imagenes": [
         "/uploads/bb596135-d1b3-4fca-a469-f471f0f77c20.webp"
       ],
-      "creado": "2026-09-28T22:52:04.940Z"
+      "creado": "2026-09-28T22:52:04.940Z",
+      "actualizado": "2026-09-28T22:56:01.741Z"
     },
     {
       "id": "c3918ac5-cf5d-4d15-b6b6-af93813f0808",
       "nombre": "Niño camiseta negra y sombrero blanco",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -854,12 +857,13 @@
       "imagenes": [
         "/uploads/d5cbfd13-b325-44c7-ad42-ca754766da5b.webp"
       ],
-      "creado": "2026-09-28T22:52:04.920Z"
+      "creado": "2026-09-28T22:52:04.920Z",
+      "actualizado": "2026-09-28T22:56:01.745Z"
     },
     {
       "id": "3567c00c-200e-4ba9-909a-9a161511ad47",
       "nombre": "Popeye",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -870,12 +874,13 @@
       "imagenes": [
         "/uploads/692a17a9-fa18-4817-997d-49148b650bb1.webp"
       ],
-      "creado": "2026-09-28T22:52:04.896Z"
+      "creado": "2026-09-28T22:52:04.896Z",
+      "actualizado": "2026-09-28T22:56:01.751Z"
     },
     {
       "id": "407a13f5-91f7-4a4a-ab96-9bfaa5adba3b",
       "nombre": "Ñoño",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -886,12 +891,13 @@
       "imagenes": [
         "/uploads/0ff42864-cadf-407e-b774-d365008a63fd.webp"
       ],
-      "creado": "2026-09-28T22:52:04.876Z"
+      "creado": "2026-09-28T22:52:04.876Z",
+      "actualizado": "2026-09-28T22:56:01.756Z"
     },
     {
       "id": "960233dd-803c-446c-bde7-9ce738badf37",
       "nombre": "Kiko (El Chavo)",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -902,12 +908,13 @@
       "imagenes": [
         "/uploads/f4fbd0c1-3343-440b-8ba5-f79dbd8eeb27.webp"
       ],
-      "creado": "2026-09-28T22:52:04.854Z"
+      "creado": "2026-09-28T22:52:04.854Z",
+      "actualizado": "2026-09-28T22:56:01.760Z"
     },
     {
       "id": "9082f1c4-11b7-4796-9308-267620d886dc",
       "nombre": "El Chapulín Colorado",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -918,12 +925,13 @@
       "imagenes": [
         "/uploads/2306878a-47e1-4ac2-8e0f-bcdfab7b2a5f.webp"
       ],
-      "creado": "2026-09-28T22:52:04.834Z"
+      "creado": "2026-09-28T22:52:04.834Z",
+      "actualizado": "2026-09-28T22:56:01.764Z"
     },
     {
       "id": "b823c96f-ebe7-4660-9ebd-ec252db17809",
       "nombre": "Quico (El Chavo)",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -934,12 +942,13 @@
       "imagenes": [
         "/uploads/8366396b-2996-49a7-821d-06e8c65f0bf6.webp"
       ],
-      "creado": "2026-09-28T22:52:04.814Z"
+      "creado": "2026-09-28T22:52:04.814Z",
+      "actualizado": "2026-09-28T22:56:01.768Z"
     },
     {
       "id": "7985c854-431d-42e3-9bbd-fc627d57b14e",
       "nombre": "Abejita polo y tutú",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -950,12 +959,13 @@
       "imagenes": [
         "/uploads/12dc3c70-186d-42fa-9d34-5b2af46bb867.webp"
       ],
-      "creado": "2026-09-28T22:52:04.796Z"
+      "creado": "2026-09-28T22:52:04.796Z",
+      "actualizado": "2026-09-28T22:56:01.774Z"
     },
     {
       "id": "8fdebcca-f0e7-4132-a2b7-653d9bf42c6e",
       "nombre": "Abejita negra y amarilla",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -966,12 +976,13 @@
       "imagenes": [
         "/uploads/38c3223f-e458-4fae-95c0-f188ad609213.webp"
       ],
-      "creado": "2026-09-28T22:52:04.778Z"
+      "creado": "2026-09-28T22:52:04.778Z",
+      "actualizado": "2026-09-28T22:56:01.777Z"
     },
     {
       "id": "d5ebe9b1-826b-4255-9e28-d1e2398c19aa",
       "nombre": "Abejita vestido con lazo",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -982,12 +993,13 @@
       "imagenes": [
         "/uploads/1f44fa72-124c-476a-b13a-2e96e44a8302.webp"
       ],
-      "creado": "2026-09-28T22:52:04.760Z"
+      "creado": "2026-09-28T22:52:04.760Z",
+      "actualizado": "2026-09-28T22:56:01.781Z"
     },
     {
       "id": "53a7e41f-f428-4bb7-910b-075ef741455e",
       "nombre": "Abejita vestido amarillo",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -998,12 +1010,13 @@
       "imagenes": [
         "/uploads/84fdc237-4c6d-4cc4-bc7c-093084576425.webp"
       ],
-      "creado": "2026-09-28T22:52:04.743Z"
+      "creado": "2026-09-28T22:52:04.743Z",
+      "actualizado": "2026-09-28T22:56:01.786Z"
     },
     {
       "id": "910c23dc-02db-4f8c-9848-2aae4063f97a",
       "nombre": "Niña marinera azul y blanco",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1014,12 +1027,13 @@
       "imagenes": [
         "/uploads/cd5796df-b25c-41e1-bbb6-b3c8bf435ab6.webp"
       ],
-      "creado": "2026-09-28T22:52:04.725Z"
+      "creado": "2026-09-28T22:52:04.725Z",
+      "actualizado": "2026-09-28T22:56:01.790Z"
     },
     {
       "id": "abf9a8c3-09e2-4790-bb44-324c35ac37c6",
       "nombre": "Stitch enterizo",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1030,12 +1044,13 @@
       "imagenes": [
         "/uploads/c181b7db-44ca-4706-9391-f2399c7b812b.webp"
       ],
-      "creado": "2026-09-28T22:52:04.707Z"
+      "creado": "2026-09-28T22:52:04.707Z",
+      "actualizado": "2026-09-28T22:56:01.794Z"
     },
     {
       "id": "fbfc16c3-7068-499a-a1e8-8b8822b59436",
       "nombre": "Stitch vestido celeste",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1046,12 +1061,13 @@
       "imagenes": [
         "/uploads/01b41676-1de3-477c-84fe-d1f31085c974.webp"
       ],
-      "creado": "2026-09-28T22:52:04.690Z"
+      "creado": "2026-09-28T22:52:04.690Z",
+      "actualizado": "2026-09-28T22:56:01.798Z"
     },
     {
       "id": "803afd8b-b9d8-4301-844f-269ae2fe0840",
       "nombre": "Stitch vestido con tul",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1062,12 +1078,13 @@
       "imagenes": [
         "/uploads/7587fc2b-e7d5-49cb-9e4c-5147fad7416e.webp"
       ],
-      "creado": "2026-09-28T22:52:04.673Z"
+      "creado": "2026-09-28T22:52:04.673Z",
+      "actualizado": "2026-09-28T22:56:01.802Z"
     },
     {
       "id": "a7699a8f-4cb5-40ba-aded-204872129b2e",
       "nombre": "Stitch conejita",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1078,12 +1095,13 @@
       "imagenes": [
         "/uploads/488770d4-15f4-44eb-a9a2-a064c75b4627.webp"
       ],
-      "creado": "2026-09-28T22:52:04.654Z"
+      "creado": "2026-09-28T22:52:04.654Z",
+      "actualizado": "2026-09-28T22:56:01.806Z"
     },
     {
       "id": "f7b340d2-4c7d-49d6-b642-78b81025648a",
       "nombre": "Stitch vestido azul con lentejuelas",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1094,12 +1112,13 @@
       "imagenes": [
         "/uploads/4b5826fb-8e73-462c-9c6f-6878b19a554e.webp"
       ],
-      "creado": "2026-09-28T22:52:04.637Z"
+      "creado": "2026-09-28T22:52:04.637Z",
+      "actualizado": "2026-09-28T22:56:01.810Z"
     },
     {
       "id": "2beadefb-f35b-43c0-b780-63ded66818a5",
       "nombre": "Lilo vestido verde",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1110,12 +1129,13 @@
       "imagenes": [
         "/uploads/01f44540-244c-4fe5-82c8-69ad68d16b3c.webp"
       ],
-      "creado": "2026-09-28T22:52:04.617Z"
+      "creado": "2026-09-28T22:52:04.617Z",
+      "actualizado": "2026-09-28T22:56:01.813Z"
     },
     {
       "id": "abae3d31-9479-4397-9dbb-31a5f982b753",
       "nombre": "Lilo (Lilo y Stitch)",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1126,12 +1146,13 @@
       "imagenes": [
         "/uploads/0b855f14-8177-400a-ac32-f769750d05a4.webp"
       ],
-      "creado": "2026-09-28T22:52:04.596Z"
+      "creado": "2026-09-28T22:52:04.596Z",
+      "actualizado": "2026-09-28T22:56:01.817Z"
     },
     {
       "id": "7178864e-2a4a-43ca-989a-6e07a3e70388",
       "nombre": "Moana",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1142,12 +1163,13 @@
       "imagenes": [
         "/uploads/d1401ccd-e103-40cf-96c1-13e2f6d48c25.webp"
       ],
-      "creado": "2026-09-28T22:52:04.578Z"
+      "creado": "2026-09-28T22:52:04.578Z",
+      "actualizado": "2026-09-28T22:56:01.823Z"
     },
     {
       "id": "f3252a7b-3dd1-4a7f-adc1-e17975731bfb",
       "nombre": "Unicornio conjunto",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1158,12 +1180,13 @@
       "imagenes": [
         "/uploads/7b88ad0e-9810-43f3-b99f-c486a5bda6f7.webp"
       ],
-      "creado": "2026-09-28T22:52:04.559Z"
+      "creado": "2026-09-28T22:52:04.559Z",
+      "actualizado": "2026-09-28T22:56:01.827Z"
     },
     {
       "id": "0e354468-7eab-4678-864f-ca9726be5ec5",
       "nombre": "Unicornio niña",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1174,12 +1197,13 @@
       "imagenes": [
         "/uploads/fc2cdfbf-9a64-407c-829e-3a6d4d416102.webp"
       ],
-      "creado": "2026-09-28T22:52:04.541Z"
+      "creado": "2026-09-28T22:52:04.541Z",
+      "actualizado": "2026-09-28T22:56:01.830Z"
     },
     {
       "id": "511cd7f8-f15b-488c-88d4-d8f6eacb3b21",
       "nombre": "Mimo niño",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1190,12 +1214,13 @@
       "imagenes": [
         "/uploads/cdf4d6e6-73cf-44e5-9731-27d7f279e3fb.webp"
       ],
-      "creado": "2026-09-28T22:52:04.497Z"
+      "creado": "2026-09-28T22:52:04.497Z",
+      "actualizado": "2026-09-28T22:56:01.834Z"
     },
     {
       "id": "2627b0bb-5895-4f75-be17-3e1be457e75a",
       "nombre": "Mimo niña",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1206,12 +1231,13 @@
       "imagenes": [
         "/uploads/869d3bf6-0395-41e3-bf17-e84580fb0b06.webp"
       ],
-      "creado": "2026-09-28T22:52:04.463Z"
+      "creado": "2026-09-28T22:52:04.463Z",
+      "actualizado": "2026-09-28T22:56:01.838Z"
     },
     {
       "id": "1160cadd-dc74-4556-aa38-472c3054b452",
       "nombre": "Naruto",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1222,12 +1248,13 @@
       "imagenes": [
         "/uploads/c802666d-1a73-4bd3-b6d5-8440d6381e0c.webp"
       ],
-      "creado": "2026-09-28T22:52:04.439Z"
+      "creado": "2026-09-28T22:52:04.439Z",
+      "actualizado": "2026-09-28T22:56:01.842Z"
     },
     {
       "id": "559cdf9c-f76e-4e55-bf8d-1df02528c3da",
       "nombre": "Payasita amarilla con tutú arcoíris",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1238,12 +1265,13 @@
       "imagenes": [
         "/uploads/d6250548-5564-4f71-8e14-405bd7a4be96.webp"
       ],
-      "creado": "2026-09-28T22:52:04.407Z"
+      "creado": "2026-09-28T22:52:04.407Z",
+      "actualizado": "2026-09-28T22:56:01.846Z"
     },
     {
       "id": "02bdd4ad-89cd-4180-a8db-3379c28d1841",
       "nombre": "Payasita rosa y amarillo",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1254,12 +1282,13 @@
       "imagenes": [
         "/uploads/1dbc8afb-79b5-48c6-b47e-3831b4fdae72.webp"
       ],
-      "creado": "2026-09-28T22:52:04.384Z"
+      "creado": "2026-09-28T22:52:04.384Z",
+      "actualizado": "2026-09-28T22:56:01.850Z"
     },
     {
       "id": "24962176-21d9-4f3b-99bd-0bac3ce784b6",
       "nombre": "Payasito multicolor con estrellas",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1270,12 +1299,13 @@
       "imagenes": [
         "/uploads/b75ccea2-37f2-4996-b758-23bad3414545.webp"
       ],
-      "creado": "2026-09-28T22:52:04.362Z"
+      "creado": "2026-09-28T22:52:04.362Z",
+      "actualizado": "2026-09-28T22:56:01.854Z"
     },
     {
       "id": "92edb3f4-f37e-4bd8-b27c-f30892197736",
       "nombre": "Payasito overol azul",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1286,12 +1316,13 @@
       "imagenes": [
         "/uploads/97414910-d2e8-4bcd-be32-706d1174c24c.webp"
       ],
-      "creado": "2026-09-28T22:52:04.344Z"
+      "creado": "2026-09-28T22:52:04.344Z",
+      "actualizado": "2026-09-28T22:56:01.859Z"
     },
     {
       "id": "92f1e1e1-e059-4628-b9b4-33512c839efd",
       "nombre": "Payasito overol amarillo",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1302,12 +1333,13 @@
       "imagenes": [
         "/uploads/940b3957-36c7-4502-a368-a4e2a5bbf94a.webp"
       ],
-      "creado": "2026-09-28T22:52:04.323Z"
+      "creado": "2026-09-28T22:52:04.323Z",
+      "actualizado": "2026-09-28T22:56:01.862Z"
     },
     {
       "id": "cae283e7-9fc0-41f0-a6b6-680935b0c518",
       "nombre": "Payasito overol rojo",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1318,12 +1350,13 @@
       "imagenes": [
         "/uploads/d9d7460f-608b-42aa-9b02-ce33a024609b.webp"
       ],
-      "creado": "2026-09-28T22:52:04.304Z"
+      "creado": "2026-09-28T22:52:04.304Z",
+      "actualizado": "2026-09-28T22:56:01.866Z"
     },
     {
       "id": "19ddd818-13e6-4141-82de-6a2af5e39446",
       "nombre": "Gato con Botas",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1334,12 +1367,13 @@
       "imagenes": [
         "/uploads/e16241a1-5230-43e8-8318-5dccfcb5670c.webp"
       ],
-      "creado": "2026-09-28T22:52:04.230Z"
+      "creado": "2026-09-28T22:52:04.230Z",
+      "actualizado": "2026-09-28T22:56:01.871Z"
     },
     {
       "id": "884553e1-2301-4c50-a88c-1689f3f8d81d",
       "nombre": "Piloto Hot Wheels azul y amarillo",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1350,12 +1384,13 @@
       "imagenes": [
         "/uploads/1b18fae3-988b-4e71-bd45-fe424328f443.webp"
       ],
-      "creado": "2026-09-28T22:52:04.211Z"
+      "creado": "2026-09-28T22:52:04.211Z",
+      "actualizado": "2026-09-28T22:56:01.875Z"
     },
     {
       "id": "2c2c2e1d-1d62-44c8-8fb6-9ea20ea6a53f",
       "nombre": "Piloto Rayo McQueen",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1366,12 +1401,13 @@
       "imagenes": [
         "/uploads/f13b7afa-c2cc-487a-ab28-86465c7e31d7.webp"
       ],
-      "creado": "2026-09-28T22:52:04.190Z"
+      "creado": "2026-09-28T22:52:04.190Z",
+      "actualizado": "2026-09-28T22:56:01.879Z"
     },
     {
       "id": "2a404764-37d4-4543-841f-5444c2d111ba",
       "nombre": "Piloto Hot Wheels rojo",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1382,12 +1418,13 @@
       "imagenes": [
         "/uploads/8e55e6ea-bd40-4792-9abd-6e99f4d51ab7.webp"
       ],
-      "creado": "2026-09-28T22:52:04.168Z"
+      "creado": "2026-09-28T22:52:04.168Z",
+      "actualizado": "2026-09-28T22:56:01.884Z"
     },
     {
       "id": "b0f0a3d5-d05f-40e4-9909-ff9f7f76917b",
       "nombre": "Piloto Ferrari conjunto",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1398,12 +1435,13 @@
       "imagenes": [
         "/uploads/c1302578-6148-4f61-a795-3f81c61ef4ab.webp"
       ],
-      "creado": "2026-09-28T22:52:04.148Z"
+      "creado": "2026-09-28T22:52:04.148Z",
+      "actualizado": "2026-09-28T22:56:01.888Z"
     },
     {
       "id": "17a44f9a-27fe-4816-8174-95946a4efb44",
       "nombre": "Piloto Ferrari blanco",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1414,12 +1452,13 @@
       "imagenes": [
         "/uploads/b3fbdd2b-aae7-470e-b502-c5db7c555b46.webp"
       ],
-      "creado": "2026-09-28T22:52:04.131Z"
+      "creado": "2026-09-28T22:52:04.131Z",
+      "actualizado": "2026-09-28T22:56:01.892Z"
     },
     {
       "id": "4ab205a5-79db-414b-a3aa-d391dcdcbd82",
       "nombre": "Explorador scout (Up)",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1430,12 +1469,13 @@
       "imagenes": [
         "/uploads/8337a73f-0799-4f2e-8e3a-e5af14b2e727.webp"
       ],
-      "creado": "2026-09-28T22:52:04.113Z"
+      "creado": "2026-09-28T22:52:04.113Z",
+      "actualizado": "2026-09-28T22:56:01.896Z"
     },
     {
       "id": "0f669453-7717-44c3-8c63-b471a5a24a15",
       "nombre": "Pocoyó",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1446,12 +1486,13 @@
       "imagenes": [
         "/uploads/a3f85f00-be80-4465-9870-38c0bac69858.webp"
       ],
-      "creado": "2026-09-28T22:52:04.093Z"
+      "creado": "2026-09-28T22:52:04.093Z",
+      "actualizado": "2026-09-28T22:56:01.900Z"
     },
     {
       "id": "2b214740-a68f-4eff-b326-f770cd819925",
       "nombre": "Niña vestido azul y dorado con botas amarillas",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1462,12 +1503,13 @@
       "imagenes": [
         "/uploads/b5da221c-0021-4a98-9f70-893d76184dd1.webp"
       ],
-      "creado": "2026-09-28T22:52:04.071Z"
+      "creado": "2026-09-28T22:52:04.071Z",
+      "actualizado": "2026-09-28T22:56:01.905Z"
     },
     {
       "id": "9b47479c-68d2-42e0-8b73-f74db702136e",
       "nombre": "Bowser",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1478,12 +1520,13 @@
       "imagenes": [
         "/uploads/259e92b1-45e2-4c5c-afea-d98195e5a51a.webp"
       ],
-      "creado": "2026-09-28T22:52:04.053Z"
+      "creado": "2026-09-28T22:52:04.053Z",
+      "actualizado": "2026-09-28T22:56:01.909Z"
     },
     {
       "id": "f0cc1028-f878-4567-b1b2-0f1231cb371e",
       "nombre": "Yoshi",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1494,12 +1537,13 @@
       "imagenes": [
         "/uploads/afca0649-2344-446a-a680-f32a7283c6ff.webp"
       ],
-      "creado": "2026-09-28T22:52:03.980Z"
+      "creado": "2026-09-28T22:52:03.980Z",
+      "actualizado": "2026-09-28T22:56:01.912Z"
     },
     {
       "id": "203a259e-626a-4404-ab46-cf7b9fb26c1c",
       "nombre": "Princesa Peach rosa",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1510,12 +1554,13 @@
       "imagenes": [
         "/uploads/e5a2f594-f95d-456b-9cb0-fa7eeeb10216.webp"
       ],
-      "creado": "2026-09-28T22:52:03.961Z"
+      "creado": "2026-09-28T22:52:03.961Z",
+      "actualizado": "2026-09-28T22:56:01.916Z"
     },
     {
       "id": "918533a7-656a-4bbd-b00e-d02f74dc5ba1",
       "nombre": "Gaucho niño",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1526,12 +1571,13 @@
       "imagenes": [
         "/uploads/e7d0603a-df55-49dc-9b8a-7c508777a8fb.webp"
       ],
-      "creado": "2026-09-28T22:49:49.609Z"
+      "creado": "2026-09-28T22:49:49.609Z",
+      "actualizado": "2026-09-28T22:56:01.921Z"
     },
     {
       "id": "fa2b838b-34b5-4d07-9b30-4efdc862738f",
       "nombre": "Blippi",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1542,12 +1588,13 @@
       "imagenes": [
         "/uploads/bf193539-a454-42ea-bee1-6e5ed2eb9e8e.webp"
       ],
-      "creado": "2026-09-28T22:49:49.586Z"
+      "creado": "2026-09-28T22:49:49.586Z",
+      "actualizado": "2026-09-28T22:56:01.925Z"
     },
     {
       "id": "f6fd2b90-088a-415d-ba81-36fa66ce785a",
       "nombre": "Campesina rosada",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1558,12 +1605,13 @@
       "imagenes": [
         "/uploads/ef079135-cf49-41ca-94c5-50eb257a71ba.webp"
       ],
-      "creado": "2026-09-28T22:49:49.560Z"
+      "creado": "2026-09-28T22:49:49.560Z",
+      "actualizado": "2026-09-28T22:56:01.928Z"
     },
     {
       "id": "2eb88d15-12e7-4af4-9d47-71871897494a",
       "nombre": "Campesina fucsia niña",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1574,12 +1622,13 @@
       "imagenes": [
         "/uploads/bf09c7d3-d740-4915-8429-3e57ea1abedc.webp"
       ],
-      "creado": "2026-09-28T22:49:49.540Z"
+      "creado": "2026-09-28T22:49:49.540Z",
+      "actualizado": "2026-09-28T22:56:01.932Z"
     },
     {
       "id": "8fd9e447-b40a-473b-a40c-e08a49d2cdb1",
       "nombre": "Minnie polo y tutú rosa",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1590,12 +1639,13 @@
       "imagenes": [
         "/uploads/cdc71451-9d27-4194-8ef2-136d596d8eb8.webp"
       ],
-      "creado": "2026-09-28T22:49:49.518Z"
+      "creado": "2026-09-28T22:49:49.518Z",
+      "actualizado": "2026-09-28T22:56:01.936Z"
     },
     {
       "id": "33599401-000d-42cf-9de4-c93caf9974fc",
       "nombre": "Minnie polo y tutú rojo",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1606,12 +1656,13 @@
       "imagenes": [
         "/uploads/72aa7946-25b8-4bb3-a29c-0aefa879af0c.webp"
       ],
-      "creado": "2026-09-28T22:49:49.497Z"
+      "creado": "2026-09-28T22:49:49.497Z",
+      "actualizado": "2026-09-28T22:56:01.940Z"
     },
     {
       "id": "e874e98c-447f-48f6-83fc-9d06122ba47e",
       "nombre": "Minnie roja",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1622,12 +1673,13 @@
       "imagenes": [
         "/uploads/644801ea-2f39-47a3-bc54-948f051d1a39.webp"
       ],
-      "creado": "2026-09-28T22:49:49.477Z"
+      "creado": "2026-09-28T22:49:49.477Z",
+      "actualizado": "2026-09-28T22:56:01.944Z"
     },
     {
       "id": "43ab567b-6390-46ca-824e-d2172a80867e",
       "nombre": "Minnie rosa fucsia",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1638,12 +1690,13 @@
       "imagenes": [
         "/uploads/91b5fec6-b4f9-4833-bc88-032648d121b0.webp"
       ],
-      "creado": "2026-09-28T22:49:49.456Z"
+      "creado": "2026-09-28T22:49:49.456Z",
+      "actualizado": "2026-09-28T22:56:01.947Z"
     },
     {
       "id": "bbf6bed5-b245-4fa2-a67f-1774d808db65",
       "nombre": "Príncipe Mickey blanco",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1654,12 +1707,13 @@
       "imagenes": [
         "/uploads/ea10b31a-2713-42b3-bcb0-ce5c385bf7c8.webp"
       ],
-      "creado": "2026-09-28T22:49:49.436Z"
+      "creado": "2026-09-28T22:49:49.436Z",
+      "actualizado": "2026-09-28T22:56:01.950Z"
     },
     {
       "id": "000f4e5a-70ad-401a-970f-b5214f67c7d3",
       "nombre": "Príncipe Mickey azul",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1670,12 +1724,13 @@
       "imagenes": [
         "/uploads/3b53bcdb-7f9f-4f18-a946-960e71e00ae5.webp"
       ],
-      "creado": "2026-09-28T22:49:49.415Z"
+      "creado": "2026-09-28T22:49:49.415Z",
+      "actualizado": "2026-09-28T22:56:01.955Z"
     },
     {
       "id": "f29ad852-a31d-44bc-a737-27c36ef30db5",
       "nombre": "Mickey Mouse azul",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1686,12 +1741,13 @@
       "imagenes": [
         "/uploads/d02acd34-972c-4491-bc93-6655b3cc24b8.webp"
       ],
-      "creado": "2026-09-28T22:49:49.394Z"
+      "creado": "2026-09-28T22:49:49.394Z",
+      "actualizado": "2026-09-28T22:56:01.958Z"
     },
     {
       "id": "48a25ad2-a30e-4782-9b33-4cbd720a2e8e",
       "nombre": "Mickey Mouse con frac",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1702,12 +1758,13 @@
       "imagenes": [
         "/uploads/0e2d7f91-8fe0-49a7-812f-f4956f1b9f10.webp"
       ],
-      "creado": "2026-09-28T22:49:49.373Z"
+      "creado": "2026-09-28T22:49:49.373Z",
+      "actualizado": "2026-09-28T22:56:02.004Z"
     },
     {
       "id": "14b1ebf8-2edc-4675-8172-9b35f8d40d13",
       "nombre": "Marshall (Paw Patrol)",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1718,12 +1775,13 @@
       "imagenes": [
         "/uploads/fbc0e678-7714-4ba9-8a63-1d8aa003766d.webp"
       ],
-      "creado": "2026-09-28T22:49:49.352Z"
+      "creado": "2026-09-28T22:49:49.352Z",
+      "actualizado": "2026-09-28T22:56:02.008Z"
     },
     {
       "id": "b1220146-d831-472f-bca4-db60f834717b",
       "nombre": "Chase (Paw Patrol)",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1734,12 +1792,13 @@
       "imagenes": [
         "/uploads/2517b4ca-d1a5-4635-a81d-26257ca4372b.webp"
       ],
-      "creado": "2026-09-28T22:49:49.332Z"
+      "creado": "2026-09-28T22:49:49.332Z",
+      "actualizado": "2026-09-28T22:56:02.012Z"
     },
     {
       "id": "4938ad04-675f-4b3b-bf17-3067c420955e",
       "nombre": "Ryder (Paw Patrol)",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1750,12 +1809,13 @@
       "imagenes": [
         "/uploads/6b10ba38-937e-4d8b-a792-3ba7da9df7b9.webp"
       ],
-      "creado": "2026-09-28T22:49:49.311Z"
+      "creado": "2026-09-28T22:49:49.311Z",
+      "actualizado": "2026-09-28T22:56:02.015Z"
     },
     {
       "id": "b4abc04d-f15e-4d7c-a5a0-ab9814bc8c7b",
       "nombre": "Skye (Paw Patrol)",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1766,12 +1826,13 @@
       "imagenes": [
         "/uploads/fa419f3b-b306-41ac-9b0a-ff82332e65cc.webp"
       ],
-      "creado": "2026-09-28T22:49:49.285Z"
+      "creado": "2026-09-28T22:49:49.285Z",
+      "actualizado": "2026-09-28T22:56:02.021Z"
     },
     {
       "id": "3b614179-0fc7-473b-833b-2c32f9d8dcc0",
       "nombre": "Tiana",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1782,12 +1843,13 @@
       "imagenes": [
         "/uploads/cb771a5c-f79b-4488-a1cb-f829f204a4e2.webp"
       ],
-      "creado": "2026-09-28T22:49:49.262Z"
+      "creado": "2026-09-28T22:49:49.262Z",
+      "actualizado": "2026-09-28T22:56:02.025Z"
     },
     {
       "id": "78697e7e-3479-4e6d-8e77-88696e0d6e69",
       "nombre": "Sonic",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1798,12 +1860,13 @@
       "imagenes": [
         "/uploads/d176977c-37de-4005-a8e8-a405d7279a4b.webp"
       ],
-      "creado": "2026-09-28T22:49:49.239Z"
+      "creado": "2026-09-28T22:49:49.239Z",
+      "actualizado": "2026-09-28T22:56:02.029Z"
     },
     {
       "id": "6c111a7c-4d70-42a8-a7ca-70deea67f271",
       "nombre": "Gohan niño (Dragon Ball)",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1814,12 +1877,13 @@
       "imagenes": [
         "/uploads/27604cbc-2fd0-41e7-9636-b7a301856d2a.webp"
       ],
-      "creado": "2026-09-28T22:49:49.217Z"
+      "creado": "2026-09-28T22:49:49.217Z",
+      "actualizado": "2026-09-28T22:56:02.033Z"
     },
     {
       "id": "cc8d73ea-6c33-4e2d-a215-06c7e43dd71f",
       "nombre": "Goku Super Saiyan",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1830,12 +1894,13 @@
       "imagenes": [
         "/uploads/cd1ad250-47c1-4f3b-9e31-d5cf135b5e36.webp"
       ],
-      "creado": "2026-09-28T22:49:49.194Z"
+      "creado": "2026-09-28T22:49:49.194Z",
+      "actualizado": "2026-09-28T22:56:02.037Z"
     },
     {
       "id": "e51f843f-0bc9-47fe-b9dd-dd666ee84dc8",
       "nombre": "Itachi (Akatsuki)",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1846,12 +1911,13 @@
       "imagenes": [
         "/uploads/504ab24b-97e4-47a4-b962-96c8a3d85580.webp"
       ],
-      "creado": "2026-09-28T22:49:49.171Z"
+      "creado": "2026-09-28T22:49:49.171Z",
+      "actualizado": "2026-09-28T22:56:02.041Z"
     },
     {
       "id": "83827c70-2e21-445a-aa7a-97e6ca5695d7",
       "nombre": "Ash Ketchum (Pokémon)",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1862,12 +1928,13 @@
       "imagenes": [
         "/uploads/2056c5f1-356b-4afe-a744-b8ba69bceb43.webp"
       ],
-      "creado": "2026-09-28T22:49:49.151Z"
+      "creado": "2026-09-28T22:49:49.151Z",
+      "actualizado": "2026-09-28T22:56:02.044Z"
     },
     {
       "id": "3342e202-90a9-46a6-bc50-77d699a3a9c9",
       "nombre": "Naruto",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1878,12 +1945,13 @@
       "imagenes": [
         "/uploads/314fb4f0-af22-42c6-b880-e23b117d2969.webp"
       ],
-      "creado": "2026-09-28T22:49:49.130Z"
+      "creado": "2026-09-28T22:49:49.130Z",
+      "actualizado": "2026-09-28T22:56:02.048Z"
     },
     {
       "id": "77460635-3860-47e4-9a72-b68289ee337a",
       "nombre": "Shinobu Kocho (Demon Slayer)",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1894,12 +1962,13 @@
       "imagenes": [
         "/uploads/d06338a5-58ef-4166-a48e-a0df2a5eaa15.webp"
       ],
-      "creado": "2026-09-28T22:49:49.110Z"
+      "creado": "2026-09-28T22:49:49.110Z",
+      "actualizado": "2026-09-28T22:56:02.052Z"
     },
     {
       "id": "266d0e5b-a46e-4de3-863e-fccd2822b3ca",
       "nombre": "Cazador de demonios negro",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1910,12 +1979,13 @@
       "imagenes": [
         "/uploads/3ec02c27-323d-44cb-a217-3541c68e6241.webp"
       ],
-      "creado": "2026-09-28T22:49:49.085Z"
+      "creado": "2026-09-28T22:49:49.085Z",
+      "actualizado": "2026-09-28T22:56:02.056Z"
     },
     {
       "id": "c994e252-f22f-4fdc-926e-c79a3cec8c31",
       "nombre": "Kanao Tsuyuri (Demon Slayer)",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1926,12 +1996,13 @@
       "imagenes": [
         "/uploads/e2d56015-c7ff-4a54-a390-f3776ee56657.webp"
       ],
-      "creado": "2026-09-28T22:49:49.063Z"
+      "creado": "2026-09-28T22:49:49.063Z",
+      "actualizado": "2026-09-28T22:56:02.060Z"
     },
     {
       "id": "07d955c5-32dd-4982-9c6b-6f90d48d151a",
       "nombre": "Giyu Tomioka (Demon Slayer)",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1942,12 +2013,13 @@
       "imagenes": [
         "/uploads/8fdfb66e-35fc-40f7-a138-b844d5c5097b.webp"
       ],
-      "creado": "2026-09-28T22:49:49.043Z"
+      "creado": "2026-09-28T22:49:49.043Z",
+      "actualizado": "2026-09-28T22:56:02.064Z"
     },
     {
       "id": "486171f6-c946-4fa5-b185-567a337f9396",
       "nombre": "Zenitsu (Demon Slayer)",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1958,12 +2030,13 @@
       "imagenes": [
         "/uploads/82b3e550-b284-4e1c-92ad-0b9f354fbd78.webp"
       ],
-      "creado": "2026-09-28T22:49:49.022Z"
+      "creado": "2026-09-28T22:49:49.022Z",
+      "actualizado": "2026-09-28T22:56:02.067Z"
     },
     {
       "id": "e8a968ff-1e29-4357-a27f-6e35d82bad88",
       "nombre": "Tanjiro (Demon Slayer)",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1974,12 +2047,13 @@
       "imagenes": [
         "/uploads/057d9c6f-df45-4f36-8942-1c6943f1903c.webp"
       ],
-      "creado": "2026-09-28T22:49:48.999Z"
+      "creado": "2026-09-28T22:49:48.999Z",
+      "actualizado": "2026-09-28T22:56:02.072Z"
     },
     {
       "id": "70117278-79ed-422c-960c-7aa59faeece2",
       "nombre": "Nezuko (Demon Slayer)",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -1990,12 +2064,13 @@
       "imagenes": [
         "/uploads/aa7d763f-aa3f-49f4-9441-4eb548ed3f9b.webp"
       ],
-      "creado": "2026-09-28T22:49:48.974Z"
+      "creado": "2026-09-28T22:49:48.974Z",
+      "actualizado": "2026-09-28T22:56:02.076Z"
     },
     {
       "id": "afc28255-eee4-410d-bc90-b1b62e4cf304",
       "nombre": "Astronauta NASA rosa",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2006,12 +2081,13 @@
       "imagenes": [
         "/uploads/abd5927b-c749-4d99-8d62-c9e3dba00b9b.webp"
       ],
-      "creado": "2026-09-28T22:49:48.953Z"
+      "creado": "2026-09-28T22:49:48.953Z",
+      "actualizado": "2026-09-28T22:56:02.080Z"
     },
     {
       "id": "b62dfac3-9e62-42e4-8725-4822c377f473",
       "nombre": "Astronauta NASA blanco",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2022,12 +2098,13 @@
       "imagenes": [
         "/uploads/53d737d7-df01-412c-a9c1-1a1868953355.webp"
       ],
-      "creado": "2026-09-28T22:49:48.928Z"
+      "creado": "2026-09-28T22:49:48.928Z",
+      "actualizado": "2026-09-28T22:56:02.084Z"
     },
     {
       "id": "5302ca0f-8026-43f0-88de-1262f26b173a",
       "nombre": "Astronauta NASA plateado",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2038,12 +2115,13 @@
       "imagenes": [
         "/uploads/56d9d77d-cc8a-46a3-9500-ac6059b03d41.webp"
       ],
-      "creado": "2026-09-28T22:49:48.908Z"
+      "creado": "2026-09-28T22:49:48.908Z",
+      "actualizado": "2026-09-28T22:56:02.088Z"
     },
     {
       "id": "f3a79c32-acb6-479f-a334-534e2043cb4e",
       "nombre": "Plim Plim niña con capa amarilla",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2054,12 +2132,13 @@
       "imagenes": [
         "/uploads/a1ea6ffe-8187-48ab-a4f9-adbdf7b60523.webp"
       ],
-      "creado": "2026-09-28T22:49:48.888Z"
+      "creado": "2026-09-28T22:49:48.888Z",
+      "actualizado": "2026-09-28T22:56:02.092Z"
     },
     {
       "id": "9f966a29-20b9-4f73-9f9e-4ba7f3afbd92",
       "nombre": "Plim Plim niña rosa",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2070,12 +2149,13 @@
       "imagenes": [
         "/uploads/c3e7ff46-296d-46e5-8288-a2155b316c07.webp"
       ],
-      "creado": "2026-09-28T22:49:48.855Z"
+      "creado": "2026-09-28T22:49:48.855Z",
+      "actualizado": "2026-09-28T22:56:02.096Z"
     },
     {
       "id": "18e5cc6f-5e99-4354-8612-9167ee4b7fdf",
       "nombre": "Plim Plim niña rojo y azul",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2086,12 +2166,13 @@
       "imagenes": [
         "/uploads/5e249558-1163-46ae-81e6-eaf53fce2c6d.webp"
       ],
-      "creado": "2026-09-28T22:49:48.833Z"
+      "creado": "2026-09-28T22:49:48.833Z",
+      "actualizado": "2026-09-28T22:56:02.100Z"
     },
     {
       "id": "35e54769-1484-4960-b09f-d3bfc7608af5",
       "nombre": "Payasita Plim Plim tutú",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2102,12 +2183,13 @@
       "imagenes": [
         "/uploads/bf36316e-8f8f-4672-a4c2-ff2c0d32efa3.webp"
       ],
-      "creado": "2026-09-28T22:49:48.811Z"
+      "creado": "2026-09-28T22:49:48.811Z",
+      "actualizado": "2026-09-28T22:56:02.105Z"
     },
     {
       "id": "2403a385-7d18-455e-abaa-4d04f2ab4086",
       "nombre": "Súper Plim Plim con capa",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2118,12 +2200,13 @@
       "imagenes": [
         "/uploads/2e2a4361-1722-440f-97d0-8a61ba425bcd.webp"
       ],
-      "creado": "2026-09-28T22:49:48.785Z"
+      "creado": "2026-09-28T22:49:48.785Z",
+      "actualizado": "2026-09-28T22:56:02.109Z"
     },
     {
       "id": "d27e340d-646e-4228-bc8d-eca2344590e9",
       "nombre": "Explorador Plim Plim",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2134,12 +2217,13 @@
       "imagenes": [
         "/uploads/07728df7-cf70-4fa8-b027-e5e601296292.webp"
       ],
-      "creado": "2026-09-28T22:49:48.760Z"
+      "creado": "2026-09-28T22:49:48.760Z",
+      "actualizado": "2026-09-28T22:56:02.113Z"
     },
     {
       "id": "76b9964a-9598-4e32-b353-988b46d71f33",
       "nombre": "Súper Plim Plim rojo",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2150,12 +2234,13 @@
       "imagenes": [
         "/uploads/13130147-8684-404f-b643-cb436c5db258.webp"
       ],
-      "creado": "2026-09-28T22:49:48.735Z"
+      "creado": "2026-09-28T22:49:48.735Z",
+      "actualizado": "2026-09-28T22:56:02.116Z"
     },
     {
       "id": "38798c49-258b-4868-abfb-7eb735a9832b",
       "nombre": "Príncipe Plim Plim",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2166,12 +2251,13 @@
       "imagenes": [
         "/uploads/b505e7f4-6890-4d54-b6ad-cd06f6a58a32.webp"
       ],
-      "creado": "2026-09-28T22:49:48.713Z"
+      "creado": "2026-09-28T22:49:48.713Z",
+      "actualizado": "2026-09-28T22:56:02.122Z"
     },
     {
       "id": "da558eb7-ee8f-4aa4-aca5-3bf2c19433b1",
       "nombre": "Plim Plim conjunto",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2182,12 +2268,13 @@
       "imagenes": [
         "/uploads/144edd47-1480-4320-9151-db6649f78a61.webp"
       ],
-      "creado": "2026-09-28T22:49:48.690Z"
+      "creado": "2026-09-28T22:49:48.690Z",
+      "actualizado": "2026-09-28T22:56:02.126Z"
     },
     {
       "id": "e215a6d4-ce04-4a2a-b435-2cccac554a67",
       "nombre": "Príncipe con capa roja",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2198,12 +2285,13 @@
       "imagenes": [
         "/uploads/3a4eccc3-feb9-46bf-86e3-2204fdd90666.webp"
       ],
-      "creado": "2026-09-28T22:49:48.670Z"
+      "creado": "2026-09-28T22:49:48.670Z",
+      "actualizado": "2026-09-28T22:56:02.130Z"
     },
     {
       "id": "44f71833-95df-4250-8a2b-ec47af05f77c",
       "nombre": "Rey con capa",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2214,12 +2302,13 @@
       "imagenes": [
         "/uploads/359dd2cb-8f70-4361-87b4-f408be0ba6e4.webp"
       ],
-      "creado": "2026-09-28T22:49:48.649Z"
+      "creado": "2026-09-28T22:49:48.649Z",
+      "actualizado": "2026-09-28T22:56:02.133Z"
     },
     {
       "id": "c436acd7-b32a-4240-8e27-217af3253603",
       "nombre": "Príncipe chaqueta azul",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2230,12 +2319,13 @@
       "imagenes": [
         "/uploads/c3079d15-7fdd-4405-9d20-04f382f18c95.webp"
       ],
-      "creado": "2026-09-28T22:49:48.629Z"
+      "creado": "2026-09-28T22:49:48.629Z",
+      "actualizado": "2026-09-28T22:56:02.138Z"
     },
     {
       "id": "78aca1ed-5472-41d3-8a8e-80f9033d2331",
       "nombre": "Príncipe azul y blanco",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2246,12 +2336,13 @@
       "imagenes": [
         "/uploads/5c6a9bae-3926-44a6-bb9c-15a6e849247d.webp"
       ],
-      "creado": "2026-09-28T22:49:48.607Z"
+      "creado": "2026-09-28T22:49:48.607Z",
+      "actualizado": "2026-09-28T22:56:02.143Z"
     },
     {
       "id": "daf012be-c9e7-40c8-b1e9-e04da79c262b",
       "nombre": "Príncipe rojo y blanco",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2262,12 +2353,13 @@
       "imagenes": [
         "/uploads/09c5832c-91bd-4ab7-ad58-48c530069437.webp"
       ],
-      "creado": "2026-09-28T22:49:48.586Z"
+      "creado": "2026-09-28T22:49:48.586Z",
+      "actualizado": "2026-09-28T22:56:02.149Z"
     },
     {
       "id": "a85c76c3-4cfd-47d7-9e9c-6d058c8e2990",
       "nombre": "Explorador safari con sombrero",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2278,12 +2370,13 @@
       "imagenes": [
         "/uploads/c3324832-7ab3-45a7-b5e9-6e408e94f999.webp"
       ],
-      "creado": "2026-09-28T22:49:48.554Z"
+      "creado": "2026-09-28T22:49:48.554Z",
+      "actualizado": "2026-09-28T22:56:02.154Z"
     },
     {
       "id": "956c033d-2c53-43ee-b13d-3f732b7d5545",
       "nombre": "Explorador Safari",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2294,12 +2387,13 @@
       "imagenes": [
         "/uploads/288c13fa-a24a-48e7-b77a-cdb38e90a1bd.webp"
       ],
-      "creado": "2026-09-28T22:49:48.524Z"
+      "creado": "2026-09-28T22:49:48.524Z",
+      "actualizado": "2026-09-28T22:56:02.158Z"
     },
     {
       "id": "56de7a0f-7538-4f65-9419-6eb4713b472c",
       "nombre": "Explorador Jurassic Park",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2310,12 +2404,13 @@
       "imagenes": [
         "/uploads/d90afa82-1d3f-45ce-9888-29bed29d363e.webp"
       ],
-      "creado": "2026-09-28T22:49:48.503Z"
+      "creado": "2026-09-28T22:49:48.503Z",
+      "actualizado": "2026-09-28T22:56:02.162Z"
     },
     {
       "id": "5a39fa50-c9e1-4a1f-bfd3-4fbcaa8405b9",
       "nombre": "Cabra morada (Zootopia)",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2326,12 +2421,13 @@
       "imagenes": [
         "/uploads/e31e8a47-17ff-4b2f-a7ec-e4041695ce12.webp"
       ],
-      "creado": "2026-09-28T22:49:48.473Z"
+      "creado": "2026-09-28T22:49:48.473Z",
+      "actualizado": "2026-09-28T22:56:02.166Z"
     },
     {
       "id": "6a3a5700-d6d0-4805-8bc3-93fc1d85ef72",
       "nombre": "Judy Hopps vestido",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2342,12 +2438,13 @@
       "imagenes": [
         "/uploads/ab486c94-9872-4609-af4c-467d5728c8b4.webp"
       ],
-      "creado": "2026-09-28T22:49:48.453Z"
+      "creado": "2026-09-28T22:49:48.453Z",
+      "actualizado": "2026-09-28T22:56:02.171Z"
     },
     {
       "id": "2ca7d6c9-e31f-489f-b4f8-45209788374e",
       "nombre": "Judy Hopps policía",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2358,12 +2455,13 @@
       "imagenes": [
         "/uploads/8a673b44-bdf0-4783-ab78-07ed902d044f.webp"
       ],
-      "creado": "2026-09-28T22:49:48.433Z"
+      "creado": "2026-09-28T22:49:48.433Z",
+      "actualizado": "2026-09-28T22:56:02.175Z"
     },
     {
       "id": "ef2d8a17-daf5-46ad-ac12-2a3f9c27079a",
       "nombre": "Nick Wilde (Zootopia)",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2374,12 +2472,13 @@
       "imagenes": [
         "/uploads/3b23d897-d660-4e9b-8e6e-96cefe22bd45.webp"
       ],
-      "creado": "2026-09-28T22:49:48.385Z"
+      "creado": "2026-09-28T22:49:48.385Z",
+      "actualizado": "2026-09-28T22:56:02.180Z"
     },
     {
       "id": "c0589fd2-845f-40cf-8010-eb6f4e95529c",
       "nombre": "Jardinera rosa metalizada",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2390,12 +2489,13 @@
       "imagenes": [
         "/uploads/6ef70e5d-c944-4d15-918f-675465ac3d23.webp"
       ],
-      "creado": "2026-09-28T22:49:48.364Z"
+      "creado": "2026-09-28T22:49:48.364Z",
+      "actualizado": "2026-09-28T22:56:02.184Z"
     },
     {
       "id": "bbf6b65f-50e6-4b73-b74b-83b851039937",
       "nombre": "Dalina corazón rosa niña",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2406,12 +2506,13 @@
       "imagenes": [
         "/uploads/4b2c7114-0bc3-40e4-8948-706673f4a662.webp"
       ],
-      "creado": "2026-09-28T22:49:48.344Z"
+      "creado": "2026-09-28T22:49:48.344Z",
+      "actualizado": "2026-09-28T22:56:02.188Z"
     },
     {
       "id": "6e55da5d-e022-4d42-8f34-4d17c03bc8e5",
       "nombre": "Conjunto negro dorado con tutú blanco",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2422,12 +2523,13 @@
       "imagenes": [
         "/uploads/af7b2b89-7518-48cd-beac-0e06f73780a9.webp"
       ],
-      "creado": "2026-09-28T22:49:48.324Z"
+      "creado": "2026-09-28T22:49:48.324Z",
+      "actualizado": "2026-09-28T22:56:02.193Z"
     },
     {
       "id": "a3aeafcc-d6f1-40f0-a1f5-b83e7fa17c81",
       "nombre": "Conjunto negro dorado con falda plateada",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2438,12 +2540,13 @@
       "imagenes": [
         "/uploads/e2fc5c10-4439-4a97-85d0-aa3735497931.webp"
       ],
-      "creado": "2026-09-28T22:49:48.303Z"
+      "creado": "2026-09-28T22:49:48.303Z",
+      "actualizado": "2026-09-28T22:56:02.198Z"
     },
     {
       "id": "680e3318-7f11-42cd-9a1a-208fd4b5192e",
       "nombre": "Conjunto militar negro y dorado",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2454,12 +2557,13 @@
       "imagenes": [
         "/uploads/db18cae4-07ea-4133-9827-9194aff9caba.webp"
       ],
-      "creado": "2026-09-28T22:49:48.283Z"
+      "creado": "2026-09-28T22:49:48.283Z",
+      "actualizado": "2026-09-28T22:56:02.202Z"
     },
     {
       "id": "7c63fa1d-86f5-4c06-8d93-6ada747fd9d2",
       "nombre": "Conjunto negro dorado con lentejuelas",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2470,12 +2574,13 @@
       "imagenes": [
         "/uploads/c696066e-2de7-490d-b057-feaa2e7f4548.webp"
       ],
-      "creado": "2026-09-28T22:49:48.259Z"
+      "creado": "2026-09-28T22:49:48.259Z",
+      "actualizado": "2026-09-28T22:56:02.209Z"
     },
     {
       "id": "5aa9be00-0cee-477c-bd1b-7a4ee492915d",
       "nombre": "Conjunto negro y dorado blanco",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2486,12 +2591,13 @@
       "imagenes": [
         "/uploads/07a75a84-abc8-4024-80a4-03b45533ae3f.webp"
       ],
-      "creado": "2026-09-28T22:49:48.221Z"
+      "creado": "2026-09-28T22:49:48.221Z",
+      "actualizado": "2026-09-28T22:56:02.212Z"
     },
     {
       "id": "ca9ca339-e4b7-4356-b13d-7b79685fe566",
       "nombre": "Conjunto negro y dorado con tutú",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2502,12 +2608,13 @@
       "imagenes": [
         "/uploads/840d6798-7b3e-4fbb-9f5c-307a2107ca01.webp"
       ],
-      "creado": "2026-09-28T22:49:48.198Z"
+      "creado": "2026-09-28T22:49:48.198Z",
+      "actualizado": "2026-09-28T22:56:02.217Z"
     },
     {
       "id": "62b986c7-fda1-4570-8618-b378c5ea8700",
       "nombre": "Conjunto negro y dorado con short blanco",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2518,12 +2625,13 @@
       "imagenes": [
         "/uploads/a70401d2-6ea4-4f0d-a381-cc1dab2fb462.webp"
       ],
-      "creado": "2026-09-28T22:49:48.176Z"
+      "creado": "2026-09-28T22:49:48.176Z",
+      "actualizado": "2026-09-28T22:56:02.222Z"
     },
     {
       "id": "9bc35598-1b10-4eea-8ffb-87ab88bbdc02",
       "nombre": "Conjunto urbano azul",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2534,12 +2642,13 @@
       "imagenes": [
         "/uploads/a910b717-32f1-4b6a-b5bc-39deef8b680c.webp"
       ],
-      "creado": "2026-09-28T22:49:48.154Z"
+      "creado": "2026-09-28T22:49:48.154Z",
+      "actualizado": "2026-09-28T22:56:02.225Z"
     },
     {
       "id": "31809d55-5cb3-4a0d-8b6c-e2fdb880cb3d",
       "nombre": "Conjunto urbano polo negro",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2550,12 +2659,13 @@
       "imagenes": [
         "/uploads/a2b5c76b-47a4-4dcb-abb7-b73b6dd47dc3.webp"
       ],
-      "creado": "2026-09-28T22:49:48.133Z"
+      "creado": "2026-09-28T22:49:48.133Z",
+      "actualizado": "2026-09-28T22:56:02.229Z"
     },
     {
       "id": "7b30bdaf-d8ed-4436-9818-cb8047e4bb72",
       "nombre": "Conjunto urbano chaqueta amarilla",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2566,12 +2676,13 @@
       "imagenes": [
         "/uploads/760f0c6d-1a29-4148-9cdd-0a5104345669.webp"
       ],
-      "creado": "2026-09-28T22:49:48.113Z"
+      "creado": "2026-09-28T22:49:48.113Z",
+      "actualizado": "2026-09-28T22:56:02.233Z"
     },
     {
       "id": "ce8fa83f-0711-4bd5-95a1-46bbb190ae0a",
       "nombre": "Spider-Gwen",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2582,12 +2693,13 @@
       "imagenes": [
         "/uploads/d734af5b-e005-4c2f-85c7-c0de7eb640d0.webp"
       ],
-      "creado": "2026-09-28T22:49:48.093Z"
+      "creado": "2026-09-28T22:49:48.093Z",
+      "actualizado": "2026-09-28T22:56:02.237Z"
     },
     {
       "id": "7a0c701d-cedc-4d76-bd26-3b40999feba7",
       "nombre": "Catwoman niña",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2598,12 +2710,13 @@
       "imagenes": [
         "/uploads/75cd4a6e-d01b-4765-acf7-a1f450cedfa2.webp"
       ],
-      "creado": "2026-09-28T22:49:48.073Z"
+      "creado": "2026-09-28T22:49:48.073Z",
+      "actualizado": "2026-09-28T22:56:02.241Z"
     },
     {
       "id": "91986599-839b-44d3-9483-1023bed8bf97",
       "nombre": "Mujer Maravilla niña",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2614,12 +2727,13 @@
       "imagenes": [
         "/uploads/20b602bb-16ba-4189-ac38-9686cfc12070.webp"
       ],
-      "creado": "2026-09-28T22:49:48.051Z"
+      "creado": "2026-09-28T22:49:48.051Z",
+      "actualizado": "2026-09-28T22:56:02.244Z"
     },
     {
       "id": "de4ebfdb-a78f-4a34-a7fa-64b29c8b55ee",
       "nombre": "Supergirl con tutú",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2630,12 +2744,13 @@
       "imagenes": [
         "/uploads/0de03acc-06d5-4535-a066-705fdb48bea8.webp"
       ],
-      "creado": "2026-09-28T22:49:48.028Z"
+      "creado": "2026-09-28T22:49:48.028Z",
+      "actualizado": "2026-09-28T22:56:02.248Z"
     },
     {
       "id": "dc698c8b-80ff-439e-936a-00b0497a4c0f",
       "nombre": "Batichica con tutú",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2646,12 +2761,13 @@
       "imagenes": [
         "/uploads/ec543578-104c-4d86-8d79-42121a4ef091.webp"
       ],
-      "creado": "2026-09-28T22:49:48.007Z"
+      "creado": "2026-09-28T22:49:48.007Z",
+      "actualizado": "2026-09-28T22:56:02.252Z"
     },
     {
       "id": "320179df-8123-4095-8410-852ecf290469",
       "nombre": "Mujer Maravilla con tutú",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2662,12 +2778,13 @@
       "imagenes": [
         "/uploads/cee2c5d2-f753-44d9-a0f5-6bbe9db266ff.webp"
       ],
-      "creado": "2026-09-28T22:49:47.972Z"
+      "creado": "2026-09-28T22:49:47.972Z",
+      "actualizado": "2026-09-28T22:56:02.256Z"
     },
     {
       "id": "4e3816cd-83dd-40c2-bed6-b055a606959c",
       "nombre": "Doctor Strange",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2678,12 +2795,13 @@
       "imagenes": [
         "/uploads/18d5634b-7ca3-4b53-815b-5caf5489acd2.webp"
       ],
-      "creado": "2026-09-28T22:49:47.950Z"
+      "creado": "2026-09-28T22:49:47.950Z",
+      "actualizado": "2026-09-28T22:56:02.260Z"
     },
     {
       "id": "9361105c-638d-4e7a-bff2-726870c4a027",
       "nombre": "Deadpool rojo y negro",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2694,12 +2812,13 @@
       "imagenes": [
         "/uploads/692ea9bc-53b5-4670-8cd2-ba63a0f844c0.webp"
       ],
-      "creado": "2026-09-28T22:49:47.930Z"
+      "creado": "2026-09-28T22:49:47.930Z",
+      "actualizado": "2026-09-28T22:56:02.263Z"
     },
     {
       "id": "a49d7d2a-4776-4534-92ff-b3678940800b",
       "nombre": "Deadpool",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2710,12 +2829,13 @@
       "imagenes": [
         "/uploads/484ac841-7384-4ba8-82b6-fd2643bf3f74.webp"
       ],
-      "creado": "2026-09-28T22:49:47.905Z"
+      "creado": "2026-09-28T22:49:47.905Z",
+      "actualizado": "2026-09-28T22:56:02.290Z"
     },
     {
       "id": "89284779-52f4-41e7-b506-cf84b715e01a",
       "nombre": "Capitán América armadura",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2726,12 +2846,13 @@
       "imagenes": [
         "/uploads/41e1b0e3-aab2-482c-aee6-2bcf8491f79b.webp"
       ],
-      "creado": "2026-09-28T22:49:47.880Z"
+      "creado": "2026-09-28T22:49:47.880Z",
+      "actualizado": "2026-09-28T22:56:02.294Z"
     },
     {
       "id": "be3d7a56-ac59-4eea-a674-5d52eab5377f",
       "nombre": "Capitán América musculoso",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2742,12 +2863,13 @@
       "imagenes": [
         "/uploads/a656aaa9-de53-45e7-8c21-1d4a335b5319.webp"
       ],
-      "creado": "2026-09-28T22:49:47.860Z"
+      "creado": "2026-09-28T22:49:47.860Z",
+      "actualizado": "2026-09-28T22:56:02.298Z"
     },
     {
       "id": "8d1df3c4-d5da-4517-ad04-f06fcf1290ef",
       "nombre": "Capitán América con escudo",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2758,12 +2880,13 @@
       "imagenes": [
         "/uploads/338d2c5f-359e-4053-8985-4c2117b05a41.webp"
       ],
-      "creado": "2026-09-28T22:49:47.827Z"
+      "creado": "2026-09-28T22:49:47.827Z",
+      "actualizado": "2026-09-28T22:56:02.302Z"
     },
     {
       "id": "0770fa78-2d5d-42ec-85e3-11b5fd088c2b",
       "nombre": "Hulk musculoso",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2774,12 +2897,13 @@
       "imagenes": [
         "/uploads/f90622bd-0d74-4d9d-b300-2651686af25c.webp"
       ],
-      "creado": "2026-09-28T22:49:47.807Z"
+      "creado": "2026-09-28T22:49:47.807Z",
+      "actualizado": "2026-09-28T22:56:02.306Z"
     },
     {
       "id": "8c81ee92-c7a9-4c51-b178-4d2826fa12b9",
       "nombre": "Hulk con máscara",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2790,12 +2914,13 @@
       "imagenes": [
         "/uploads/0c475939-96bb-4076-b850-0a2a700509b5.webp"
       ],
-      "creado": "2026-09-28T22:49:47.784Z"
+      "creado": "2026-09-28T22:49:47.784Z",
+      "actualizado": "2026-09-28T22:56:02.309Z"
     },
     {
       "id": "a9db7a9b-475a-4a98-a447-eba818744880",
       "nombre": "Thor con casco plateado",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2806,12 +2931,13 @@
       "imagenes": [
         "/uploads/4a564075-7edd-4571-b667-d2e983260c56.webp"
       ],
-      "creado": "2026-09-28T22:49:47.755Z"
+      "creado": "2026-09-28T22:49:47.755Z",
+      "actualizado": "2026-09-28T22:56:02.312Z"
     },
     {
       "id": "9232c78e-d7d4-4db2-837a-852b59b79c85",
       "nombre": "Thor con capa roja",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2822,12 +2948,13 @@
       "imagenes": [
         "/uploads/bed28b57-9555-4a9c-b035-a6616e39292f.webp"
       ],
-      "creado": "2026-09-28T22:49:47.731Z"
+      "creado": "2026-09-28T22:49:47.731Z",
+      "actualizado": "2026-09-28T22:56:02.317Z"
     },
     {
       "id": "661ad8dd-468b-4a75-8450-281013f98210",
       "nombre": "Wolverine naranja",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2838,12 +2965,13 @@
       "imagenes": [
         "/uploads/38d9c389-ca04-416e-9d6b-73bd6336b441.webp"
       ],
-      "creado": "2026-09-28T22:49:47.704Z"
+      "creado": "2026-09-28T22:49:47.704Z",
+      "actualizado": "2026-09-28T22:56:02.320Z"
     },
     {
       "id": "7b7268df-b88f-40d9-b3d4-478059e9fc01",
       "nombre": "Wolverine amarillo",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2854,12 +2982,13 @@
       "imagenes": [
         "/uploads/831dd50b-f553-452f-a913-5277f92c8b4a.webp"
       ],
-      "creado": "2026-09-28T22:49:47.681Z"
+      "creado": "2026-09-28T22:49:47.681Z",
+      "actualizado": "2026-09-28T22:56:02.323Z"
     },
     {
       "id": "65cabe1d-af50-435b-8890-ab89169f1669",
       "nombre": "Robin",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2870,12 +2999,13 @@
       "imagenes": [
         "/uploads/59481201-4e4d-4295-9380-4d0e1d5b54a1.webp"
       ],
-      "creado": "2026-09-28T22:49:47.659Z"
+      "creado": "2026-09-28T22:49:47.659Z",
+      "actualizado": "2026-09-28T22:56:02.327Z"
     },
     {
       "id": "c0bcbf6c-469c-482d-8e4a-25fa81a7e609",
       "nombre": "Hombre Araña musculoso",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2886,12 +3016,13 @@
       "imagenes": [
         "/uploads/8be89eba-e94b-4b5b-91fc-db9784ed04a3.webp"
       ],
-      "creado": "2026-09-28T22:49:47.636Z"
+      "creado": "2026-09-28T22:49:47.636Z",
+      "actualizado": "2026-09-28T22:56:02.330Z"
     },
     {
       "id": "0f0d05ae-e3db-4aa1-b9f9-ae2b84cf85c9",
       "nombre": "Hombre Araña con capucha",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2902,12 +3033,13 @@
       "imagenes": [
         "/uploads/5e0e0de4-0dce-4e80-b6c9-c0c26326efb8.webp"
       ],
-      "creado": "2026-09-28T22:49:47.615Z"
+      "creado": "2026-09-28T22:49:47.615Z",
+      "actualizado": "2026-09-28T22:56:02.334Z"
     },
     {
       "id": "4fc30e2b-5f8d-4a7f-b494-8b11a7048d0e",
       "nombre": "Hombre Araña Iron Spider",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2918,12 +3050,13 @@
       "imagenes": [
         "/uploads/4a8019a4-d873-4291-a820-ecfd255425e5.webp"
       ],
-      "creado": "2026-09-28T22:49:47.592Z"
+      "creado": "2026-09-28T22:49:47.592Z",
+      "actualizado": "2026-09-28T22:56:02.338Z"
     },
     {
       "id": "f79de8b0-bf51-4162-b731-61c741147dda",
       "nombre": "Hombre Araña con máscara aparte",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2934,12 +3067,13 @@
       "imagenes": [
         "/uploads/cc3845c3-7e1d-4af7-9616-08e938b23e3a.webp"
       ],
-      "creado": "2026-09-28T22:49:47.570Z"
+      "creado": "2026-09-28T22:49:47.570Z",
+      "actualizado": "2026-09-28T22:56:02.341Z"
     },
     {
       "id": "2c064ec6-f70a-4164-a0de-db1f168cafae",
       "nombre": "Hombre Araña",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2950,12 +3084,13 @@
       "imagenes": [
         "/uploads/c824366a-7a8f-410d-9137-613830d9ed98.webp"
       ],
-      "creado": "2026-09-28T22:49:47.548Z"
+      "creado": "2026-09-28T22:49:47.548Z",
+      "actualizado": "2026-09-28T22:56:02.345Z"
     },
     {
       "id": "19f027e6-bb6b-40c0-8573-cc8d86262a61",
       "nombre": "Batman gris musculoso",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2966,12 +3101,13 @@
       "imagenes": [
         "/uploads/e19714cf-d943-4e02-82a5-8eb36dbe19c5.webp"
       ],
-      "creado": "2026-09-28T22:49:47.526Z"
+      "creado": "2026-09-28T22:49:47.526Z",
+      "actualizado": "2026-09-28T22:56:02.348Z"
     },
     {
       "id": "8b3f1ca3-b505-4a5f-a0ea-315b18ffadc9",
       "nombre": "Batman con máscara dorada",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2982,12 +3118,13 @@
       "imagenes": [
         "/uploads/5f8d6cbb-43c8-499b-9141-3bdf9623738d.webp"
       ],
-      "creado": "2026-09-28T22:49:47.506Z"
+      "creado": "2026-09-28T22:49:47.506Z",
+      "actualizado": "2026-09-28T22:56:02.352Z"
     },
     {
       "id": "1f86adcc-2adc-46e7-818d-e14f58d2083b",
       "nombre": "Batman con capa",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -2998,12 +3135,13 @@
       "imagenes": [
         "/uploads/ed0c6232-b87d-4cf3-b897-e95e2719f512.webp"
       ],
-      "creado": "2026-09-28T22:49:47.486Z"
+      "creado": "2026-09-28T22:49:47.486Z",
+      "actualizado": "2026-09-28T22:56:02.355Z"
     },
     {
       "id": "fc638ca3-87a0-41a3-84a3-c35d0dbbe72b",
       "nombre": "Iron Man musculoso",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3014,12 +3152,13 @@
       "imagenes": [
         "/uploads/6cd71ae5-ea27-4097-8e77-88d9ca20f4e7.webp"
       ],
-      "creado": "2026-09-28T22:49:47.466Z"
+      "creado": "2026-09-28T22:49:47.466Z",
+      "actualizado": "2026-09-28T22:56:02.359Z"
     },
     {
       "id": "0a9e6c06-afd5-400d-838f-ad54eb123c4e",
       "nombre": "Iron Man triángulo dorado",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3030,12 +3169,13 @@
       "imagenes": [
         "/uploads/9a231240-7e1c-4533-853c-fbca246c62ec.webp"
       ],
-      "creado": "2026-09-28T22:49:47.437Z"
+      "creado": "2026-09-28T22:49:47.437Z",
+      "actualizado": "2026-09-28T22:56:02.362Z"
     },
     {
       "id": "f51a3892-08f5-4c32-9b03-91df87f7a8ae",
       "nombre": "Iron Man con guantes",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3046,12 +3186,13 @@
       "imagenes": [
         "/uploads/690a699c-7aed-4662-9b93-c54b2b54620a.webp"
       ],
-      "creado": "2026-09-28T22:49:47.416Z"
+      "creado": "2026-09-28T22:49:47.416Z",
+      "actualizado": "2026-09-28T22:56:02.365Z"
     },
     {
       "id": "bbd5c0e2-401f-4e00-9f3b-8d80837e846f",
       "nombre": "Flash musculoso",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3062,12 +3203,13 @@
       "imagenes": [
         "/uploads/abe540b0-efbb-4265-85f0-77e2cd01b16c.webp"
       ],
-      "creado": "2026-09-28T22:49:47.393Z"
+      "creado": "2026-09-28T22:49:47.393Z",
+      "actualizado": "2026-09-28T22:56:02.369Z"
     },
     {
       "id": "d8084036-8cd1-452f-af85-fc3037f0cf43",
       "nombre": "Flash con capucha",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3078,12 +3220,13 @@
       "imagenes": [
         "/uploads/e0f51dee-b20f-4eb7-a546-e91b53586447.webp"
       ],
-      "creado": "2026-09-28T22:49:47.371Z"
+      "creado": "2026-09-28T22:49:47.371Z",
+      "actualizado": "2026-09-28T22:56:02.373Z"
     },
     {
       "id": "b0cf609f-63a3-4c26-bc5a-961837556d36",
       "nombre": "Flash",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3094,12 +3237,13 @@
       "imagenes": [
         "/uploads/211f05da-7371-4549-b16f-cf4124b636ae.webp"
       ],
-      "creado": "2026-09-28T22:49:47.345Z"
+      "creado": "2026-09-28T22:49:47.345Z",
+      "actualizado": "2026-09-28T22:56:02.376Z"
     },
     {
       "id": "95e5a4b1-d66f-463c-8373-6d933a924398",
       "nombre": "Superman con short rojo",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3110,12 +3254,13 @@
       "imagenes": [
         "/uploads/4e7d9e58-13ac-475f-84e1-561156a76cf0.webp"
       ],
-      "creado": "2026-09-28T22:49:47.325Z"
+      "creado": "2026-09-28T22:49:47.325Z",
+      "actualizado": "2026-09-28T22:56:02.380Z"
     },
     {
       "id": "739cf395-fd63-4a0d-ac51-16d4b69869cf",
       "nombre": "Superman musculoso",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3126,12 +3271,13 @@
       "imagenes": [
         "/uploads/3103f521-db45-4413-9731-144e9ddf41b4.webp"
       ],
-      "creado": "2026-09-28T22:49:47.262Z"
+      "creado": "2026-09-28T22:49:47.262Z",
+      "actualizado": "2026-09-28T22:56:02.383Z"
     },
     {
       "id": "db04d91d-1b9a-412a-b519-c06134f6f977",
       "nombre": "Superman con capa",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3142,12 +3288,13 @@
       "imagenes": [
         "/uploads/0ac4486e-d5ff-47df-95dc-a8ca7a59aceb.webp"
       ],
-      "creado": "2026-09-28T22:49:47.200Z"
+      "creado": "2026-09-28T22:49:47.200Z",
+      "actualizado": "2026-09-28T22:56:02.387Z"
     },
     {
       "id": "83d9cea5-0dd5-4e2d-baf2-6267226a593c",
       "nombre": "Princesa Peach",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3158,12 +3305,13 @@
       "imagenes": [
         "/uploads/954717fd-73ad-4e8b-acc3-37593aae38f4.webp"
       ],
-      "creado": "2026-09-28T22:49:47.177Z"
+      "creado": "2026-09-28T22:49:47.177Z",
+      "actualizado": "2026-09-28T22:56:02.390Z"
     },
     {
       "id": "8a1f14f8-2205-40bf-981c-3fd4b59e90b9",
       "nombre": "Princesa Peach con peluca",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3174,12 +3322,13 @@
       "imagenes": [
         "/uploads/3c4f41eb-eb7d-49a0-a822-11646dc5a2d3.webp"
       ],
-      "creado": "2026-09-28T22:49:47.154Z"
+      "creado": "2026-09-28T22:49:47.154Z",
+      "actualizado": "2026-09-28T22:56:02.394Z"
     },
     {
       "id": "04f44341-d1c3-4c6f-9e51-67309130cba6",
       "nombre": "Princesa Sofía",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3190,12 +3339,13 @@
       "imagenes": [
         "/uploads/e4dbb235-fac2-47ad-9d5c-f7916a68380d.webp"
       ],
-      "creado": "2026-09-28T22:49:47.126Z"
+      "creado": "2026-09-28T22:49:47.126Z",
+      "actualizado": "2026-09-28T22:56:02.397Z"
     },
     {
       "id": "1b7cabf1-cd42-4fc1-9d94-83e391f60bf4",
       "nombre": "Anna (Frozen)",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3206,12 +3356,13 @@
       "imagenes": [
         "/uploads/b9747360-5bb6-4ce8-be82-1b6967bfa307.webp"
       ],
-      "creado": "2026-09-28T22:49:47.061Z"
+      "creado": "2026-09-28T22:49:47.061Z",
+      "actualizado": "2026-09-28T22:56:02.401Z"
     },
     {
       "id": "b6435745-eee8-4b7f-8de6-b333f2202292",
       "nombre": "Elsa (Frozen 2) azul",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3222,12 +3373,13 @@
       "imagenes": [
         "/uploads/a3836145-4ea4-4088-a18e-ea6388d8dcea.webp"
       ],
-      "creado": "2026-09-28T22:49:47.038Z"
+      "creado": "2026-09-28T22:49:47.038Z",
+      "actualizado": "2026-09-28T22:56:02.405Z"
     },
     {
       "id": "efdb5587-35c0-492a-b788-f6b24ed75827",
       "nombre": "Elsa (Frozen)",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3238,12 +3390,13 @@
       "imagenes": [
         "/uploads/e42b0c94-0dd9-4abb-abf4-53e848cd23fa.webp"
       ],
-      "creado": "2026-09-28T22:49:47.018Z"
+      "creado": "2026-09-28T22:49:47.018Z",
+      "actualizado": "2026-09-28T22:56:02.408Z"
     },
     {
       "id": "68fb6849-32d0-4f37-9b39-b621d53ef429",
       "nombre": "Ariel verde con morado",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3254,12 +3407,13 @@
       "imagenes": [
         "/uploads/3478742e-0148-419e-83fa-c609de3b9597.webp"
       ],
-      "creado": "2026-09-28T22:49:46.996Z"
+      "creado": "2026-09-28T22:49:46.996Z",
+      "actualizado": "2026-09-28T22:56:02.411Z"
     },
     {
       "id": "b1765b96-b26b-4d53-a42f-7ef82b0ab143",
       "nombre": "Ariel verde agua",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3270,12 +3424,13 @@
       "imagenes": [
         "/uploads/df5375c7-4dfe-4629-8d90-d06275bbd9e8.webp"
       ],
-      "creado": "2026-09-28T22:49:46.919Z"
+      "creado": "2026-09-28T22:49:46.919Z",
+      "actualizado": "2026-09-28T22:56:02.415Z"
     },
     {
       "id": "9fffb6ca-e631-4e25-9d0d-68efc3efbf64",
       "nombre": "Rapunzel lila con dorado",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3286,12 +3441,13 @@
       "imagenes": [
         "/uploads/559b33de-48ae-4d78-ab65-d90aca8499c3.webp"
       ],
-      "creado": "2026-09-28T22:49:46.897Z"
+      "creado": "2026-09-28T22:49:46.897Z",
+      "actualizado": "2026-09-28T22:56:02.418Z"
     },
     {
       "id": "4adc9e93-bfb1-490c-bbbb-a2d46fd585c2",
       "nombre": "Rapunzel lila y rosa",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3302,12 +3458,13 @@
       "imagenes": [
         "/uploads/2aa77bdd-3a58-40ce-9322-95cc3321cebf.webp"
       ],
-      "creado": "2026-09-28T22:49:46.876Z"
+      "creado": "2026-09-28T22:49:46.876Z",
+      "actualizado": "2026-09-28T22:56:02.423Z"
     },
     {
       "id": "f9a2d2e3-d161-4905-8949-ba1b857ea261",
       "nombre": "Aurora fucsia",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3318,12 +3475,13 @@
       "imagenes": [
         "/uploads/8327d5fd-d454-4e3c-a371-2a967799fe18.webp"
       ],
-      "creado": "2026-09-28T22:49:46.853Z"
+      "creado": "2026-09-28T22:49:46.853Z",
+      "actualizado": "2026-09-28T22:56:02.440Z"
     },
     {
       "id": "c2d6ca4a-420e-4180-bf23-e0736567acb4",
       "nombre": "Aurora rosa",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3334,12 +3492,13 @@
       "imagenes": [
         "/uploads/2721b59c-8633-4f05-b1e7-ef68ac14a293.webp"
       ],
-      "creado": "2026-09-28T22:49:46.823Z"
+      "creado": "2026-09-28T22:49:46.823Z",
+      "actualizado": "2026-09-28T22:56:02.444Z"
     },
     {
       "id": "8d10a9e5-4c3b-4319-94f8-21c42c8480f5",
       "nombre": "Cenicienta azul brillante",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3350,12 +3509,13 @@
       "imagenes": [
         "/uploads/737aa8c9-d494-47b9-a5f0-0fcc394cafcc.webp"
       ],
-      "creado": "2026-09-28T22:49:46.787Z"
+      "creado": "2026-09-28T22:49:46.787Z",
+      "actualizado": "2026-09-28T22:56:02.447Z"
     },
     {
       "id": "51548f5c-616c-4954-a227-b12721fc291c",
       "nombre": "Cenicienta azul",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3366,12 +3526,13 @@
       "imagenes": [
         "/uploads/31e2a70e-f4df-466e-a598-d65eb1eaec47.webp"
       ],
-      "creado": "2026-09-28T22:49:46.749Z"
+      "creado": "2026-09-28T22:49:46.749Z",
+      "actualizado": "2026-09-28T22:56:02.451Z"
     },
     {
       "id": "4400677a-3a07-42f8-af0b-f0a17073ba6e",
       "nombre": "Blancanieves con tul amarillo",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3382,12 +3543,13 @@
       "imagenes": [
         "/uploads/dbf507c0-3ad0-475a-adc8-8d12a370bc3b.webp"
       ],
-      "creado": "2026-09-28T22:49:46.698Z"
+      "creado": "2026-09-28T22:49:46.698Z",
+      "actualizado": "2026-09-28T22:56:02.455Z"
     },
     {
       "id": "f1bc15d2-1f28-4edc-9a4f-60184f169ce6",
       "nombre": "Blancanieves con capa",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3398,12 +3560,13 @@
       "imagenes": [
         "/uploads/0843ec7d-5e5e-4792-99e5-922d26d684fe.webp"
       ],
-      "creado": "2026-09-28T22:49:46.655Z"
+      "creado": "2026-09-28T22:49:46.655Z",
+      "actualizado": "2026-09-28T22:56:02.458Z"
     },
     {
       "id": "f0609b23-fd4a-4c07-bd9a-58c08aed3cb5",
       "nombre": "Bella con guantes amarillos",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3414,12 +3577,13 @@
       "imagenes": [
         "/uploads/cb927c2b-7f60-4fcb-a1db-10de103991fc.webp"
       ],
-      "creado": "2026-09-28T22:49:46.625Z"
+      "creado": "2026-09-28T22:49:46.625Z",
+      "actualizado": "2026-09-28T22:56:02.461Z"
     },
     {
       "id": "65cdde8c-9135-43ca-8ace-b262bb896e3b",
       "nombre": "Bella (La Bella y la Bestia) vestido amarillo",
-      "categoria": "disfraces-generales-para-ninos",
+      "categoria": "ninos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3430,12 +3594,13 @@
       "imagenes": [
         "/uploads/0d23488f-5f8c-48f6-9c23-7c92838f9fb8.webp"
       ],
-      "creado": "2026-09-28T22:49:46.558Z"
+      "creado": "2026-09-28T22:49:46.558Z",
+      "actualizado": "2026-09-28T22:56:02.465Z"
     },
     {
       "id": "67128489-f487-463e-bcc2-b8eaeb9939d6",
       "nombre": "prueba",
-      "categoria": "halloween-sexy",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "S,M",
@@ -3446,12 +3611,13 @@
       "imagenes": [
         "/uploads/549618a5-3504-444a-aee0-43408e195f67.webp"
       ],
-      "creado": "2026-09-28T22:08:07.115Z"
+      "creado": "2026-09-28T22:08:07.115Z",
+      "actualizado": "2026-09-28T22:56:02.471Z"
     },
     {
       "id": "4edd792c-4e2e-4b27-a184-197b9ab86f1d",
       "nombre": "Payaso chaleco amarillo y azul",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3462,12 +3628,13 @@
       "imagenes": [
         "/uploads/920ddeab-e31a-4818-931f-f825919af423.webp"
       ],
-      "creado": "2026-09-28T22:05:36.392Z"
+      "creado": "2026-09-28T22:05:36.392Z",
+      "actualizado": "2026-09-28T22:56:02.475Z"
     },
     {
       "id": "4a239d2e-c2c5-46f5-98f4-a38990fdd11f",
       "nombre": "Payaso chaleco rosa",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3478,12 +3645,13 @@
       "imagenes": [
         "/uploads/ef4b0c78-f34d-49a4-a480-ea4856ff198f.webp"
       ],
-      "creado": "2026-09-28T22:05:36.353Z"
+      "creado": "2026-09-28T22:05:36.353Z",
+      "actualizado": "2026-09-28T22:56:02.478Z"
     },
     {
       "id": "a9cf2f43-95e0-41ec-966a-6323fab47ccc",
       "nombre": "Payaso chaqueta de cuadros",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3494,12 +3662,13 @@
       "imagenes": [
         "/uploads/5dfe8cfe-d525-445c-8c7f-d0e2d3748523.webp"
       ],
-      "creado": "2026-09-28T22:05:36.332Z"
+      "creado": "2026-09-28T22:05:36.332Z",
+      "actualizado": "2026-09-28T22:56:02.481Z"
     },
     {
       "id": "45dc4d4a-21c1-499d-9696-25cd6bdc290d",
       "nombre": "Payaso camisa rosa neón",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3510,12 +3679,13 @@
       "imagenes": [
         "/uploads/deb89281-059d-4288-be3b-63343773414e.webp"
       ],
-      "creado": "2026-09-28T22:05:36.306Z"
+      "creado": "2026-09-28T22:05:36.306Z",
+      "actualizado": "2026-09-28T22:56:02.485Z"
     },
     {
       "id": "1fd9b66d-de28-49a4-a49d-bc17a7f4a829",
       "nombre": "Payaso camisa azul y amarillo",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3526,12 +3696,13 @@
       "imagenes": [
         "/uploads/f4caa1a1-0511-43d5-bdd7-f3bf3ab5f56b.webp"
       ],
-      "creado": "2026-09-28T22:05:36.281Z"
+      "creado": "2026-09-28T22:05:36.281Z",
+      "actualizado": "2026-09-28T22:56:02.489Z"
     },
     {
       "id": "67896f1c-1547-4483-8ac7-e4677ed59ad8",
       "nombre": "Payaso pantalón negro y amarillo",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3542,12 +3713,13 @@
       "imagenes": [
         "/uploads/69f340bf-e300-4038-aed8-3c6ee1229f9d.webp"
       ],
-      "creado": "2026-09-28T22:05:36.256Z"
+      "creado": "2026-09-28T22:05:36.256Z",
+      "actualizado": "2026-09-28T22:56:02.493Z"
     },
     {
       "id": "56782c74-a121-4022-9a8d-3e32fd7638d3",
       "nombre": "Payaso pantalón azul y blanco",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3558,12 +3730,13 @@
       "imagenes": [
         "/uploads/e2a91d94-68b4-44e4-a763-b76fd07f441d.webp"
       ],
-      "creado": "2026-09-28T22:05:36.236Z"
+      "creado": "2026-09-28T22:05:36.236Z",
+      "actualizado": "2026-09-28T22:56:02.496Z"
     },
     {
       "id": "b2fee4b5-b4bd-40cf-a9ed-172e523ab6e2",
       "nombre": "Payaso pantalón rojo y amarillo",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3574,12 +3747,13 @@
       "imagenes": [
         "/uploads/9fafeb68-f8f7-483e-861d-3fa5938ac730.webp"
       ],
-      "creado": "2026-09-28T22:05:36.215Z"
+      "creado": "2026-09-28T22:05:36.215Z",
+      "actualizado": "2026-09-28T22:56:02.500Z"
     },
     {
       "id": "4ac657f6-5ff4-479e-ab48-8649c9b5870f",
       "nombre": "Payaso pantalón neón",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3590,12 +3764,13 @@
       "imagenes": [
         "/uploads/6a869f9e-8bad-463d-8eef-367e05fe3284.webp"
       ],
-      "creado": "2026-09-28T22:05:36.196Z"
+      "creado": "2026-09-28T22:05:36.196Z",
+      "actualizado": "2026-09-28T22:56:02.504Z"
     },
     {
       "id": "2d2d3035-d1db-4853-9b23-b02fbc81a66f",
       "nombre": "Arlequín azul, rojo y amarillo",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3606,12 +3781,13 @@
       "imagenes": [
         "/uploads/2af07c3c-d170-4867-b94a-bfa9ee142293.webp"
       ],
-      "creado": "2026-09-28T22:05:36.173Z"
+      "creado": "2026-09-28T22:05:36.173Z",
+      "actualizado": "2026-09-28T22:56:02.508Z"
     },
     {
       "id": "4a848bc9-d649-48bf-935a-c0af90748375",
       "nombre": "Arlequín negro y dorado",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3622,12 +3798,13 @@
       "imagenes": [
         "/uploads/1ae17999-ac48-4aed-b68e-33659d310e39.webp"
       ],
-      "creado": "2026-09-28T22:05:36.155Z"
+      "creado": "2026-09-28T22:05:36.155Z",
+      "actualizado": "2026-09-28T22:56:02.512Z"
     },
     {
       "id": "0807dafb-4187-45ff-9d41-7db3a707b267",
       "nombre": "Arlequín rojo, azul y amarillo",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3638,12 +3815,13 @@
       "imagenes": [
         "/uploads/b9634ee0-ef0f-40b7-afa9-54492989c962.webp"
       ],
-      "creado": "2026-09-28T22:05:36.132Z"
+      "creado": "2026-09-28T22:05:36.132Z",
+      "actualizado": "2026-09-28T22:56:02.515Z"
     },
     {
       "id": "bd271322-ef85-49bb-9179-92f266dd319b",
       "nombre": "Arlequín azul y plateado",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3654,12 +3832,13 @@
       "imagenes": [
         "/uploads/9e70caa8-5cde-42ae-9b32-1d2c7655bf9c.webp"
       ],
-      "creado": "2026-09-28T22:05:36.094Z"
+      "creado": "2026-09-28T22:05:36.094Z",
+      "actualizado": "2026-09-28T22:56:02.519Z"
     },
     {
       "id": "d8b3e317-b80d-4b3e-8f61-ca07efbe9ea9",
       "nombre": "Arlequín negro y plateado",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3670,12 +3849,13 @@
       "imagenes": [
         "/uploads/5e655160-2a3d-4644-838e-11ca8de49442.webp"
       ],
-      "creado": "2026-09-28T22:05:36.070Z"
+      "creado": "2026-09-28T22:05:36.070Z",
+      "actualizado": "2026-09-28T22:56:02.523Z"
     },
     {
       "id": "dc058766-dd4b-4f29-afff-702879a8bd4c",
       "nombre": "Arlequín rojo y plateado",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3686,12 +3866,13 @@
       "imagenes": [
         "/uploads/338e545b-68f5-4045-b00f-cc6172cad218.webp"
       ],
-      "creado": "2026-09-28T22:05:36.046Z"
+      "creado": "2026-09-28T22:05:36.046Z",
+      "actualizado": "2026-09-28T22:56:02.527Z"
     },
     {
       "id": "e977af8a-4389-482e-b5b7-003098cb40cc",
       "nombre": "Payasa jardinera amarilla y rosa",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3702,12 +3883,13 @@
       "imagenes": [
         "/uploads/418bb897-c78b-42f6-9675-53324eb945d6.webp"
       ],
-      "creado": "2026-09-28T22:05:36.024Z"
+      "creado": "2026-09-28T22:05:36.024Z",
+      "actualizado": "2026-09-28T22:56:02.530Z"
     },
     {
       "id": "ef1d5ea6-ce65-4d76-9329-e93787df30aa",
       "nombre": "Payasa jardinera roja y azul",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3718,12 +3900,13 @@
       "imagenes": [
         "/uploads/30340725-bb2f-477e-a99a-44d31c5d9fa8.webp"
       ],
-      "creado": "2026-09-28T22:05:36.004Z"
+      "creado": "2026-09-28T22:05:36.004Z",
+      "actualizado": "2026-09-28T22:56:02.534Z"
     },
     {
       "id": "96fad4dd-16b4-4ef4-b669-4545970a015b",
       "nombre": "Payasa jardinera azul y amarillo",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3734,12 +3917,13 @@
       "imagenes": [
         "/uploads/8d72f63c-f6dc-4afc-87a7-bd227f9b3527.webp"
       ],
-      "creado": "2026-09-28T22:05:35.976Z"
+      "creado": "2026-09-28T22:05:35.976Z",
+      "actualizado": "2026-09-28T22:56:02.538Z"
     },
     {
       "id": "feb07072-7f96-4e23-be60-1c460406aec2",
       "nombre": "Payasa jardinera corazón morado y rosa",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3750,12 +3934,13 @@
       "imagenes": [
         "/uploads/2d334d74-a7e9-4ed7-ae7c-4caf6ca763bd.webp"
       ],
-      "creado": "2026-09-28T22:05:35.958Z"
+      "creado": "2026-09-28T22:05:35.958Z",
+      "actualizado": "2026-09-28T22:56:02.541Z"
     },
     {
       "id": "de3278ed-1407-4fae-ade1-79b87f18adc2",
       "nombre": "Payasa jardinera corazón rosa y celeste",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3766,12 +3951,13 @@
       "imagenes": [
         "/uploads/34b3a026-c246-4860-a38d-b06daced480c.webp"
       ],
-      "creado": "2026-09-28T22:05:35.902Z"
+      "creado": "2026-09-28T22:05:35.902Z",
+      "actualizado": "2026-09-28T22:56:02.545Z"
     },
     {
       "id": "3e7bfd7f-5306-401e-9c9f-ace2f862439e",
       "nombre": "Payasa jardinera corazón verde y amarillo",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3782,12 +3968,13 @@
       "imagenes": [
         "/uploads/94a9d25f-fee8-4492-b41c-a89ca0503f44.webp"
       ],
-      "creado": "2026-09-28T22:05:35.885Z"
+      "creado": "2026-09-28T22:05:35.885Z",
+      "actualizado": "2026-09-28T22:56:02.550Z"
     },
     {
       "id": "7baf7929-8474-4832-8cd0-d2efd18b3174",
       "nombre": "Payasa jardinera corazón fucsia y azul",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3798,12 +3985,13 @@
       "imagenes": [
         "/uploads/d3b0d8ec-479a-4e25-950c-38d8cd59c47d.webp"
       ],
-      "creado": "2026-09-28T22:05:35.866Z"
+      "creado": "2026-09-28T22:05:35.866Z",
+      "actualizado": "2026-09-28T22:56:02.554Z"
     },
     {
       "id": "d88dec10-a0ef-4d5d-ba16-a0c9b324fc47",
       "nombre": "Payasa jardinera corazón amarillo y azul",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3814,12 +4002,13 @@
       "imagenes": [
         "/uploads/6262649b-131a-40b2-9518-e6a956d2d402.webp"
       ],
-      "creado": "2026-09-28T22:05:35.829Z"
+      "creado": "2026-09-28T22:05:35.829Z",
+      "actualizado": "2026-09-28T22:56:02.557Z"
     },
     {
       "id": "952da72f-e9f6-4e4d-9694-e69c06857a6f",
       "nombre": "Payasa jardinera corazón amarillo y rosa",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3830,12 +4019,13 @@
       "imagenes": [
         "/uploads/358bad17-2094-4e7c-a8ad-9d8c3ce049c7.webp"
       ],
-      "creado": "2026-09-28T22:05:35.808Z"
+      "creado": "2026-09-28T22:05:35.808Z",
+      "actualizado": "2026-09-28T22:56:02.561Z"
     },
     {
       "id": "d141c982-b30f-4996-89ff-b8432ab20715",
       "nombre": "Payasa vestido celeste con lazo",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3846,12 +4036,13 @@
       "imagenes": [
         "/uploads/be106a1c-6c7d-4ff8-8723-8b375b5730d1.webp"
       ],
-      "creado": "2026-09-28T22:05:35.787Z"
+      "creado": "2026-09-28T22:05:35.787Z",
+      "actualizado": "2026-09-28T22:56:02.565Z"
     },
     {
       "id": "c55cead0-8046-412b-a9dd-25f11727f72f",
       "nombre": "Payasa vestido rosa y celeste",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3862,12 +4053,13 @@
       "imagenes": [
         "/uploads/999a73b2-fb92-4a32-ae6f-9595b3c455d0.webp"
       ],
-      "creado": "2026-09-28T22:05:35.770Z"
+      "creado": "2026-09-28T22:05:35.770Z",
+      "actualizado": "2026-09-28T22:56:02.568Z"
     },
     {
       "id": "fc284d92-bbed-43bc-ba00-22fdb6e87629",
       "nombre": "Payaso overol con lazo amarillo",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3878,12 +4070,13 @@
       "imagenes": [
         "/uploads/670c19bb-8502-4e3f-8ee9-9ce323e9df17.webp"
       ],
-      "creado": "2026-09-28T22:05:35.752Z"
+      "creado": "2026-09-28T22:05:35.752Z",
+      "actualizado": "2026-09-28T22:56:02.572Z"
     },
     {
       "id": "63a528cd-9e0a-41f9-9259-78a92803d216",
       "nombre": "Payasa jardinera azul oscuro",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3894,12 +4087,13 @@
       "imagenes": [
         "/uploads/3603cc9c-1f7c-497c-b5cb-6bf0bcea2572.webp"
       ],
-      "creado": "2026-09-28T22:05:35.729Z"
+      "creado": "2026-09-28T22:05:35.729Z",
+      "actualizado": "2026-09-28T22:56:02.576Z"
     },
     {
       "id": "7acc5fed-ee16-459c-bad1-2dc4b1582295",
       "nombre": "Payasa jardinera amarilla",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3910,12 +4104,13 @@
       "imagenes": [
         "/uploads/763de270-c3d3-4113-8c87-d96f52da9b92.webp"
       ],
-      "creado": "2026-09-28T22:05:35.711Z"
+      "creado": "2026-09-28T22:05:35.711Z",
+      "actualizado": "2026-09-28T22:56:02.580Z"
     },
     {
       "id": "08e73a34-3cad-43aa-aa9e-8230c8c6f555",
       "nombre": "Payasa jardinera azul",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3926,12 +4121,13 @@
       "imagenes": [
         "/uploads/986d4ba8-5171-4353-b7fa-e685b1f86983.webp"
       ],
-      "creado": "2026-09-28T22:05:35.693Z"
+      "creado": "2026-09-28T22:05:35.693Z",
+      "actualizado": "2026-09-28T22:56:02.584Z"
     },
     {
       "id": "18c2b6ac-300a-46f7-b2a2-6bf76f28a045",
       "nombre": "Dalina Mario",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3942,12 +4138,13 @@
       "imagenes": [
         "/uploads/e670b22d-73ee-4600-8ced-64815116ca4f.webp"
       ],
-      "creado": "2026-09-28T22:05:35.675Z"
+      "creado": "2026-09-28T22:05:35.675Z",
+      "actualizado": "2026-09-28T22:56:02.589Z"
     },
     {
       "id": "c6ef36a6-5dc9-4cb8-a7ee-951d011ecfff",
       "nombre": "Dalina Luigi",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3958,12 +4155,13 @@
       "imagenes": [
         "/uploads/6f63c0b5-8706-48b7-80de-92af52a3bf26.webp"
       ],
-      "creado": "2026-09-28T22:05:35.658Z"
+      "creado": "2026-09-28T22:05:35.658Z",
+      "actualizado": "2026-09-28T22:56:02.593Z"
     },
     {
       "id": "2aaa8609-784e-495f-b63b-94749a3fa6b7",
       "nombre": "Dalina arcoíris blanco y rojo",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3974,12 +4172,13 @@
       "imagenes": [
         "/uploads/0a59a004-b71d-4ee9-ab47-f38183d10c34.webp"
       ],
-      "creado": "2026-09-28T22:05:35.640Z"
+      "creado": "2026-09-28T22:05:35.640Z",
+      "actualizado": "2026-09-28T22:56:02.596Z"
     },
     {
       "id": "01314363-8d4f-4c27-a8a2-ffafa246db0e",
       "nombre": "Dalina caramelo amarilla",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -3990,12 +4189,13 @@
       "imagenes": [
         "/uploads/4ad09aaf-e2e7-40f8-addf-7a8dedd6f241.webp"
       ],
-      "creado": "2026-09-28T22:05:35.620Z"
+      "creado": "2026-09-28T22:05:35.620Z",
+      "actualizado": "2026-09-28T22:56:02.600Z"
     },
     {
       "id": "971f532d-5a62-41ca-b847-9777437e95ba",
       "nombre": "Dalina caramelo celeste",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4006,12 +4206,13 @@
       "imagenes": [
         "/uploads/49fd2782-8e94-4497-b9cf-792690abdf9f.webp"
       ],
-      "creado": "2026-09-28T22:05:35.601Z"
+      "creado": "2026-09-28T22:05:35.601Z",
+      "actualizado": "2026-09-28T22:56:02.604Z"
     },
     {
       "id": "6adbfc01-c42f-4443-bfdb-00dd481b9daa",
       "nombre": "Dalina caramelo rosa",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4022,12 +4223,13 @@
       "imagenes": [
         "/uploads/8a22aec7-395d-4f26-aa29-3ddc31730b35.webp"
       ],
-      "creado": "2026-09-28T22:05:35.576Z"
+      "creado": "2026-09-28T22:05:35.576Z",
+      "actualizado": "2026-09-28T22:56:02.608Z"
     },
     {
       "id": "740d0e25-c4c6-4259-af68-f7b353a75458",
       "nombre": "Dalina vaquita rosa",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4038,12 +4240,13 @@
       "imagenes": [
         "/uploads/0856e690-2645-46ec-9b95-fefc03117567.webp"
       ],
-      "creado": "2026-09-28T22:05:35.557Z"
+      "creado": "2026-09-28T22:05:35.557Z",
+      "actualizado": "2026-09-28T22:56:02.611Z"
     },
     {
       "id": "0879a44f-bf76-486e-9e78-797089de999b",
       "nombre": "Dalina confeti azul",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4054,12 +4257,13 @@
       "imagenes": [
         "/uploads/cf898a47-d47e-48bb-b7a9-20f71c12e473.webp"
       ],
-      "creado": "2026-09-28T22:05:35.538Z"
+      "creado": "2026-09-28T22:05:35.538Z",
+      "actualizado": "2026-09-28T22:56:02.660Z"
     },
     {
       "id": "082a3b85-0e0d-4b85-ad48-6f7664ee41c4",
       "nombre": "Dalina Minnie roja y negra",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4070,12 +4274,13 @@
       "imagenes": [
         "/uploads/76741dc9-0f21-4102-bd9d-006e2840c270.webp"
       ],
-      "creado": "2026-09-28T22:05:35.519Z"
+      "creado": "2026-09-28T22:05:35.519Z",
+      "actualizado": "2026-09-28T22:56:02.664Z"
     },
     {
       "id": "979e9319-29bb-442d-bc29-bc37dac58a58",
       "nombre": "Dalina arcoíris y rosa con caramelos",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4086,12 +4291,13 @@
       "imagenes": [
         "/uploads/51c65d5d-9e9a-4ed7-b012-9ee0cc32a97f.webp"
       ],
-      "creado": "2026-09-28T22:05:35.501Z"
+      "creado": "2026-09-28T22:05:35.501Z",
+      "actualizado": "2026-09-28T22:56:02.668Z"
     },
     {
       "id": "7d112562-68ba-4dc3-8290-b6920ca564d2",
       "nombre": "Dalina arcoíris y amarillo con caramelos",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4102,12 +4308,13 @@
       "imagenes": [
         "/uploads/032663ce-b04b-4c3e-a8d0-0c321785cb56.webp"
       ],
-      "creado": "2026-09-28T22:05:35.481Z"
+      "creado": "2026-09-28T22:05:35.481Z",
+      "actualizado": "2026-09-28T22:56:02.673Z"
     },
     {
       "id": "b43aa23b-a805-4887-90d1-c2b19801d4af",
       "nombre": "Dalina animal print verde",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4118,12 +4325,13 @@
       "imagenes": [
         "/uploads/81e951ca-9dd2-46b2-8461-dc56cfc71ee8.webp"
       ],
-      "creado": "2026-09-28T22:05:35.461Z"
+      "creado": "2026-09-28T22:05:35.461Z",
+      "actualizado": "2026-09-28T22:56:02.676Z"
     },
     {
       "id": "2e71062e-4c73-4d46-a892-725b205436f6",
       "nombre": "Dalina azul y dorado",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4134,12 +4342,13 @@
       "imagenes": [
         "/uploads/f5cee68f-cfe7-404a-808e-809a9abd793f.webp"
       ],
-      "creado": "2026-09-28T22:05:35.443Z"
+      "creado": "2026-09-28T22:05:35.443Z",
+      "actualizado": "2026-09-28T22:56:02.679Z"
     },
     {
       "id": "4fb4d0de-2c2c-4b94-b436-5c93c0fc17f1",
       "nombre": "Dalina rosa neón con arcoíris",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4150,12 +4359,13 @@
       "imagenes": [
         "/uploads/ea3b78a3-a2af-40d7-8878-d79355af17ff.webp"
       ],
-      "creado": "2026-09-28T22:05:35.401Z"
+      "creado": "2026-09-28T22:05:35.401Z",
+      "actualizado": "2026-09-28T22:56:02.683Z"
     },
     {
       "id": "1fbdac8b-7355-4cee-8085-df5d8674a951",
       "nombre": "Dalina rosa brillante",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4166,12 +4376,13 @@
       "imagenes": [
         "/uploads/3b815b13-98ef-476f-a262-920212b2c438.webp"
       ],
-      "creado": "2026-09-28T22:05:35.382Z"
+      "creado": "2026-09-28T22:05:35.382Z",
+      "actualizado": "2026-09-28T22:56:02.687Z"
     },
     {
       "id": "1d3df0fa-fd83-4923-877a-531f1d261c5a",
       "nombre": "Dalina rosa con dorado",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4182,12 +4393,13 @@
       "imagenes": [
         "/uploads/65fd230a-8a84-4242-a7d0-cc9ef1561add.webp"
       ],
-      "creado": "2026-09-28T22:05:35.351Z"
+      "creado": "2026-09-28T22:05:35.351Z",
+      "actualizado": "2026-09-28T22:56:02.691Z"
     },
     {
       "id": "5de80411-59ed-4c9c-96b0-96c790adf50e",
       "nombre": "Dalina verde y azul",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4198,12 +4410,13 @@
       "imagenes": [
         "/uploads/ede21bba-6e4a-49aa-9eb2-0e8021783a8f.webp"
       ],
-      "creado": "2026-09-28T22:05:35.325Z"
+      "creado": "2026-09-28T22:05:35.325Z",
+      "actualizado": "2026-09-28T22:56:02.695Z"
     },
     {
       "id": "6d6d8035-b98c-4b27-9a93-1ea3485c8701",
       "nombre": "Dalina plateada con lentejuelas",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4214,12 +4427,13 @@
       "imagenes": [
         "/uploads/1cda1d1c-8604-4c82-8516-e4a12ce51c41.webp"
       ],
-      "creado": "2026-09-28T22:05:35.294Z"
+      "creado": "2026-09-28T22:05:35.294Z",
+      "actualizado": "2026-09-28T22:56:02.698Z"
     },
     {
       "id": "86cb28e5-bd1a-4204-bf2d-0ed19ca21143",
       "nombre": "Dalina celeste y dorado",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4230,12 +4444,13 @@
       "imagenes": [
         "/uploads/de3d7abe-8aab-44ee-9556-2f3a7be536b1.webp"
       ],
-      "creado": "2026-09-28T22:05:35.276Z"
+      "creado": "2026-09-28T22:05:35.276Z",
+      "actualizado": "2026-09-28T22:56:02.702Z"
     },
     {
       "id": "bf0e72cf-8104-4dfc-be2d-5e01b57df5b8",
       "nombre": "Dalina leopardo safari",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4246,12 +4461,13 @@
       "imagenes": [
         "/uploads/99a7f3f3-d3e8-41d7-bedc-ab4db44de16e.webp"
       ],
-      "creado": "2026-09-28T22:05:35.237Z"
+      "creado": "2026-09-28T22:05:35.237Z",
+      "actualizado": "2026-09-28T22:56:02.707Z"
     },
     {
       "id": "dc797b5c-bde3-436a-a797-014116058bb9",
       "nombre": "Dalina negro y dorado",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4262,12 +4478,13 @@
       "imagenes": [
         "/uploads/202053dc-ae0b-4fe9-8748-339e0a21ca79.webp"
       ],
-      "creado": "2026-09-28T22:05:35.212Z"
+      "creado": "2026-09-28T22:05:35.212Z",
+      "actualizado": "2026-09-28T22:56:02.711Z"
     },
     {
       "id": "957b38bf-51e6-4f68-83cc-900d93d1e424",
       "nombre": "Dalina rosa y celeste",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4278,12 +4495,13 @@
       "imagenes": [
         "/uploads/13538a71-1e7b-4350-953d-98f497bcc859.webp"
       ],
-      "creado": "2026-09-28T22:05:35.184Z"
+      "creado": "2026-09-28T22:05:35.184Z",
+      "actualizado": "2026-09-28T22:56:02.714Z"
     },
     {
       "id": "3a937baf-48ae-41bc-bab1-856dcfdfa875",
       "nombre": "Jardinera fucsia con lentejuelas",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4294,12 +4512,13 @@
       "imagenes": [
         "/uploads/b9913780-9cc4-4fe5-98d9-67a172238707.webp"
       ],
-      "creado": "2026-09-28T22:05:35.155Z"
+      "creado": "2026-09-28T22:05:35.155Z",
+      "actualizado": "2026-09-28T22:56:02.717Z"
     },
     {
       "id": "7504b8cd-6a3d-4b73-840e-6a64c566331e",
       "nombre": "Jardinera rosa satinada",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4310,12 +4529,13 @@
       "imagenes": [
         "/uploads/eeda9290-6a18-4c2a-99e0-fff2ecabcbd2.webp"
       ],
-      "creado": "2026-09-28T22:05:35.122Z"
+      "creado": "2026-09-28T22:05:35.122Z",
+      "actualizado": "2026-09-28T22:56:02.722Z"
     },
     {
       "id": "45ca1057-f718-4ed8-bbd6-b6ca66e58e1c",
       "nombre": "Dalina rosa con tul",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4326,12 +4546,13 @@
       "imagenes": [
         "/uploads/60133749-72f5-486e-8e7f-b0b8e24eb7ba.webp"
       ],
-      "creado": "2026-09-28T22:05:35.079Z"
+      "creado": "2026-09-28T22:05:35.079Z",
+      "actualizado": "2026-09-28T22:56:02.726Z"
     },
     {
       "id": "ecd9e51e-ad2c-4737-9038-ba91d623d05b",
       "nombre": "Dalina rosa y dorado",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4342,12 +4563,13 @@
       "imagenes": [
         "/uploads/6fe2e642-adfc-4728-b74b-7687d51dea3d.webp"
       ],
-      "creado": "2026-09-28T22:05:35.059Z"
+      "creado": "2026-09-28T22:05:35.059Z",
+      "actualizado": "2026-09-28T22:56:02.730Z"
     },
     {
       "id": "cb9fd1b5-153a-4ade-bd33-70ec206b9287",
       "nombre": "Dalina dorada",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4358,12 +4580,13 @@
       "imagenes": [
         "/uploads/59a8687a-34ca-4aa8-ae32-320ee9a21ac7.webp"
       ],
-      "creado": "2026-09-28T22:05:35.039Z"
+      "creado": "2026-09-28T22:05:35.039Z",
+      "actualizado": "2026-09-28T22:56:02.734Z"
     },
     {
       "id": "44f4cc1e-0cbd-4d4a-b7c4-8986721a697a",
       "nombre": "Dalina roja y azul",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4374,12 +4597,13 @@
       "imagenes": [
         "/uploads/4d1cc94f-ec75-4883-ba9b-6295d8388e0c.webp"
       ],
-      "creado": "2026-09-28T22:05:35.010Z"
+      "creado": "2026-09-28T22:05:35.010Z",
+      "actualizado": "2026-09-28T22:56:02.738Z"
     },
     {
       "id": "11768367-f917-4859-8a31-2228b3b86bca",
       "nombre": "Dalina plateada iridiscente",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4390,12 +4614,13 @@
       "imagenes": [
         "/uploads/2bc89bfc-3991-42a3-8961-eef7746b7b1c.webp"
       ],
-      "creado": "2026-09-28T22:05:34.984Z"
+      "creado": "2026-09-28T22:05:34.984Z",
+      "actualizado": "2026-09-28T22:56:02.742Z"
     },
     {
       "id": "999dcc6d-bd8b-4b62-978c-337c69af78f9",
       "nombre": "Dalina Minnie roja",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4406,12 +4631,13 @@
       "imagenes": [
         "/uploads/b7aa6747-f0dd-478b-b995-8f3d87d96c7b.webp"
       ],
-      "creado": "2026-09-28T22:05:34.959Z"
+      "creado": "2026-09-28T22:05:34.959Z",
+      "actualizado": "2026-09-28T22:56:02.747Z"
     },
     {
       "id": "9c87d1d0-4da3-4e52-af56-3c8ceab14923",
       "nombre": "Dalina neón verde y rosa",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4422,12 +4648,13 @@
       "imagenes": [
         "/uploads/dbfdce28-ab11-49f6-a3ae-e8174effa9db.webp"
       ],
-      "creado": "2026-09-28T22:05:34.933Z"
+      "creado": "2026-09-28T22:05:34.933Z",
+      "actualizado": "2026-09-28T22:56:02.751Z"
     },
     {
       "id": "aa67d6fc-a526-408c-a1b1-b017aeac6778",
       "nombre": "Dalina animal print",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4438,12 +4665,13 @@
       "imagenes": [
         "/uploads/3601dc64-a850-4220-85fe-bb9668f9b724.webp"
       ],
-      "creado": "2026-09-28T22:05:34.912Z"
+      "creado": "2026-09-28T22:05:34.912Z",
+      "actualizado": "2026-09-28T22:56:02.755Z"
     },
     {
       "id": "994d7099-54c4-4cf2-8732-7f23ac96de70",
       "nombre": "Dalina confeti multicolor",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4454,12 +4682,13 @@
       "imagenes": [
         "/uploads/edf9d770-fdc2-45d3-afcb-60450e6be2a5.webp"
       ],
-      "creado": "2026-09-28T22:05:34.885Z"
+      "creado": "2026-09-28T22:05:34.885Z",
+      "actualizado": "2026-09-28T22:56:02.759Z"
     },
     {
       "id": "126d8858-5811-4c49-abfb-de59a19e56ef",
       "nombre": "Dalina azul y rosa",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4470,12 +4699,13 @@
       "imagenes": [
         "/uploads/6d5aa702-b58e-4dc0-a61f-d6937f4c8b0e.webp"
       ],
-      "creado": "2026-09-28T22:05:34.856Z"
+      "creado": "2026-09-28T22:05:34.856Z",
+      "actualizado": "2026-09-28T22:56:02.763Z"
     },
     {
       "id": "a59e14db-76e0-465e-b571-f051e10dc8be",
       "nombre": "Dalina verde y rosa",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4486,12 +4716,13 @@
       "imagenes": [
         "/uploads/53ec64d8-90dd-4cf1-99b5-34d074221940.webp"
       ],
-      "creado": "2026-09-28T22:05:34.838Z"
+      "creado": "2026-09-28T22:05:34.838Z",
+      "actualizado": "2026-09-28T22:56:02.767Z"
     },
     {
       "id": "26487c99-5f48-45bc-bd9b-c61c9820f4ee",
       "nombre": "Dalina payasa rojo y azul",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4502,12 +4733,13 @@
       "imagenes": [
         "/uploads/526e24b4-7b21-4680-889c-416a95bc73ae.webp"
       ],
-      "creado": "2026-09-28T22:05:34.820Z"
+      "creado": "2026-09-28T22:05:34.820Z",
+      "actualizado": "2026-09-28T22:56:02.772Z"
     },
     {
       "id": "c2358c77-b8e8-484e-b96f-bcd78a03c5b0",
       "nombre": "Conjunto urbano azul",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4518,12 +4750,13 @@
       "imagenes": [
         "/uploads/de5f1ccd-675c-44d8-b03b-f9a9f7811ed8.webp"
       ],
-      "creado": "2026-09-28T22:05:34.776Z"
+      "creado": "2026-09-28T22:05:34.776Z",
+      "actualizado": "2026-09-28T22:56:02.776Z"
     },
     {
       "id": "7dc07461-bbe5-42c5-a8bc-09da9bcbf866",
       "nombre": "Falda amarilla con polo negro",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4534,12 +4767,13 @@
       "imagenes": [
         "/uploads/8c8855cb-b32b-4740-957d-d7cfccee463e.webp"
       ],
-      "creado": "2026-09-28T22:05:34.752Z"
+      "creado": "2026-09-28T22:05:34.752Z",
+      "actualizado": "2026-09-28T22:56:02.780Z"
     },
     {
       "id": "99ffd561-ea56-46b4-b8a8-2ca43f416e9b",
       "nombre": "Chaqueta amarilla urbana",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4550,12 +4784,13 @@
       "imagenes": [
         "/uploads/b83e16a2-2257-4fcb-b763-a3fa6ea3a1ea.webp"
       ],
-      "creado": "2026-09-28T22:05:34.735Z"
+      "creado": "2026-09-28T22:05:34.735Z",
+      "actualizado": "2026-09-28T22:56:02.784Z"
     },
     {
       "id": "1a9d759c-a3b0-45da-b412-57d4c964184b",
       "nombre": "Conjunto negro dorado falda con cortes",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4566,12 +4801,13 @@
       "imagenes": [
         "/uploads/7137a6c1-4ce0-4e57-a48f-51da99bda3e4.webp"
       ],
-      "creado": "2026-09-28T22:05:34.716Z"
+      "creado": "2026-09-28T22:05:34.716Z",
+      "actualizado": "2026-09-28T22:56:02.789Z"
     },
     {
       "id": "2306e1e5-240e-414c-a18a-9078160da5b8",
       "nombre": "Conjunto negro top corto y falda blanca",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4582,12 +4818,13 @@
       "imagenes": [
         "/uploads/1331b207-8e0e-4aa7-933e-7db5c1b965e2.webp"
       ],
-      "creado": "2026-09-28T22:05:34.691Z"
+      "creado": "2026-09-28T22:05:34.691Z",
+      "actualizado": "2026-09-28T22:56:02.793Z"
     },
     {
       "id": "46c9cdc8-6b36-400f-989f-e246b04aa674",
       "nombre": "Conjunto militar negro con falda blanca",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4598,12 +4835,13 @@
       "imagenes": [
         "/uploads/3a7b6fd6-d3c9-46bb-aed8-1ddd2f41ca74.webp"
       ],
-      "creado": "2026-09-28T22:05:34.661Z"
+      "creado": "2026-09-28T22:05:34.661Z",
+      "actualizado": "2026-09-28T22:56:02.797Z"
     },
     {
       "id": "33bbe9ca-ca40-4e12-8dbf-22ba8779ea15",
       "nombre": "Conjunto blanco y dorado",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4614,12 +4852,13 @@
       "imagenes": [
         "/uploads/d676a65e-dac8-4446-906b-0e95d3f24c8f.webp"
       ],
-      "creado": "2026-09-28T22:05:34.637Z"
+      "creado": "2026-09-28T22:05:34.637Z",
+      "actualizado": "2026-09-28T22:56:02.801Z"
     },
     {
       "id": "06669557-07e8-4c68-907d-fecaa9351b86",
       "nombre": "Conjunto negro y dorado con pantalón plateado",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4630,12 +4869,13 @@
       "imagenes": [
         "/uploads/acbd1b20-b43e-43d2-9bf3-806130158c0b.webp"
       ],
-      "creado": "2026-09-28T22:05:34.619Z"
+      "creado": "2026-09-28T22:05:34.619Z",
+      "actualizado": "2026-09-28T22:56:02.817Z"
     },
     {
       "id": "0d8af854-1fa7-4004-b6a2-f665b9655873",
       "nombre": "Conjunto negro y dorado con tul",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4646,12 +4886,13 @@
       "imagenes": [
         "/uploads/a6d418ad-e874-4dfc-b3ed-6c431233d72a.webp"
       ],
-      "creado": "2026-09-28T22:05:34.590Z"
+      "creado": "2026-09-28T22:05:34.590Z",
+      "actualizado": "2026-09-28T22:56:02.821Z"
     },
     {
       "id": "d6228d18-3b49-4a77-b801-3bef993ee8c6",
       "nombre": "Dalina chaqueta naranja y falda azul",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4662,12 +4903,13 @@
       "imagenes": [
         "/uploads/c4fa28df-c88c-4276-865a-b9904ff768a0.webp"
       ],
-      "creado": "2026-09-28T22:05:34.572Z"
+      "creado": "2026-09-28T22:05:34.572Z",
+      "actualizado": "2026-09-28T22:56:02.825Z"
     },
     {
       "id": "53c45619-433f-4559-b6af-54d403d94fb2",
       "nombre": "Dalina lentejuelas rojo y azul con lazo",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4678,12 +4920,13 @@
       "imagenes": [
         "/uploads/b29e6304-4ff6-416d-ae87-7ade28ee7510.webp"
       ],
-      "creado": "2026-09-28T22:05:34.539Z"
+      "creado": "2026-09-28T22:05:34.539Z",
+      "actualizado": "2026-09-28T22:56:02.829Z"
     },
     {
       "id": "289bfc58-71c8-4b3a-8ca6-690c5deb1ebb",
       "nombre": "Dalina lentejuelas rojo, azul y amarillo",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4694,7 +4937,8 @@
       "imagenes": [
         "/uploads/91a0d678-2952-48d9-add2-3945d0aeac49.webp"
       ],
-      "creado": "2026-09-28T22:05:34.514Z"
+      "creado": "2026-09-28T22:05:34.514Z",
+      "actualizado": "2026-09-28T22:56:02.832Z"
     },
     {
       "id": "4b1312eb-f658-4ce1-af67-0b5238534c6f",
@@ -4731,7 +4975,7 @@
     {
       "id": "dd07d23d-67a9-4329-81fb-fc7406a8d9a0",
       "nombre": "Iron Man",
-      "categoria": "superheroes",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4742,12 +4986,13 @@
       "imagenes": [
         "/uploads/da47dfbb-5fa2-4326-b954-3ade81c9b25b.webp"
       ],
-      "creado": "2026-09-28T21:38:18.761Z"
+      "creado": "2026-09-28T21:38:18.761Z",
+      "actualizado": "2026-09-28T22:56:02.933Z"
     },
     {
       "id": "bf619ca0-b71a-4876-b0cf-ecf0a7c4bb4d",
       "nombre": "Superman con capa",
-      "categoria": "superheroes",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4758,12 +5003,13 @@
       "imagenes": [
         "/uploads/badc5166-0254-4b86-930b-8326da632f82.webp"
       ],
-      "creado": "2026-09-28T21:38:18.756Z"
+      "creado": "2026-09-28T21:38:18.756Z",
+      "actualizado": "2026-09-28T22:56:02.938Z"
     },
     {
       "id": "9d8bb75e-7151-4ab5-9275-0d46f4e95242",
       "nombre": "Wolverine",
-      "categoria": "superheroes",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4774,12 +5020,13 @@
       "imagenes": [
         "/uploads/8b570b9b-7e6b-41e3-a328-1cb7647713f1.webp"
       ],
-      "creado": "2026-09-28T21:38:18.752Z"
+      "creado": "2026-09-28T21:38:18.752Z",
+      "actualizado": "2026-09-28T22:56:02.944Z"
     },
     {
       "id": "d77c69b1-a58c-4b1d-8842-1dd6fa303070",
       "nombre": "Deadpool",
-      "categoria": "superheroes",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4790,12 +5037,13 @@
       "imagenes": [
         "/uploads/a123231d-c506-4866-af63-1ebb1b03192b.webp"
       ],
-      "creado": "2026-09-28T21:38:18.747Z"
+      "creado": "2026-09-28T21:38:18.747Z",
+      "actualizado": "2026-09-28T22:56:02.947Z"
     },
     {
       "id": "02bd7026-c138-4005-8b85-837332ba1fcc",
       "nombre": "Hombre Araña Iron Spider",
-      "categoria": "superheroes",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4806,12 +5054,13 @@
       "imagenes": [
         "/uploads/3ef81a50-db16-42e2-92ee-15a46655b7ab.webp"
       ],
-      "creado": "2026-09-28T21:38:18.742Z"
+      "creado": "2026-09-28T21:38:18.742Z",
+      "actualizado": "2026-09-28T22:56:02.950Z"
     },
     {
       "id": "912d4e38-8cec-47c2-85b9-c1a7f963e5f4",
       "nombre": "Batman",
-      "categoria": "superheroes",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4822,12 +5071,13 @@
       "imagenes": [
         "/uploads/044906c4-cfb6-47a9-9d6b-848387655e69.webp"
       ],
-      "creado": "2026-09-28T21:38:18.736Z"
+      "creado": "2026-09-28T21:38:18.736Z",
+      "actualizado": "2026-09-28T22:56:02.954Z"
     },
     {
       "id": "f1f58e8d-a831-44f3-a971-f1c317d24855",
       "nombre": "Hombre Araña clásico",
-      "categoria": "superheroes",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4838,12 +5088,13 @@
       "imagenes": [
         "/uploads/51f3f548-accc-4309-8fe8-82b648b055e9.webp"
       ],
-      "creado": "2026-09-28T21:38:18.732Z"
+      "creado": "2026-09-28T21:38:18.732Z",
+      "actualizado": "2026-09-28T22:56:02.958Z"
     },
     {
       "id": "19d96dfb-70c3-4cee-88bd-c004b196c655",
       "nombre": "Capitán América clásico",
-      "categoria": "superheroes",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4854,12 +5105,13 @@
       "imagenes": [
         "/uploads/5f954871-0281-4c35-a427-a8fa8c0cea9c.webp"
       ],
-      "creado": "2026-09-28T21:38:18.727Z"
+      "creado": "2026-09-28T21:38:18.727Z",
+      "actualizado": "2026-09-28T22:56:02.961Z"
     },
     {
       "id": "fd830e44-aa77-458d-a00d-9bfb2aaa787d",
       "nombre": "Flash",
-      "categoria": "superheroes",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4870,12 +5122,13 @@
       "imagenes": [
         "/uploads/f8fff860-9f38-4fb6-96cd-5ae3164c241e.webp"
       ],
-      "creado": "2026-09-28T21:38:18.723Z"
+      "creado": "2026-09-28T21:38:18.723Z",
+      "actualizado": "2026-09-28T22:56:02.965Z"
     },
     {
       "id": "042224f4-fa17-4daf-b852-97cda01638f3",
       "nombre": "Capitán América armadura",
-      "categoria": "superheroes",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4886,12 +5139,13 @@
       "imagenes": [
         "/uploads/56fa37a5-a91d-4f06-8c49-8baf7f9edfa2.webp"
       ],
-      "creado": "2026-09-28T21:38:18.719Z"
+      "creado": "2026-09-28T21:38:18.719Z",
+      "actualizado": "2026-09-28T22:56:02.968Z"
     },
     {
       "id": "5d3d2825-6b86-4079-a766-16434ddca66b",
       "nombre": "Pantera Negra",
-      "categoria": "superheroes",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4902,12 +5156,13 @@
       "imagenes": [
         "/uploads/59dc0452-1648-4c6e-bf8e-8c9174d0ac09.webp"
       ],
-      "creado": "2026-09-28T21:38:18.713Z"
+      "creado": "2026-09-28T21:38:18.713Z",
+      "actualizado": "2026-09-28T22:56:02.972Z"
     },
     {
       "id": "7a706647-8205-43b4-b7cb-8bd5600c0013",
       "nombre": "Doctor Strange",
-      "categoria": "superheroes",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4918,12 +5173,13 @@
       "imagenes": [
         "/uploads/9a7eb3d6-430d-4f41-9685-e05e9f5bde6b.webp"
       ],
-      "creado": "2026-09-28T21:38:18.708Z"
+      "creado": "2026-09-28T21:38:18.708Z",
+      "actualizado": "2026-09-28T22:56:02.975Z"
     },
     {
       "id": "859c69a5-1bab-4581-b760-71e8cec3a16d",
       "nombre": "Gwen Araña (Spider-Gwen)",
-      "categoria": "superheroes",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4934,12 +5190,13 @@
       "imagenes": [
         "/uploads/ea31687a-3717-4f4d-9234-2316946000f6.webp"
       ],
-      "creado": "2026-09-28T21:38:18.705Z"
+      "creado": "2026-09-28T21:38:18.705Z",
+      "actualizado": "2026-09-28T22:56:02.979Z"
     },
     {
       "id": "12de9768-46a7-4c74-bc79-4f48f3e96af5",
       "nombre": "Catwoman",
-      "categoria": "halloween-sexy",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4950,12 +5207,13 @@
       "imagenes": [
         "/uploads/9f7baf99-b1d1-4848-ab31-ca7b6db98cef.webp"
       ],
-      "creado": "2026-09-28T21:38:18.701Z"
+      "creado": "2026-09-28T21:38:18.701Z",
+      "actualizado": "2026-09-28T22:56:02.982Z"
     },
     {
       "id": "e11affb9-2c1f-4068-9a24-0f947ed3b75f",
       "nombre": "Mujer Maravilla",
-      "categoria": "halloween-sexy",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4966,12 +5224,13 @@
       "imagenes": [
         "/uploads/1b0f1c44-a832-488c-84d7-b310f96215de.webp"
       ],
-      "creado": "2026-09-28T21:38:18.696Z"
+      "creado": "2026-09-28T21:38:18.696Z",
+      "actualizado": "2026-09-28T22:56:02.985Z"
     },
     {
       "id": "054c2c7f-d461-4b09-85cc-76f1539d90fa",
       "nombre": "Batichica",
-      "categoria": "halloween-sexy",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4982,12 +5241,13 @@
       "imagenes": [
         "/uploads/77083656-a366-4c80-aa93-6d887600f332.webp"
       ],
-      "creado": "2026-09-28T21:38:18.692Z"
+      "creado": "2026-09-28T21:38:18.692Z",
+      "actualizado": "2026-09-28T22:56:02.989Z"
     },
     {
       "id": "91b6ad8d-e2bd-45ca-8907-4c155cd72c6b",
       "nombre": "Supergirl falda roja",
-      "categoria": "halloween-sexy",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -4998,12 +5258,13 @@
       "imagenes": [
         "/uploads/0b91217b-75a2-4770-9332-4e18b2b12eef.webp"
       ],
-      "creado": "2026-09-28T21:38:18.687Z"
+      "creado": "2026-09-28T21:38:18.687Z",
+      "actualizado": "2026-09-28T22:56:02.993Z"
     },
     {
       "id": "9d2bdaae-7518-45c5-a631-088342f7fa45",
       "nombre": "Batichica tutú",
-      "categoria": "halloween-sexy",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5014,12 +5275,13 @@
       "imagenes": [
         "/uploads/2dfacf5a-fe5f-407a-83dc-acc1987eb52b.webp"
       ],
-      "creado": "2026-09-28T21:38:18.683Z"
+      "creado": "2026-09-28T21:38:18.683Z",
+      "actualizado": "2026-09-28T22:56:02.996Z"
     },
     {
       "id": "9d097a91-5c84-4900-b918-7a7b91acb026",
       "nombre": "Mujer Maravilla tutú",
-      "categoria": "halloween-sexy",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5030,12 +5292,13 @@
       "imagenes": [
         "/uploads/c3824cc1-d5c9-47ae-bc5c-0900fe7daddd.webp"
       ],
-      "creado": "2026-09-28T21:38:18.679Z"
+      "creado": "2026-09-28T21:38:18.679Z",
+      "actualizado": "2026-09-28T22:56:03.000Z"
     },
     {
       "id": "4e3a35e8-39c7-4d43-b8da-ca57534ca567",
       "nombre": "Supergirl tutú azul",
-      "categoria": "halloween-sexy",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5046,12 +5309,13 @@
       "imagenes": [
         "/uploads/814c75ce-31a6-430c-9223-5f4d1731ac82.webp"
       ],
-      "creado": "2026-09-28T21:38:18.674Z"
+      "creado": "2026-09-28T21:38:18.674Z",
+      "actualizado": "2026-09-28T22:56:03.003Z"
     },
     {
       "id": "c04f6389-82c6-488a-ace0-ba58cce00332",
       "nombre": "El Chavo del 8",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5062,12 +5326,13 @@
       "imagenes": [
         "/uploads/055cbf1a-e530-44fb-9fe9-acbc73b69509.webp"
       ],
-      "creado": "2026-09-28T21:38:18.669Z"
+      "creado": "2026-09-28T21:38:18.669Z",
+      "actualizado": "2026-09-28T22:56:03.028Z"
     },
     {
       "id": "a6a1e602-b1f7-40d2-bbc8-58507401ffb6",
       "nombre": "Pinocho",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5078,12 +5343,13 @@
       "imagenes": [
         "/uploads/51bff687-bde6-431d-b920-3b309e0b27db.webp"
       ],
-      "creado": "2026-09-28T21:38:18.663Z"
+      "creado": "2026-09-28T21:38:18.663Z",
+      "actualizado": "2026-09-28T22:56:03.032Z"
     },
     {
       "id": "bfe0157e-1a0d-40dc-b5c0-7af81dd3fe56",
       "nombre": "Quico",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5094,12 +5360,13 @@
       "imagenes": [
         "/uploads/a656ecaf-addc-4d43-ab70-697ca94aac40.webp"
       ],
-      "creado": "2026-09-28T21:38:18.660Z"
+      "creado": "2026-09-28T21:38:18.660Z",
+      "actualizado": "2026-09-28T22:56:03.035Z"
     },
     {
       "id": "561b39df-0516-4e74-83d4-0df1471bcfc2",
       "nombre": "Don Ramón",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5110,12 +5377,13 @@
       "imagenes": [
         "/uploads/e2347bef-aab1-4f7e-8de6-10e126ce5e09.webp"
       ],
-      "creado": "2026-09-28T21:38:18.637Z"
+      "creado": "2026-09-28T21:38:18.637Z",
+      "actualizado": "2026-09-28T22:56:03.039Z"
     },
     {
       "id": "e2c090a2-8cdf-4d4d-aad5-f7422110a838",
       "nombre": "Doña Clotilde (Bruja del 71)",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5126,12 +5394,13 @@
       "imagenes": [
         "/uploads/b6d080ce-4418-4d9e-a019-94f3b356fede.webp"
       ],
-      "creado": "2026-09-28T21:38:18.633Z"
+      "creado": "2026-09-28T21:38:18.633Z",
+      "actualizado": "2026-09-28T22:56:03.043Z"
     },
     {
       "id": "af831664-1f6d-4280-a5bd-025f167a895e",
       "nombre": "Doña Florinda con delantal",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5142,12 +5411,13 @@
       "imagenes": [
         "/uploads/b41f4fd9-b37f-45ca-9be4-292ed817e0e0.webp"
       ],
-      "creado": "2026-09-28T21:38:18.628Z"
+      "creado": "2026-09-28T21:38:18.628Z",
+      "actualizado": "2026-09-28T22:56:03.046Z"
     },
     {
       "id": "c765d240-e1db-488b-b76b-ae5c23053029",
       "nombre": "La Chilindrina",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5158,12 +5428,13 @@
       "imagenes": [
         "/uploads/40fff2d5-7e5b-41d1-ba62-0b458b0f5a25.webp"
       ],
-      "creado": "2026-09-28T21:38:18.624Z"
+      "creado": "2026-09-28T21:38:18.624Z",
+      "actualizado": "2026-09-28T22:56:03.052Z"
     },
     {
       "id": "53bd8292-ad61-44b4-9f00-b9b3136d85bd",
       "nombre": "Doña Florinda vestido floral",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5174,12 +5445,13 @@
       "imagenes": [
         "/uploads/515371d5-6881-4754-9509-9614c1b525e4.webp"
       ],
-      "creado": "2026-09-28T21:38:18.619Z"
+      "creado": "2026-09-28T21:38:18.619Z",
+      "actualizado": "2026-09-28T22:56:03.057Z"
     },
     {
       "id": "5e6a0d42-5734-4518-a75f-4675f2ff60d6",
       "nombre": "Doña Florinda vestido rosado",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5190,12 +5462,13 @@
       "imagenes": [
         "/uploads/ceb9e95b-a3f6-407d-94a9-afb77113b857.webp"
       ],
-      "creado": "2026-09-28T21:38:18.615Z"
+      "creado": "2026-09-28T21:38:18.615Z",
+      "actualizado": "2026-09-28T22:56:03.060Z"
     },
     {
       "id": "f17f2ca4-4060-4870-9ad9-b430afeb73bd",
       "nombre": "Guardia Juego del Calamar (círculo)",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5206,12 +5479,13 @@
       "imagenes": [
         "/uploads/4fcea076-235e-4d6e-9d89-bdbd29bc4998.webp"
       ],
-      "creado": "2026-09-28T21:38:18.611Z"
+      "creado": "2026-09-28T21:38:18.611Z",
+      "actualizado": "2026-09-28T22:56:03.063Z"
     },
     {
       "id": "08a6a026-7fc8-4a17-a184-620e929e5441",
       "nombre": "Líder Juego del Calamar (impermeable negro)",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5222,12 +5496,13 @@
       "imagenes": [
         "/uploads/214e2f16-0e57-4554-a8f7-075a1f993d51.webp"
       ],
-      "creado": "2026-09-28T21:38:18.607Z"
+      "creado": "2026-09-28T21:38:18.607Z",
+      "actualizado": "2026-09-28T22:56:03.066Z"
     },
     {
       "id": "34486e50-85ec-41c3-bc11-bd1d67f73ea7",
       "nombre": "Jugador 456 Juego del Calamar",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5238,12 +5513,13 @@
       "imagenes": [
         "/uploads/0a96b1b0-29c8-45a5-bd1e-4620af1a3c7d.webp"
       ],
-      "creado": "2026-09-28T21:38:18.602Z"
+      "creado": "2026-09-28T21:38:18.602Z",
+      "actualizado": "2026-09-28T22:56:03.070Z"
     },
     {
       "id": "2d54a388-ea49-4d61-a62d-a4d14d780fd5",
       "nombre": "Líder Juego del Calamar (capa negra)",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5254,12 +5530,13 @@
       "imagenes": [
         "/uploads/c07487ec-901e-407b-bd98-f5672cf5b007.webp"
       ],
-      "creado": "2026-09-28T21:38:18.597Z"
+      "creado": "2026-09-28T21:38:18.597Z",
+      "actualizado": "2026-09-28T22:56:03.074Z"
     },
     {
       "id": "76bcb74e-37fa-45c6-b7fc-003561981616",
       "nombre": "Jugador Juego del Calamar (rayas rojas)",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5270,12 +5547,13 @@
       "imagenes": [
         "/uploads/f7e70fbe-026e-4241-ac45-329e1ae038cc.webp"
       ],
-      "creado": "2026-09-28T21:38:18.592Z"
+      "creado": "2026-09-28T21:38:18.592Z",
+      "actualizado": "2026-09-28T22:56:03.078Z"
     },
     {
       "id": "0b512459-b77a-4ff4-99cb-800913ba4d49",
       "nombre": "Chucky",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5286,12 +5564,13 @@
       "imagenes": [
         "/uploads/57bbaa0f-7678-4a0b-a9d7-ab742c8ec436.webp"
       ],
-      "creado": "2026-09-28T21:38:18.587Z"
+      "creado": "2026-09-28T21:38:18.587Z",
+      "actualizado": "2026-09-28T22:56:03.081Z"
     },
     {
       "id": "d5f2a82f-7815-4c33-8a29-4b15c36623b9",
       "nombre": "Pennywise (Eso)",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5302,12 +5581,13 @@
       "imagenes": [
         "/uploads/d75b9640-146f-4a31-b660-c5b9d51204c5.webp"
       ],
-      "creado": "2026-09-28T21:38:18.583Z"
+      "creado": "2026-09-28T21:38:18.583Z",
+      "actualizado": "2026-09-28T22:56:03.084Z"
     },
     {
       "id": "ef4fe826-4d11-45ab-b782-6a99f067f4c8",
       "nombre": "Preso naranja 999",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5318,12 +5598,13 @@
       "imagenes": [
         "/uploads/912e71e8-e275-4eb8-9c61-5be2317b10f1.webp"
       ],
-      "creado": "2026-09-28T21:38:18.578Z"
+      "creado": "2026-09-28T21:38:18.578Z",
+      "actualizado": "2026-09-28T22:56:03.088Z"
     },
     {
       "id": "e76698d9-eb30-4928-9eee-b62aefef62d4",
       "nombre": "Sandy (Grease)",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5334,12 +5615,13 @@
       "imagenes": [
         "/uploads/7faeb359-702e-4f3e-8f76-761741f4e5ae.webp"
       ],
-      "creado": "2026-09-28T21:38:18.574Z"
+      "creado": "2026-09-28T21:38:18.574Z",
+      "actualizado": "2026-09-28T22:56:03.092Z"
     },
     {
       "id": "b00a4614-cfab-414f-ad7b-26a5f7af2891",
       "nombre": "Harry Potter Gryffindor",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5350,12 +5632,13 @@
       "imagenes": [
         "/uploads/f495e107-baed-4b5b-b8f7-57a9de7e015e.webp"
       ],
-      "creado": "2026-09-28T21:38:18.570Z"
+      "creado": "2026-09-28T21:38:18.570Z",
+      "actualizado": "2026-09-28T22:56:03.096Z"
     },
     {
       "id": "f59993f6-c225-4e78-abfe-a2321317a8a9",
       "nombre": "Harry Potter Slytherin",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5366,12 +5649,13 @@
       "imagenes": [
         "/uploads/daed22bc-c449-4450-8eb5-fd369aa3a7fc.webp"
       ],
-      "creado": "2026-09-28T21:38:18.566Z"
+      "creado": "2026-09-28T21:38:18.566Z",
+      "actualizado": "2026-09-28T22:56:03.099Z"
     },
     {
       "id": "82470ba0-ec12-4832-97c7-dc6ba6dcd709",
       "nombre": "Ash Ketchum (Pokémon)",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5382,12 +5666,13 @@
       "imagenes": [
         "/uploads/91def2a2-7c91-4ea9-b1fb-d81b2ed0c3fc.webp"
       ],
-      "creado": "2026-09-28T21:38:18.561Z"
+      "creado": "2026-09-28T21:38:18.561Z",
+      "actualizado": "2026-09-28T22:56:03.102Z"
     },
     {
       "id": "3ac7df9f-0cb4-4088-93bc-8cbe02e1cdbb",
       "nombre": "Goku",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5398,12 +5683,13 @@
       "imagenes": [
         "/uploads/b29b9895-1b5d-4e6e-9448-30223a1e58bb.webp"
       ],
-      "creado": "2026-09-28T21:38:18.556Z"
+      "creado": "2026-09-28T21:38:18.556Z",
+      "actualizado": "2026-09-28T22:56:03.118Z"
     },
     {
       "id": "29afa869-b0af-48ae-82d1-05a8a2795986",
       "nombre": "Tanjiro (Demon Slayer)",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5414,12 +5700,13 @@
       "imagenes": [
         "/uploads/4ab4c0d5-169c-458d-99b0-18ab9e476a4b.webp"
       ],
-      "creado": "2026-09-28T21:38:18.551Z"
+      "creado": "2026-09-28T21:38:18.551Z",
+      "actualizado": "2026-09-28T22:56:03.123Z"
     },
     {
       "id": "60b58da0-df57-4f2e-8964-3eace6a906fc",
       "nombre": "Giyu Tomioka (Demon Slayer)",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5430,12 +5717,13 @@
       "imagenes": [
         "/uploads/24d9083d-2344-4c11-8af4-13c45e2e19da.webp"
       ],
-      "creado": "2026-09-28T21:38:18.547Z"
+      "creado": "2026-09-28T21:38:18.547Z",
+      "actualizado": "2026-09-28T22:56:03.127Z"
     },
     {
       "id": "9082aef6-8205-4e98-8be0-e1032b19bf5e",
       "nombre": "Shinobu Kocho (Demon Slayer)",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5446,12 +5734,13 @@
       "imagenes": [
         "/uploads/24f89b47-4cdf-4e76-baa2-fe1b3df9e5ac.webp"
       ],
-      "creado": "2026-09-28T21:38:18.542Z"
+      "creado": "2026-09-28T21:38:18.542Z",
+      "actualizado": "2026-09-28T22:56:03.130Z"
     },
     {
       "id": "a4060bf8-b503-4c3d-9779-c981cbd055c7",
       "nombre": "Kanao Tsuyuri (Demon Slayer)",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5462,12 +5751,13 @@
       "imagenes": [
         "/uploads/ca6402b1-8847-4d18-9910-0f23b68ddf1e.webp"
       ],
-      "creado": "2026-09-28T21:38:18.537Z"
+      "creado": "2026-09-28T21:38:18.537Z",
+      "actualizado": "2026-09-28T22:56:03.134Z"
     },
     {
       "id": "7e973d12-3231-400f-8434-e673777e8f55",
       "nombre": "Woody (Toy Story)",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5478,12 +5768,13 @@
       "imagenes": [
         "/uploads/3c85b006-93b4-4c45-84bd-6adad629dddc.webp"
       ],
-      "creado": "2026-09-28T21:38:18.533Z"
+      "creado": "2026-09-28T21:38:18.533Z",
+      "actualizado": "2026-09-28T22:56:03.137Z"
     },
     {
       "id": "df44afd5-5a4d-42ed-bc68-6507eee52b24",
       "nombre": "La Máscara traje amarillo",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5495,12 +5786,13 @@
         "/uploads/22a66bb9-f4b3-48c3-9cf4-6e601649efdb.webp",
         "/uploads/327340c9-9dd5-403e-b108-b804fecb96ad.webp"
       ],
-      "creado": "2026-09-28T21:38:18.527Z"
+      "creado": "2026-09-28T21:38:18.527Z",
+      "actualizado": "2026-09-28T22:56:03.141Z"
     },
     {
       "id": "f883a8dd-0c98-4930-b775-b70da66ab8e4",
       "nombre": "Mario Bros",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5511,12 +5803,13 @@
       "imagenes": [
         "/uploads/b9fb234b-790d-4671-9b43-400f135cc897.webp"
       ],
-      "creado": "2026-09-28T21:38:18.520Z"
+      "creado": "2026-09-28T21:38:18.520Z",
+      "actualizado": "2026-09-28T22:56:03.145Z"
     },
     {
       "id": "3ac1049e-eb55-4d5c-b3f3-f5eaebb1e767",
       "nombre": "Luigi",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5527,12 +5820,13 @@
       "imagenes": [
         "/uploads/4227a176-450a-4d0f-a7ad-c903e8dee10b.webp"
       ],
-      "creado": "2026-09-28T21:38:18.515Z"
+      "creado": "2026-09-28T21:38:18.515Z",
+      "actualizado": "2026-09-28T22:56:03.148Z"
     },
     {
       "id": "d854b5ba-933a-4644-b9c8-fcd3461d4f5e",
       "nombre": "Mario mujer",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5543,12 +5837,13 @@
       "imagenes": [
         "/uploads/f0c342fb-e8d1-4f2e-89a9-0d74733dbd4e.webp"
       ],
-      "creado": "2026-09-28T21:38:18.510Z"
+      "creado": "2026-09-28T21:38:18.510Z",
+      "actualizado": "2026-09-28T22:56:03.151Z"
     },
     {
       "id": "90908599-7aed-423c-9d17-f65bf916a5a2",
       "nombre": "Luigi mujer",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5559,7 +5854,8 @@
       "imagenes": [
         "/uploads/1975f684-d2e1-46b0-be99-90c337d8b4b0.webp"
       ],
-      "creado": "2026-09-28T21:38:18.506Z"
+      "creado": "2026-09-28T21:38:18.506Z",
+      "actualizado": "2026-09-28T22:56:03.155Z"
     },
     {
       "id": "68dee444-f5e6-4b22-ae4b-c0bc174f1bce",
@@ -5612,7 +5908,7 @@
     {
       "id": "d80ab5f7-2070-45a7-90eb-d96eb572525b",
       "nombre": "Michael Jackson Thriller",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5623,12 +5919,13 @@
       "imagenes": [
         "/uploads/bf212bde-f16f-4282-9247-92f4a2a13493.webp"
       ],
-      "creado": "2026-09-28T21:38:18.468Z"
+      "creado": "2026-09-28T21:38:18.468Z",
+      "actualizado": "2026-09-28T22:56:03.159Z"
     },
     {
       "id": "baf9aac1-cc7f-4786-8559-432428f68aad",
       "nombre": "Michael Jackson plateado",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5639,12 +5936,13 @@
       "imagenes": [
         "/uploads/65b451c0-6a7d-4ae8-a12f-b30b7d59ce9b.webp"
       ],
-      "creado": "2026-09-28T21:38:18.454Z"
+      "creado": "2026-09-28T21:38:18.454Z",
+      "actualizado": "2026-09-28T22:56:03.162Z"
     },
     {
       "id": "913c206e-70e1-4715-9680-f98cce659198",
       "nombre": "Mal (Descendientes)",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5655,7 +5953,8 @@
       "imagenes": [
         "/uploads/74bd56e2-d3c9-42c5-9442-b450bf44d01e.webp"
       ],
-      "creado": "2026-09-28T21:38:18.450Z"
+      "creado": "2026-09-28T21:38:18.450Z",
+      "actualizado": "2026-09-28T22:56:03.166Z"
     },
     {
       "id": "c8d7bf02-b8a9-4156-8b9e-e1763408c7f1",
@@ -5756,7 +6055,7 @@
     {
       "id": "fc57d35f-f56c-4763-b31e-b6072ec22a7f",
       "nombre": "La Máscara rumbera (camisa azul)",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5767,7 +6066,8 @@
       "imagenes": [
         "/uploads/47a361c8-7767-43d2-a747-a673f09f4938.webp"
       ],
-      "creado": "2026-09-28T21:38:09.640Z"
+      "creado": "2026-09-28T21:38:09.640Z",
+      "actualizado": "2026-09-28T22:56:03.169Z"
     },
     {
       "id": "e22185f2-9f26-4990-b6df-90ab284c2cc7",
@@ -5788,7 +6088,7 @@
     {
       "id": "d4cd2e42-418a-4dcd-b567-e4a850081a8c",
       "nombre": "Maléfica corta",
-      "categoria": "halloween-sexy",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5799,7 +6099,8 @@
       "imagenes": [
         "/uploads/4bc44e1c-3ed0-4cd8-848b-920c9d55f201.webp"
       ],
-      "creado": "2026-09-28T21:38:09.616Z"
+      "creado": "2026-09-28T21:38:09.616Z",
+      "actualizado": "2026-09-28T22:56:03.173Z"
     },
     {
       "id": "4a166f02-9f8a-4819-96e6-9e001c3c2242",
@@ -5884,7 +6185,7 @@
     {
       "id": "eb4ad9b5-c312-40d6-99ba-e089e79fab89",
       "nombre": "Reina de Corazones",
-      "categoria": "halloween-sexy",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5895,12 +6196,13 @@
       "imagenes": [
         "/uploads/d7ac096c-fb01-47bf-aeaa-120ddcc10c8d.webp"
       ],
-      "creado": "2026-09-28T21:38:09.587Z"
+      "creado": "2026-09-28T21:38:09.587Z",
+      "actualizado": "2026-09-28T22:56:03.177Z"
     },
     {
       "id": "ec1025b1-bf72-4425-99e5-98257b2aef59",
       "nombre": "Mimo con overol",
-      "categoria": "dalinas-arlequines-payasos",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5911,12 +6213,13 @@
       "imagenes": [
         "/uploads/bbc360dd-246c-4c3b-b809-7e92f1308735.webp"
       ],
-      "creado": "2026-09-28T21:38:09.582Z"
+      "creado": "2026-09-28T21:38:09.582Z",
+      "actualizado": "2026-09-28T22:56:03.180Z"
     },
     {
       "id": "e937d8bb-f001-45ce-873d-f8fe7537b9d7",
       "nombre": "Barbie vestido de cuadros",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5927,7 +6230,8 @@
       "imagenes": [
         "/uploads/f474c049-5188-4f56-82ee-58e4d900f447.webp"
       ],
-      "creado": "2026-09-28T21:38:09.578Z"
+      "creado": "2026-09-28T21:38:09.578Z",
+      "actualizado": "2026-09-28T22:56:03.183Z"
     },
     {
       "id": "2ce5fa20-d4a9-4fe8-89f6-b029d4862222",
@@ -5948,7 +6252,7 @@
     {
       "id": "a7f27121-dbab-4ab0-bb3f-193dfbf5c3e2",
       "nombre": "Moana",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5959,12 +6263,13 @@
       "imagenes": [
         "/uploads/093dd326-9257-4128-845f-4217ef9a3c8a.webp"
       ],
-      "creado": "2026-09-28T21:38:09.570Z"
+      "creado": "2026-09-28T21:38:09.570Z",
+      "actualizado": "2026-09-28T22:56:03.186Z"
     },
     {
       "id": "6f2750b4-4463-436a-9d76-9de7b61d951d",
       "nombre": "Cazafantasmas",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5975,12 +6280,13 @@
       "imagenes": [
         "/uploads/71c71cb8-091d-486e-abd3-3b245826ef82.webp"
       ],
-      "creado": "2026-09-28T21:38:09.563Z"
+      "creado": "2026-09-28T21:38:09.563Z",
+      "actualizado": "2026-09-28T22:56:03.190Z"
     },
     {
       "id": "32a88d29-668a-4c76-ba1f-a0ef056ab7d2",
       "nombre": "La Casa de Papel",
-      "categoria": "personajes-y-peliculas",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -5991,7 +6297,8 @@
       "imagenes": [
         "/uploads/916bcda7-3915-4efc-9481-34c225fa24ba.webp"
       ],
-      "creado": "2026-09-28T21:38:09.559Z"
+      "creado": "2026-09-28T21:38:09.559Z",
+      "actualizado": "2026-09-28T22:56:03.194Z"
     },
     {
       "id": "40508ea1-b72a-40d8-8500-65d4426258a6",
@@ -6140,7 +6447,7 @@
     {
       "id": "71d34b30-a064-446f-b21c-44ce27391c55",
       "nombre": "Pirata mujer",
-      "categoria": "halloween-sexy",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -6151,7 +6458,8 @@
       "imagenes": [
         "/uploads/adba772f-d2f7-4345-bd94-5ef6ebedd9a3.webp"
       ],
-      "creado": "2026-09-28T21:38:09.512Z"
+      "creado": "2026-09-28T21:38:09.512Z",
+      "actualizado": "2026-09-28T22:56:03.197Z"
     },
     {
       "id": "160d9428-c311-4fa4-a22f-943328c1db4e",
@@ -6252,7 +6560,7 @@
     {
       "id": "4682210f-0170-476f-a32b-d21789224212",
       "nombre": "Poncho blanco con pañuelo rojo",
-      "categoria": "danzas-tipicas-del-peru",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -6263,12 +6571,13 @@
       "imagenes": [
         "/uploads/82586387-34c9-4c80-979a-af45493cea85.webp"
       ],
-      "creado": "2026-09-28T21:38:09.474Z"
+      "creado": "2026-09-28T21:38:09.474Z",
+      "actualizado": "2026-09-28T22:56:03.200Z"
     },
     {
       "id": "ddfe7daf-5969-49e8-be90-ae46760a4689",
       "nombre": "Campesina blusa blanca y falda fucsia",
-      "categoria": "danzas-tipicas-del-peru",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -6279,7 +6588,8 @@
       "imagenes": [
         "/uploads/cd8e33c6-739d-4885-85d5-1a78ad317c44.webp"
       ],
-      "creado": "2026-09-28T21:38:09.470Z"
+      "creado": "2026-09-28T21:38:09.470Z",
+      "actualizado": "2026-09-28T22:56:03.204Z"
     },
     {
       "id": "0372e219-5495-4227-b565-95f415077081",
@@ -6300,7 +6610,7 @@
     {
       "id": "acd0fd3e-b1e0-4a8b-a159-c66cdbed5523",
       "nombre": "Traje típico chaleco negro (varón)",
-      "categoria": "danzas-tipicas-del-peru",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -6311,12 +6621,13 @@
       "imagenes": [
         "/uploads/568f131e-b371-44a5-aaef-a9bebf092cdd.webp"
       ],
-      "creado": "2026-09-28T21:38:09.461Z"
+      "creado": "2026-09-28T21:38:09.461Z",
+      "actualizado": "2026-09-28T22:56:03.232Z"
     },
     {
       "id": "a4ece41b-d693-490b-8768-ec52b4373e2f",
       "nombre": "Campesina blusa amarilla",
-      "categoria": "danzas-tipicas-del-peru",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -6327,12 +6638,13 @@
       "imagenes": [
         "/uploads/56f8ea5f-e542-49e4-97f0-2395fb98e801.webp"
       ],
-      "creado": "2026-09-28T21:38:09.456Z"
+      "creado": "2026-09-28T21:38:09.456Z",
+      "actualizado": "2026-09-28T22:56:03.237Z"
     },
     {
       "id": "2bacf465-2cdc-4fbc-829a-6c38ba40613b",
       "nombre": "Poncho marrón con sombrero de paja",
-      "categoria": "danzas-tipicas-del-peru",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -6343,12 +6655,13 @@
       "imagenes": [
         "/uploads/3833149f-5c3c-4301-93fa-88054b2d2bbf.webp"
       ],
-      "creado": "2026-09-28T21:38:09.451Z"
+      "creado": "2026-09-28T21:38:09.451Z",
+      "actualizado": "2026-09-28T22:56:03.246Z"
     },
     {
       "id": "fb18aeee-e4b4-4156-be5b-83117464a2f2",
       "nombre": "Campesina blusa azul con faja",
-      "categoria": "danzas-tipicas-del-peru",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -6359,12 +6672,13 @@
       "imagenes": [
         "/uploads/2f350774-f3eb-4274-8182-467cbdad2d2f.webp"
       ],
-      "creado": "2026-09-28T21:38:09.445Z"
+      "creado": "2026-09-28T21:38:09.445Z",
+      "actualizado": "2026-09-28T22:56:03.251Z"
     },
     {
       "id": "26ee4e2d-23fc-4353-a29e-9e32f2adb208",
       "nombre": "Pastor andino con awayo",
-      "categoria": "danzas-tipicas-del-peru",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -6375,12 +6689,13 @@
       "imagenes": [
         "/uploads/87bb17e9-9db9-4545-b803-5ad35f5bf330.webp"
       ],
-      "creado": "2026-09-28T21:38:09.440Z"
+      "creado": "2026-09-28T21:38:09.440Z",
+      "actualizado": "2026-09-28T22:56:03.255Z"
     },
     {
       "id": "327a0972-b8c4-470d-8dbb-728b44cc5b80",
       "nombre": "Cusqueña con manta bordada",
-      "categoria": "danzas-tipicas-del-peru",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -6391,7 +6706,8 @@
       "imagenes": [
         "/uploads/45bf51b8-3499-4cbf-8499-ad8cb0f5d414.webp"
       ],
-      "creado": "2026-09-28T21:38:09.437Z"
+      "creado": "2026-09-28T21:38:09.437Z",
+      "actualizado": "2026-09-28T22:56:03.260Z"
     },
     {
       "id": "f4960bec-7e44-4618-acb6-6f4c2ba60fc8",
@@ -6412,7 +6728,7 @@
     {
       "id": "26f466b3-bd95-483f-872a-947f6dc089aa",
       "nombre": "Traje negro con dorado (varón)",
-      "categoria": "danzas-tipicas-del-peru",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -6423,12 +6739,13 @@
       "imagenes": [
         "/uploads/22e09e4b-3b32-4f22-8a75-b0adeb6d0c22.webp"
       ],
-      "creado": "2026-09-28T21:38:09.429Z"
+      "creado": "2026-09-28T21:38:09.429Z",
+      "actualizado": "2026-09-28T22:56:03.265Z"
     },
     {
       "id": "72ff3b71-9235-4c06-9f9c-7dbf7c96023b",
       "nombre": "Traje negro con dorado (mujer)",
-      "categoria": "danzas-tipicas-del-peru",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -6439,7 +6756,8 @@
       "imagenes": [
         "/uploads/2ec2fe68-ae18-4240-920b-533089b2404e.webp"
       ],
-      "creado": "2026-09-28T21:38:09.423Z"
+      "creado": "2026-09-28T21:38:09.423Z",
+      "actualizado": "2026-09-28T22:56:03.268Z"
     },
     {
       "id": "e173e75d-2df3-419d-921c-184e4467d321",
@@ -6476,7 +6794,7 @@
     {
       "id": "675bb3b2-adbe-4884-a58d-feb3caac7f49",
       "nombre": "Cusqueño con chullo y chaleco rojo",
-      "categoria": "danzas-tipicas-del-peru",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -6487,12 +6805,13 @@
       "imagenes": [
         "/uploads/4f9c1488-21f5-4f1d-ace8-a2ce11e7069d.webp"
       ],
-      "creado": "2026-09-28T21:38:09.400Z"
+      "creado": "2026-09-28T21:38:09.400Z",
+      "actualizado": "2026-09-28T22:56:03.273Z"
     },
     {
       "id": "1970029f-a2b1-4a32-a19a-c3a34d534c70",
       "nombre": "Cusqueña roja con pompones",
-      "categoria": "danzas-tipicas-del-peru",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -6503,12 +6822,13 @@
       "imagenes": [
         "/uploads/af5ce07e-0767-4afc-9906-c2006cfc37cf.webp"
       ],
-      "creado": "2026-09-28T21:38:09.385Z"
+      "creado": "2026-09-28T21:38:09.385Z",
+      "actualizado": "2026-09-28T22:56:03.277Z"
     },
     {
       "id": "3037c4e6-548f-4e68-8a5c-758419a57c71",
       "nombre": "Traje chaleco negro bordado",
-      "categoria": "danzas-tipicas-del-peru",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -6519,12 +6839,13 @@
       "imagenes": [
         "/uploads/3a8875fb-f6d0-41a7-9efe-7a16be1ff1db.webp"
       ],
-      "creado": "2026-09-28T21:38:09.381Z"
+      "creado": "2026-09-28T21:38:09.381Z",
+      "actualizado": "2026-09-28T22:56:03.281Z"
     },
     {
       "id": "048d69bb-c5b9-4898-87f1-e4d72fc93831",
       "nombre": "Pastora con falda verde bordada",
-      "categoria": "danzas-tipicas-del-peru",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -6535,12 +6856,13 @@
       "imagenes": [
         "/uploads/c436e794-7344-4326-982f-142047d0e107.webp"
       ],
-      "creado": "2026-09-28T21:38:09.376Z"
+      "creado": "2026-09-28T21:38:09.376Z",
+      "actualizado": "2026-09-28T22:56:03.286Z"
     },
     {
       "id": "64a5f749-5b77-48aa-9150-11bbbd526880",
       "nombre": "Shipibo (varón)",
-      "categoria": "danzas-tipicas-del-peru",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -6551,12 +6873,13 @@
       "imagenes": [
         "/uploads/fa7e5547-4feb-42c7-b42d-19950f54f79a.webp"
       ],
-      "creado": "2026-09-28T21:38:09.371Z"
+      "creado": "2026-09-28T21:38:09.371Z",
+      "actualizado": "2026-09-28T22:56:03.290Z"
     },
     {
       "id": "44a21df5-d7fc-4202-aa75-2fcbbcf44132",
       "nombre": "Shipibo (mujer)",
-      "categoria": "danzas-tipicas-del-peru",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -6567,12 +6890,13 @@
       "imagenes": [
         "/uploads/ba1804ef-fb1f-4708-9e09-eeed4c24e4c4.webp"
       ],
-      "creado": "2026-09-28T21:38:09.360Z"
+      "creado": "2026-09-28T21:38:09.360Z",
+      "actualizado": "2026-09-28T22:56:03.293Z"
     },
     {
       "id": "283b321e-dd5a-4952-839a-cba49e173f44",
       "nombre": "Danza amazónica lunares rojos (varón)",
-      "categoria": "danzas-tipicas-del-peru",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -6583,12 +6907,13 @@
       "imagenes": [
         "/uploads/a4cf75e4-aff3-4030-b5af-0a187f874ee8.webp"
       ],
-      "creado": "2026-09-28T21:38:09.344Z"
+      "creado": "2026-09-28T21:38:09.344Z",
+      "actualizado": "2026-09-28T22:56:03.296Z"
     },
     {
       "id": "c6a6ddb8-377b-45c4-a2d1-8faf22f3583f",
       "nombre": "Danza amazónica lunares rojos (mujer)",
-      "categoria": "danzas-tipicas-del-peru",
+      "categoria": "adultos",
       "modalidad": "ambos",
       "descripcion": "",
       "tallas": "",
@@ -6599,7 +6924,8 @@
       "imagenes": [
         "/uploads/69eb1304-f869-4556-ba23-3aa121f71c35.webp"
       ],
-      "creado": "2026-09-28T21:38:09.338Z"
+      "creado": "2026-09-28T21:38:09.338Z",
+      "actualizado": "2026-09-28T22:56:03.300Z"
     },
     {
       "id": "83821105-4fee-4a42-b38a-869240dde352",
